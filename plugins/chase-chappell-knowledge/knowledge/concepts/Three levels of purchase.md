@@ -24,4 +24,4 @@ Walk (claimed): CAC $35 → ~$565 profit over 7 months. Then **$150 CAC on a $40
 
 Cash-flow: profit shows up months later. Clothing uses drops, not a monthly bar. High-ticket one-shot attaches a consumable accessory.
 
-See `/subscription-ltv`.
+See `/teach-chase`.

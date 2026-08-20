@@ -22,4 +22,4 @@ Creative-to-spend ratio: July Happy Dad claimed +10% new ads / +131% spend → R
 
 Hyper-specific tools beat general chat. Brand-kit lock is the moat.
 
-See `/ai-creative-stack`.
+See `/teach-chase`.

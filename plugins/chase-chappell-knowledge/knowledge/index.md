@@ -7,7 +7,7 @@ verified: 2026-08-20
 
 Unofficial teaching corpus from [Chase Chappell](https://www.youtube.com/@ChaseChappell). Open **this `knowledge/` folder** as an Obsidian vault.
 
-**Agent default:** `/teach-chase` — classroom is [this video](https://youtu.be/42uhZYnyEXU?t=936) (t=9:36). Install: repo `docs/install-claude-code.md`.
+**The skill:** `/teach-chase` — classroom is [this video](https://youtu.be/42uhZYnyEXU?t=936) (t=9:36). Install: repo `docs/install-claude-code.md`.
 
 Figures are **claimed**. Watch the originals. Not affiliated.
 

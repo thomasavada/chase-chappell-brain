@@ -30,4 +30,4 @@ Watch: [If you watch one Facebook Ad video](https://youtu.be/42uhZYnyEXU) — cl
 | High request + low sales | No GPM screen | Pre/post-qualify |
 | ROAS dies on scale | Creative volume didn’t keep up | 3x spend needs ~3x unique ads; new ads in **testing** campaign |
 
-See `/diagnose-ad-account`.
+See `/teach-chase`.

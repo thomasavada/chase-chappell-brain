@@ -20,4 +20,4 @@ Claimed: 710 Hims ads / 600+ Hers. They did not win by selling pills.
 - Site answers: is this normal / does it work / is it safe / is it for me.
 - Pull toward a solution. Most brands push a product.
 
-See `/hims-diagnostic`.
+See `/teach-chase`.

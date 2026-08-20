@@ -24,4 +24,4 @@ Scale: **+20% every 3–4 days** at ad-set (don’t reset learning). Past ~$200/
 
 Vertical scale breaks ROAS → creative problem → go horizontal (new unique formats).
 
-See `/run-facebook-ads`.
+See `/teach-chase`.

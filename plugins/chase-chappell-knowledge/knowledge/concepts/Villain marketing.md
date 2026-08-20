@@ -18,4 +18,4 @@ Loop: controversy → algorithm + creators → shoppable video → PDP monetizes
 
 Vs Prima: David wins army + ad volume + TTS ($3M vs $193K claimed). Prima wins cleaner PDP / higher AOV.
 
-See `/brand-stories` and `/positioning`.
+See `/teach-chase`.

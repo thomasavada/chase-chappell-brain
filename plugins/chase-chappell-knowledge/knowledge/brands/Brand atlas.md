@@ -55,4 +55,4 @@ Shorts = brand-story machine. Three levers repeat: (1) unique Meta ad volume, (2
 | Alo vs Lululemon | 2025-11-14 | [u644OIG0_nE](https://youtu.be/u644OIG0_nE) | Alo 990+ |
 | Celsius vs Alani | 2025-10-07 | [GM9Q80eR_7U](https://youtu.be/GM9Q80eR_7U) | Alani 0 Meta |
 
-See `/brand-stories`.
+See `/teach-chase`.

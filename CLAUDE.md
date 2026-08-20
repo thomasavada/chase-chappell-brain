@@ -23,7 +23,7 @@ Channel: https://www.youtube.com/@ChaseChappell — **not affiliated**.
 | `graphify-out/` | committed knowledge graph |
 | `learners/` | gitignored student workspace |
 
-**Install (Claude Code):** [`docs/install-claude-code.md`](docs/install-claude-code.md) — `/plugin marketplace add` then `/plugin install chase-chappell-knowledge@chase-chappell`. First command after install: **`/teach-chase`**.
+**Install (Claude Code):** [`docs/install-claude-code.md`](docs/install-claude-code.md) — `/plugin marketplace add` then `/plugin install chase-chappell-knowledge@chase-chappell`. The plugin ships **one skill:** **`/teach-chase`**.
 
 Open `plugins/chase-chappell-knowledge/knowledge/` as an **Obsidian vault**.
 

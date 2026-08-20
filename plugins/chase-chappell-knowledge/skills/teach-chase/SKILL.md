@@ -1,7 +1,6 @@
 ---
 name: teach-chase
-description: "Teach a Chase Chappell topic the way he teaches in If you watch one Facebook Ad video (https://youtu.be/42uhZYnyEXU): one metric combo, the student guesses, then one job. Use when the user says teach me, /teach-chase, I want to learn Facebook ads, Andromeda, TikTok Shop, subscriptions, or brand stories. Default Facebook-ads path is that video, especially t=9:36 (flat sales + high ROAS). Do NOT lecture the playbook. Do NOT invent doctrine."
-disable-model-invocation: true
+description: "The only skill in Chase Chappell Brain. Teach any Chase topic the way he teaches in If you watch one Facebook Ad video (https://youtu.be/42uhZYnyEXU): one metric combo, the student guesses, then one job. Use when the user says teach me, /teach-chase, how to run Facebook ads, why the ad account is stuck, Andromeda, TikTok Shop, subscriptions, brand stories, Hims, or which brands Chase mentioned. Default ads path is that video, especially t=9:36 (flat sales + high ROAS). Do NOT lecture the playbook. Do NOT invent doctrine."
 argument-hint: "What would you like to learn?"
 ---
 
@@ -71,11 +70,29 @@ If the topic is Facebook / Meta / “how to run ads”, **this video is the cour
 
 Start at the combo that matches their `MISSION.md`. If they have no numbers, start at **#4 (t=9:36)** — it is the lesson this brain exists to teach.
 
-Other topics (Andromeda, TTS army, Hims) still use the same classroom: one scenario, guess, one job. Reach for the matching skill after the diagnosis.
+## Topic → file
+
+This plugin has **one skill**. Doctrine lives in `knowledge/`. Read the file, then teach one scenario.
+
+| Topic | Read |
+|---|---|
+| Facebook ads / stuck account / metrics | `concepts/Chase classroom.md` + `concepts/Metric diagnosis tree.md` |
+| Campaign structure / scale | `concepts/4-campaign method.md` |
+| Andromeda / Hub / Euka / matchback | `concepts/Andromeda stack.md` |
+| What ads to make / 33% | `concepts/33 percent rule.md` |
+| TikTok Shop / affiliates | `concepts/TikTok Shop army.md` |
+| Subscriptions / LTV | `concepts/Three levels of purchase.md` |
+| Brands Chase named | `brands/Brand atlas.md` |
+| Hims / quiz | `concepts/Hims diagnostic layer.md` |
+| Positioning / villain | `concepts/Five levels of brands.md` + `concepts/Villain marketing.md` |
+| AI ads / MCP | `concepts/AI creative stack.md` |
+| A specific video | `sources/Source index.md` |
+
+Same classroom on every topic: one scenario, guess, one job.
 
 ## Every lesson (mechanics)
 
-1. Read `concepts/Metric diagnosis tree.md` (ads path) or the mapped concept. If `graphify-out/graph.json` exists, query first.
+1. Read the mapped file above. Ads path also reads `concepts/Metric diagnosis tree.md`. If repo `graphify-out/graph.json` exists, query first.
 2. Open with the scenario. **Ask. Wait.** Do not reveal the job in the same message as the question.
 3. After they guess, write `lessons/NNNN-<slug>.html`: symptom, what it is not, the job, before/after, **one** Watch URL with timestamp.
 4. Learning record only if they can restate the job in their own words.

@@ -24,4 +24,4 @@ Four layers, in order:
 
 Do not treat Hub, Euka, and indexing as three hacks. Pixel/CAPI is step 0.
 
-See `/andromeda-stack`.
+See `/teach-chase`.

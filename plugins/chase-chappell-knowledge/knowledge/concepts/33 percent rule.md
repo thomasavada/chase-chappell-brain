@@ -28,4 +28,4 @@ Keep the “ugly” 2x unaware ad. It is doing a funnel job. [[Awareness ladder]
 
 Unique = 100% different format (review vs features vs founder vs problem/solution), same brand colors/fonts.
 
-See `/33-percent-creative`.
+See `/teach-chase`.

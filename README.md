@@ -1,8 +1,8 @@
 # Chase Chappell Brain
 
-Unofficial teaching plugin for [Chase Chappell](https://www.youtube.com/@ChaseChappell). Same shape as Avada **Joy brain**: knowledge lives next to skills; the agent **reads the file** instead of guessing.
+Unofficial teaching plugin for [Chase Chappell](https://www.youtube.com/@ChaseChappell). Same shape as Avada **Joy brain**: knowledge lives next to **one skill**; the agent **reads the file** instead of guessing.
 
-**Start here:** `/teach-chase` — taught like [this video](https://youtu.be/42uhZYnyEXU?t=936): one metric combo, you guess, then one job.
+**The skill:** `/teach-chase` — like [this video](https://youtu.be/42uhZYnyEXU?t=936): one metric combo, you guess, then one job.
 
 **Not affiliated.** Numbers are *claimed*. Watch the originals. Not financial advice.
 
@@ -31,35 +31,21 @@ Then, from **any folder**:
 claude --plugin-dir ./plugins/chase-chappell-knowledge
 ```
 
-Run that from another directory (absolute path) if you want the real test — skills must work *outside* this repo.
+Run that from another directory (absolute path) if you want the real test — the skill must work *outside* this repo.
 
 | Ask | Expected |
 |---|---|
 | `/teach-chase facebook ads` | Scenario (e.g. flat sales + high ROAS), you guess, then the t=9:36 job |
-| *"Why do brands need subscriptions?"* | `subscription-ltv` |
+| *"Why do brands need subscriptions?"* | `teach-chase` → `Three levels of purchase.md` |
 | *"Write a Python reverse-string function"* | **no** Chase skill fires |
 
 ```
 /plugin list
 ```
 
-## Skills
+## What ships
 
-| Skill | Owns |
-|---|---|
-| **`teach-chase`** | **Default.** Multi-session teacher. Slash: `/teach-chase` |
-| `ask-chase` | Which skill fits |
-| `chase-chappell-brain` | Index — which note to Read |
-| `diagnose-ad-account` | Metric → one job |
-| `run-facebook-ads` | 4-campaign, scale, AOV floor |
-| `andromeda-stack` | Indexing, Hub, Euka, matchback |
-| `33-percent-creative` | Unique formats in one ad set |
-| `tiktok-shop-army` | Affiliates, GPM, request rate |
-| `subscription-ltv` | Why one-time sales cap you |
-| `brand-stories` | Roster + head-to-heads |
-| `hims-diagnostic` | Quiz, sell desire |
-| `positioning` | 5 levels, villain |
-| `ai-creative-stack` | Claude + Meta Ads MCP |
+**One skill:** `teach-chase` (slash `/teach-chase`). Everything else is notes in `knowledge/` — Andromeda, 33% rule, TTS, subscriptions, brand atlas — taught through that classroom, not as extra skills.
 
 **Knowledge (Obsidian):** open `plugins/chase-chappell-knowledge/knowledge/` as a vault.
 
@@ -73,8 +59,8 @@ Student files land in `learners/` (gitignored). `/teach-chase` always grills a m
 |---|---|
 | [`docs/install-claude-code.md`](docs/install-claude-code.md) | Claude plugin install |
 | [`CLAUDE.md`](CLAUDE.md) | invariants |
-| [`shared/RESOLVER.md`](shared/RESOLVER.md) | which task reads what |
-| `plugins/chase-chappell-knowledge/` | plugin — **`/teach-chase` first**, then doctrine skills + knowledge |
+| [`shared/RESOLVER.md`](shared/RESOLVER.md) | which topic reads which note |
+| `plugins/chase-chappell-knowledge/` | plugin — **`teach-chase`** + `knowledge/` |
 | `scripts/check-parity.mjs` | Claude↔Codex drift gate |
 
 ```

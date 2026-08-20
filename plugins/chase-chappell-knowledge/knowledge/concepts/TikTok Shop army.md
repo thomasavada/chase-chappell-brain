@@ -21,4 +21,4 @@ TTS is a **distribution ecosystem**, not a sales channel. One creator video → 
 - Affiliate-to-video **3:1–5:1**. Discord/WhatsApp army: education + announcements.
 - **Content refinery:** 0-view sample is not trash. Organic → Meta test → GMV Max → site/email.
 
-See `/tiktok-shop-army`.
+See `/teach-chase`.
