@@ -23,7 +23,7 @@ Channel: https://www.youtube.com/@ChaseChappell — **not affiliated**.
 | `graphify-out/` | committed knowledge graph |
 | `learners/` | gitignored student workspace |
 
-**Install (Claude Code):** [`docs/install-claude-code.md`](docs/install-claude-code.md) — `/plugin marketplace add` then `/plugin install chase-chappell-knowledge@chase-chappell`. Skills: **`/teach-chase`**, **`/break-down-brand`**.
+**Install:** [`docs/install-claude-code.md`](docs/install-claude-code.md) · [`docs/install-codex.md`](docs/install-codex.md) · [`docs/install-grok.md`](docs/install-grok.md). Skills: **`/teach-chase`**, **`/break-down-brand`**. Do not add a third `.grok-plugin/` marketplace — Grok reads `.claude-plugin/` (same as cmux-workflow).
 
 **Content is markdown** in `plugins/chase-chappell-knowledge/knowledge/` (playbook, concepts, 26 source cards, brand atlas). Open that folder as an **Obsidian vault**. `graphify-out/` is only a wikilink map of those files.
 

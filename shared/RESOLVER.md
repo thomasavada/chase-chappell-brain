@@ -5,7 +5,7 @@ Two skills. `teach-chase` teaches. `break-down-brand` teardowns a named brand.
 | When the user wants | Read first |
 |---|---|
 | To be taught / any Chase topic | skill `teach-chase` (classroom: one combo → guess → one job) |
-| Break down a brand like Chase | skill `break-down-brand` → `concepts/Brand breakdown.md` + `brands/Brand atlas.md` |
+| Break down a brand like Chase | skill `break-down-brand` → skeleton + atlas, **then** live Ads Library + site + rival |
 | Facebook ads / stuck account | `concepts/Chase classroom.md` + `concepts/Metric diagnosis tree.md` — [t=9:36](https://youtu.be/42uhZYnyEXU?t=936) |
 | Campaign structure / scale | `concepts/4-campaign method.md` |
 | Andromeda / matchback / Hub / Euka | `concepts/Andromeda stack.md` |

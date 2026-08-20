@@ -55,4 +55,4 @@ Examples he uses (claimed):
 - Clean PDP beating a worse army — Prima can win conversion and still lose distribution (David).
 - “Whiter teeth” / “you have hair loss” — category language. He wants the desire.
 
-`/break-down-brand` fills this table. `/teach-chase` teaches the levers.
+`/break-down-brand` fills this table **twice**: Chase's claimed row (atlas/source) and a **live** row from Ads Library + site + filings, dated. Atlas alone is not a teardown. `/teach-chase` teaches the levers.

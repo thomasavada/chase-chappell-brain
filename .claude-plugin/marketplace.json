@@ -10,8 +10,8 @@
     {
       "name": "chase-chappell-knowledge",
       "source": "./plugins/chase-chappell-knowledge",
-      "version": "0.6.0",
-      "description": "Chase Chappell knowledge. /teach-chase and /break-down-brand. Install this.",
+      "version": "0.7.0",
+      "description": "Chase Chappell knowledge. /teach-chase and /break-down-brand (Chase + live research). Install this.",
       "category": "productivity"
     }
   ]

@@ -5,17 +5,31 @@ Unofficial teaching plugin for [Chase Chappell](https://www.youtube.com/@ChaseCh
 | Command | Job |
 |---|---|
 | `/teach-chase` | Classroom like [t=9:36](https://youtu.be/42uhZYnyEXU?t=936): one metric combo, you guess, then one job |
-| `/break-down-brand Hims` | Teardown like his Shorts: not the SKU, the system |
+| `/break-down-brand Hims` | Teardown like his Shorts: Chase's system + **live** Ads Library / site / rival |
 
 **Not affiliated.** Numbers are *claimed*. Watch the originals. Not financial advice.
 
-## Install (Claude Code)
+## Install
 
-Cloning this repo does **not** install the plugin. Full guide: [`docs/install-claude-code.md`](docs/install-claude-code.md).
+Works in **Claude Code**, **Codex**, and **Grok** — one repo. Claude and Grok both read `.claude-plugin/`; Codex reads `.agents/plugins/`. Cloning does **not** install the skills.
 
 ```
+# Claude Code
 /plugin marketplace add https://github.com/thomasavada/chase-chappell-brain.git
 /plugin install chase-chappell-knowledge@chase-chappell
+```
+
+```bash
+# Codex
+codex plugin marketplace add thomasavada/chase-chappell-brain
+codex plugin add chase-chappell-knowledge@chase-chappell
+```
+
+```bash
+# Grok
+grok plugin marketplace add thomasavada/chase-chappell-brain
+grok plugin install chase-chappell-knowledge --trust
+grok plugin enable chase-chappell-knowledge
 ```
 
 Then, from **any folder**:
@@ -25,28 +39,30 @@ Then, from **any folder**:
 /break-down-brand Hims
 ```
 
-> **The `.git` suffix is required** on the marketplace URL. Without it Claude Code HTTP-GETs a file instead of `git clone`.
+Full guides: [`docs/install-claude-code.md`](docs/install-claude-code.md) · [`docs/install-codex.md`](docs/install-codex.md) · [`docs/install-grok.md`](docs/install-grok.md).
 
-**Codex:** [`docs/install-codex.md`](docs/install-codex.md).
+> **Claude Code:** the `.git` suffix is required on the marketplace URL. Without it Claude HTTP-GETs a file instead of `git clone`.
+>
+> **Grok:** plugins stay off until `enable` (or `[plugins].enabled` in `~/.grok/config.toml`). Start a new session after install.
 
 ### One session, no install
 
 ```bash
 claude --plugin-dir ./plugins/chase-chappell-knowledge
+codex --plugin-dir ./plugins/chase-chappell-knowledge
+grok plugin install ./plugins/chase-chappell-knowledge --trust
 ```
 
-Run that from another directory (absolute path) if you want the real test — the skill must work *outside* this repo.
+Run those from another directory (absolute path) if you want the real test — the skill must work *outside* this repo.
 
 | Ask | Expected |
 |---|---|
 | `/teach-chase facebook ads` or *teach me important meta ads metrics* | High CPM first (*quickest way to lower it?*) — not a Shopify-numbers quiz |
-| `/break-down-brand Hims` | Hook + ad volume + army + rival (Ads Library / atlas) |
+| `/break-down-brand Hims` | Chase hook + **two-column** proof (his claimed vs live Ads Library / filing) |
 | *My sales are flat but ROAS is high* | Then the four numbers, then t=9:36 |
 | *"Write a Python reverse-string function"* | **no** Chase skill fires |
 
-```
-/plugin list
-```
+Check: Claude `/plugin list` · Codex `codex plugin list` · Grok `grok plugin list`.
 
 ## What ships
 
@@ -75,7 +91,9 @@ Student files land in `learners/` (gitignored). `/teach-chase` always grills a m
 
 | Path | What |
 |---|---|
-| [`docs/install-claude-code.md`](docs/install-claude-code.md) | Claude plugin install |
+| [`docs/install-claude-code.md`](docs/install-claude-code.md) | Claude Code |
+| [`docs/install-codex.md`](docs/install-codex.md) | Codex |
+| [`docs/install-grok.md`](docs/install-grok.md) | Grok |
 | [`CLAUDE.md`](CLAUDE.md) | invariants |
 | [`shared/RESOLVER.md`](shared/RESOLVER.md) | which topic reads which note |
 | `plugins/chase-chappell-knowledge/` | plugin — `teach-chase` + `break-down-brand` + `knowledge/` |
