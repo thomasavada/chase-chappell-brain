@@ -1,0 +1,1847 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "Brand atlas",
+      "file_type": "document",
+      "source_file": "brands/Brand atlas.md",
+      "source_location": null,
+      "_origin": "extracted",
+      "id": "note_brand_atlas",
+      "community": 3,
+      "norm_label": "brand atlas"
+    },
+    {
+      "label": "Shorts catalog",
+      "file_type": "document",
+      "source_file": "brands/Shorts catalog.md",
+      "source_location": null,
+      "_origin": "extracted",
+      "id": "note_shorts_catalog",
+      "community": 3,
+      "norm_label": "shorts catalog"
+    },
+    {
+      "label": "33 percent rule",
+      "file_type": "document",
+      "source_file": "concepts/33 percent rule.md",
+      "source_location": null,
+      "_origin": "extracted",
+      "id": "note_33_percent_rule",
+      "community": 4,
+      "norm_label": "33 percent rule"
+    },
+    {
+      "label": "4-campaign method",
+      "file_type": "document",
+      "source_file": "concepts/4-campaign method.md",
+      "source_location": null,
+      "_origin": "extracted",
+      "id": "note_4_campaign_method",
+      "community": 0,
+      "norm_label": "4-campaign method"
+    },
+    {
+      "label": "AI creative stack",
+      "file_type": "document",
+      "source_file": "concepts/AI creative stack.md",
+      "source_location": null,
+      "_origin": "extracted",
+      "id": "note_ai_creative_stack",
+      "community": 2,
+      "norm_label": "ai creative stack"
+    },
+    {
+      "label": "Andromeda stack",
+      "file_type": "document",
+      "source_file": "concepts/Andromeda stack.md",
+      "source_location": null,
+      "_origin": "extracted",
+      "id": "note_andromeda_stack",
+      "community": 1,
+      "norm_label": "andromeda stack"
+    },
+    {
+      "label": "Awareness ladder",
+      "file_type": "document",
+      "source_file": "concepts/Awareness ladder.md",
+      "source_location": null,
+      "_origin": "extracted",
+      "id": "note_awareness_ladder",
+      "community": 4,
+      "norm_label": "awareness ladder"
+    },
+    {
+      "label": "Break-even ROAS and AOV floor",
+      "file_type": "document",
+      "source_file": "concepts/Break-even ROAS and AOV floor.md",
+      "source_location": null,
+      "_origin": "extracted",
+      "id": "note_break_even_roas_and_aov_floor",
+      "community": 0,
+      "norm_label": "break-even roas and aov floor"
+    },
+    {
+      "label": "CAPI matchback",
+      "file_type": "document",
+      "source_file": "concepts/CAPI matchback.md",
+      "source_location": null,
+      "_origin": "extracted",
+      "id": "note_capi_matchback",
+      "community": 1,
+      "norm_label": "capi matchback"
+    },
+    {
+      "label": "Five levels of brands",
+      "file_type": "document",
+      "source_file": "concepts/Five levels of brands.md",
+      "source_location": null,
+      "_origin": "extracted",
+      "id": "note_five_levels_of_brands",
+      "community": 6,
+      "norm_label": "five levels of brands"
+    },
+    {
+      "label": "Hims diagnostic layer",
+      "file_type": "document",
+      "source_file": "concepts/Hims diagnostic layer.md",
+      "source_location": null,
+      "_origin": "extracted",
+      "id": "note_hims_diagnostic_layer",
+      "community": 3,
+      "norm_label": "hims diagnostic layer"
+    },
+    {
+      "label": "Metric diagnosis tree",
+      "file_type": "document",
+      "source_file": "concepts/Metric diagnosis tree.md",
+      "source_location": null,
+      "_origin": "extracted",
+      "id": "note_metric_diagnosis_tree",
+      "community": 0,
+      "norm_label": "metric diagnosis tree"
+    },
+    {
+      "label": "Partnership Hub and Euka",
+      "file_type": "document",
+      "source_file": "concepts/Partnership Hub and Euka.md",
+      "source_location": null,
+      "_origin": "extracted",
+      "id": "note_partnership_hub_and_euka",
+      "community": 1,
+      "norm_label": "partnership hub and euka"
+    },
+    {
+      "label": "Three levels of purchase",
+      "file_type": "document",
+      "source_file": "concepts/Three levels of purchase.md",
+      "source_location": null,
+      "_origin": "extracted",
+      "id": "note_three_levels_of_purchase",
+      "community": 0,
+      "norm_label": "three levels of purchase"
+    },
+    {
+      "label": "TikTok Shop army",
+      "file_type": "document",
+      "source_file": "concepts/TikTok Shop army.md",
+      "source_location": null,
+      "_origin": "extracted",
+      "id": "note_tiktok_shop_army",
+      "community": 1,
+      "norm_label": "tiktok shop army"
+    },
+    {
+      "label": "Villain marketing",
+      "file_type": "document",
+      "source_file": "concepts/Villain marketing.md",
+      "source_location": null,
+      "_origin": "extracted",
+      "id": "note_villain_marketing",
+      "community": 3,
+      "norm_label": "villain marketing"
+    },
+    {
+      "label": "glossary",
+      "file_type": "document",
+      "source_file": "foundations/glossary.md",
+      "source_location": null,
+      "_origin": "extracted",
+      "id": "note_glossary",
+      "community": 1,
+      "norm_label": "glossary"
+    },
+    {
+      "label": "playbook",
+      "file_type": "document",
+      "source_file": "foundations/playbook.md",
+      "source_location": null,
+      "_origin": "extracted",
+      "id": "note_playbook",
+      "community": 2,
+      "norm_label": "playbook"
+    },
+    {
+      "label": "index",
+      "file_type": "document",
+      "source_file": "index.md",
+      "source_location": null,
+      "_origin": "extracted",
+      "id": "note_index",
+      "community": 1,
+      "norm_label": "index"
+    },
+    {
+      "label": "Chase Chappell - 0 to 315K TikTok Shop in 30 Days",
+      "file_type": "document",
+      "source_file": "sources/Chase Chappell - 0 to 315K TikTok Shop in 30 Days.md",
+      "source_location": null,
+      "_origin": "extracted",
+      "id": "note_chase_chappell_0_to_315k_tiktok_shop_in_30_days",
+      "community": 5,
+      "norm_label": "chase chappell - 0 to 315k tiktok shop in 30 days"
+    },
+    {
+      "label": "Chase Chappell - 10X Meta Ad Account",
+      "file_type": "document",
+      "source_file": "sources/Chase Chappell - 10X Meta Ad Account.md",
+      "source_location": null,
+      "_origin": "extracted",
+      "id": "note_chase_chappell_10x_meta_ad_account",
+      "community": 1,
+      "norm_label": "chase chappell - 10x meta ad account"
+    },
+    {
+      "label": "Chase Chappell - 13 Hour Marketing Course",
+      "file_type": "document",
+      "source_file": "sources/Chase Chappell - 13 Hour Marketing Course.md",
+      "source_location": null,
+      "_origin": "extracted",
+      "id": "note_chase_chappell_13_hour_marketing_course",
+      "community": 0,
+      "norm_label": "chase chappell - 13 hour marketing course"
+    },
+    {
+      "label": "Chase Chappell - 1460 Meta Ad Creatives Study",
+      "file_type": "document",
+      "source_file": "sources/Chase Chappell - 1460 Meta Ad Creatives Study.md",
+      "source_location": null,
+      "_origin": "extracted",
+      "id": "note_chase_chappell_1460_meta_ad_creatives_study",
+      "community": 4,
+      "norm_label": "chase chappell - 1460 meta ad creatives study"
+    },
+    {
+      "label": "Chase Chappell - 200+ AI Tools",
+      "file_type": "document",
+      "source_file": "sources/Chase Chappell - 200+ AI Tools.md",
+      "source_location": null,
+      "_origin": "extracted",
+      "id": "note_chase_chappell_200_ai_tools",
+      "community": 2,
+      "norm_label": "chase chappell - 200+ ai tools"
+    },
+    {
+      "label": "Chase Chappell - 5 Levels of Brands",
+      "file_type": "document",
+      "source_file": "sources/Chase Chappell - 5 Levels of Brands.md",
+      "source_location": null,
+      "_origin": "extracted",
+      "id": "note_chase_chappell_5_levels_of_brands",
+      "community": 6,
+      "norm_label": "chase chappell - 5 levels of brands"
+    },
+    {
+      "label": "Chase Chappell - 5 Levels of Personal Brand",
+      "file_type": "document",
+      "source_file": "sources/Chase Chappell - 5 Levels of Personal Brand.md",
+      "source_location": null,
+      "_origin": "extracted",
+      "id": "note_chase_chappell_5_levels_of_personal_brand",
+      "community": 6,
+      "norm_label": "chase chappell - 5 levels of personal brand"
+    },
+    {
+      "label": "Chase Chappell - AI Agent Automates UGC Creators",
+      "file_type": "document",
+      "source_file": "sources/Chase Chappell - AI Agent Automates UGC Creators.md",
+      "source_location": null,
+      "_origin": "extracted",
+      "id": "note_chase_chappell_ai_agent_automates_ugc_creators",
+      "community": 1,
+      "norm_label": "chase chappell - ai agent automates ugc creators"
+    },
+    {
+      "label": "Chase Chappell - AI Creative Generator One Prompt",
+      "file_type": "document",
+      "source_file": "sources/Chase Chappell - AI Creative Generator One Prompt.md",
+      "source_location": null,
+      "_origin": "extracted",
+      "id": "note_chase_chappell_ai_creative_generator_one_prompt",
+      "community": 2,
+      "norm_label": "chase chappell - ai creative generator one prompt"
+    },
+    {
+      "label": "Chase Chappell - AI UGC Avatars Look and Sound Real",
+      "file_type": "document",
+      "source_file": "sources/Chase Chappell - AI UGC Avatars Look and Sound Real.md",
+      "source_location": null,
+      "_origin": "extracted",
+      "id": "note_chase_chappell_ai_ugc_avatars_look_and_sound_real",
+      "community": 2,
+      "norm_label": "chase chappell - ai ugc avatars look and sound real"
+    },
+    {
+      "label": "Chase Chappell - Andromeda Everything Just Changed",
+      "file_type": "document",
+      "source_file": "sources/Chase Chappell - Andromeda Everything Just Changed.md",
+      "source_location": null,
+      "_origin": "extracted",
+      "id": "note_chase_chappell_andromeda_everything_just_changed",
+      "community": 1,
+      "norm_label": "chase chappell - andromeda everything just changed"
+    },
+    {
+      "label": "Chase Chappell - Bloom 17M TikTok Shop Strategy",
+      "file_type": "document",
+      "source_file": "sources/Chase Chappell - Bloom 17M TikTok Shop Strategy.md",
+      "source_location": null,
+      "_origin": "extracted",
+      "id": "note_chase_chappell_bloom_17m_tiktok_shop_strategy",
+      "community": 5,
+      "norm_label": "chase chappell - bloom 17m tiktok shop strategy"
+    },
+    {
+      "label": "Chase Chappell - Claude Changed Facebook Ads Forever",
+      "file_type": "document",
+      "source_file": "sources/Chase Chappell - Claude Changed Facebook Ads Forever.md",
+      "source_location": null,
+      "_origin": "extracted",
+      "id": "note_chase_chappell_claude_changed_facebook_ads_forever",
+      "community": 2,
+      "norm_label": "chase chappell - claude changed facebook ads forever"
+    },
+    {
+      "label": "Chase Chappell - Cloned 100 Winning Ads with AI",
+      "file_type": "document",
+      "source_file": "sources/Chase Chappell - Cloned 100 Winning Ads with AI.md",
+      "source_location": null,
+      "_origin": "extracted",
+      "id": "note_chase_chappell_cloned_100_winning_ads_with_ai",
+      "community": 2,
+      "norm_label": "chase chappell - cloned 100 winning ads with ai"
+    },
+    {
+      "label": "Chase Chappell - Copy This Facebook Ad Strategy",
+      "file_type": "document",
+      "source_file": "sources/Chase Chappell - Copy This Facebook Ad Strategy.md",
+      "source_location": null,
+      "_origin": "extracted",
+      "id": "note_chase_chappell_copy_this_facebook_ad_strategy",
+      "community": 0,
+      "norm_label": "chase chappell - copy this facebook ad strategy"
+    },
+    {
+      "label": "Chase Chappell - Dangerously Good with AI",
+      "file_type": "document",
+      "source_file": "sources/Chase Chappell - Dangerously Good with AI.md",
+      "source_location": null,
+      "_origin": "extracted",
+      "id": "note_chase_chappell_dangerously_good_with_ai",
+      "community": 2,
+      "norm_label": "chase chappell - dangerously good with ai"
+    },
+    {
+      "label": "Chase Chappell - Ecommerce Funnel They Beg to Buy",
+      "file_type": "document",
+      "source_file": "sources/Chase Chappell - Ecommerce Funnel They Beg to Buy.md",
+      "source_location": null,
+      "_origin": "extracted",
+      "id": "note_chase_chappell_ecommerce_funnel_they_beg_to_buy",
+      "community": 0,
+      "norm_label": "chase chappell - ecommerce funnel they beg to buy"
+    },
+    {
+      "label": "Chase Chappell - Facebook Ad Creatives in 2027",
+      "file_type": "document",
+      "source_file": "sources/Chase Chappell - Facebook Ad Creatives in 2027.md",
+      "source_location": null,
+      "_origin": "extracted",
+      "id": "note_chase_chappell_facebook_ad_creatives_in_2027",
+      "community": 4,
+      "norm_label": "chase chappell - facebook ad creatives in 2027"
+    },
+    {
+      "label": "Chase Chappell - Grow Any Brand 20x Faster",
+      "file_type": "document",
+      "source_file": "sources/Chase Chappell - Grow Any Brand 20x Faster.md",
+      "source_location": null,
+      "_origin": "extracted",
+      "id": "note_chase_chappell_grow_any_brand_20x_faster",
+      "community": 6,
+      "norm_label": "chase chappell - grow any brand 20x faster"
+    },
+    {
+      "label": "Chase Chappell - Hims Hers 8 Billion Brand",
+      "file_type": "document",
+      "source_file": "sources/Chase Chappell - Hims Hers 8 Billion Brand.md",
+      "source_location": null,
+      "_origin": "extracted",
+      "id": "note_chase_chappell_hims_hers_8_billion_brand",
+      "community": 3,
+      "norm_label": "chase chappell - hims hers 8 billion brand"
+    },
+    {
+      "label": "Chase Chappell - If You Watch One Facebook Ad Video",
+      "file_type": "document",
+      "source_file": "sources/Chase Chappell - If You Watch One Facebook Ad Video.md",
+      "source_location": null,
+      "_origin": "extracted",
+      "id": "note_chase_chappell_if_you_watch_one_facebook_ad_video",
+      "community": 0,
+      "norm_label": "chase chappell - if you watch one facebook ad video"
+    },
+    {
+      "label": "Chase Chappell - Meta Ad Creatives That Stop The Scroll",
+      "file_type": "document",
+      "source_file": "sources/Chase Chappell - Meta Ad Creatives That Stop The Scroll.md",
+      "source_location": null,
+      "_origin": "extracted",
+      "id": "note_chase_chappell_meta_ad_creatives_that_stop_the_scroll",
+      "community": 4,
+      "norm_label": "chase chappell - meta ad creatives that stop the scroll"
+    },
+    {
+      "label": "Chase Chappell - Meta UGC Partnership Ads Hub",
+      "file_type": "document",
+      "source_file": "sources/Chase Chappell - Meta UGC Partnership Ads Hub.md",
+      "source_location": null,
+      "_origin": "extracted",
+      "id": "note_chase_chappell_meta_ugc_partnership_ads_hub",
+      "community": 5,
+      "norm_label": "chase chappell - meta ugc partnership ads hub"
+    },
+    {
+      "label": "Chase Chappell - Scale Facebook Ads 2026",
+      "file_type": "document",
+      "source_file": "sources/Chase Chappell - Scale Facebook Ads 2026.md",
+      "source_location": null,
+      "_origin": "extracted",
+      "id": "note_chase_chappell_scale_facebook_ads_2026",
+      "community": 0,
+      "norm_label": "chase chappell - scale facebook ads 2026"
+    },
+    {
+      "label": "Chase Chappell - Sell For 8X More",
+      "file_type": "document",
+      "source_file": "sources/Chase Chappell - Sell For 8X More.md",
+      "source_location": null,
+      "_origin": "extracted",
+      "id": "note_chase_chappell_sell_for_8x_more",
+      "community": 0,
+      "norm_label": "chase chappell - sell for 8x more"
+    },
+    {
+      "label": "Chase Chappell - Villain Marketing",
+      "file_type": "document",
+      "source_file": "sources/Chase Chappell - Villain Marketing.md",
+      "source_location": null,
+      "_origin": "extracted",
+      "id": "note_chase_chappell_villain_marketing",
+      "community": 3,
+      "norm_label": "chase chappell - villain marketing"
+    },
+    {
+      "label": "Source index",
+      "file_type": "document",
+      "source_file": "sources/Source index.md",
+      "source_location": null,
+      "_origin": "extracted",
+      "id": "note_source_index",
+      "community": 5,
+      "norm_label": "source index"
+    }
+  ],
+  "links": [
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "brands/Brand atlas.md",
+      "source": "note_brand_atlas",
+      "target": "note_33_percent_rule",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "brands/Brand atlas.md",
+      "source": "note_brand_atlas",
+      "target": "note_hims_diagnostic_layer",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "brands/Brand atlas.md",
+      "source": "note_brand_atlas",
+      "target": "note_shorts_catalog",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "brands/Brand atlas.md",
+      "source": "note_brand_atlas",
+      "target": "note_villain_marketing",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "index.md",
+      "source": "note_index",
+      "target": "note_brand_atlas",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "brands/Shorts catalog.md",
+      "source": "note_shorts_catalog",
+      "target": "note_source_index",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "concepts/33 percent rule.md",
+      "source": "note_33_percent_rule",
+      "target": "note_ai_creative_stack",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "concepts/33 percent rule.md",
+      "source": "note_33_percent_rule",
+      "target": "note_andromeda_stack",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "concepts/33 percent rule.md",
+      "source": "note_33_percent_rule",
+      "target": "note_awareness_ladder",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "concepts/4-campaign method.md",
+      "source": "note_4_campaign_method",
+      "target": "note_33_percent_rule",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - 1460 Meta Ad Creatives Study.md",
+      "source": "note_chase_chappell_1460_meta_ad_creatives_study",
+      "target": "note_33_percent_rule",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - Cloned 100 Winning Ads with AI.md",
+      "source": "note_chase_chappell_cloned_100_winning_ads_with_ai",
+      "target": "note_33_percent_rule",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - Facebook Ad Creatives in 2027.md",
+      "source": "note_chase_chappell_facebook_ad_creatives_in_2027",
+      "target": "note_33_percent_rule",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - Meta Ad Creatives That Stop The Scroll.md",
+      "source": "note_chase_chappell_meta_ad_creatives_that_stop_the_scroll",
+      "target": "note_33_percent_rule",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "foundations/glossary.md",
+      "source": "note_glossary",
+      "target": "note_33_percent_rule",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "concepts/Hims diagnostic layer.md",
+      "source": "note_hims_diagnostic_layer",
+      "target": "note_33_percent_rule",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "index.md",
+      "source": "note_index",
+      "target": "note_33_percent_rule",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "foundations/playbook.md",
+      "source": "note_playbook",
+      "target": "note_33_percent_rule",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "concepts/4-campaign method.md",
+      "source": "note_4_campaign_method",
+      "target": "note_andromeda_stack",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "concepts/4-campaign method.md",
+      "source": "note_4_campaign_method",
+      "target": "note_metric_diagnosis_tree",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "concepts/AI creative stack.md",
+      "source": "note_ai_creative_stack",
+      "target": "note_4_campaign_method",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "concepts/Break-even ROAS and AOV floor.md",
+      "source": "note_break_even_roas_and_aov_floor",
+      "target": "note_4_campaign_method",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - Copy This Facebook Ad Strategy.md",
+      "source": "note_chase_chappell_copy_this_facebook_ad_strategy",
+      "target": "note_4_campaign_method",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - Scale Facebook Ads 2026.md",
+      "source": "note_chase_chappell_scale_facebook_ads_2026",
+      "target": "note_4_campaign_method",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "foundations/glossary.md",
+      "source": "note_glossary",
+      "target": "note_4_campaign_method",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "index.md",
+      "source": "note_index",
+      "target": "note_4_campaign_method",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "foundations/playbook.md",
+      "source": "note_playbook",
+      "target": "note_4_campaign_method",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - 200+ AI Tools.md",
+      "source": "note_chase_chappell_200_ai_tools",
+      "target": "note_ai_creative_stack",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - AI Creative Generator One Prompt.md",
+      "source": "note_chase_chappell_ai_creative_generator_one_prompt",
+      "target": "note_ai_creative_stack",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - AI UGC Avatars Look and Sound Real.md",
+      "source": "note_chase_chappell_ai_ugc_avatars_look_and_sound_real",
+      "target": "note_ai_creative_stack",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - Claude Changed Facebook Ads Forever.md",
+      "source": "note_chase_chappell_claude_changed_facebook_ads_forever",
+      "target": "note_ai_creative_stack",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - Cloned 100 Winning Ads with AI.md",
+      "source": "note_chase_chappell_cloned_100_winning_ads_with_ai",
+      "target": "note_ai_creative_stack",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - Dangerously Good with AI.md",
+      "source": "note_chase_chappell_dangerously_good_with_ai",
+      "target": "note_ai_creative_stack",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "index.md",
+      "source": "note_index",
+      "target": "note_ai_creative_stack",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "foundations/playbook.md",
+      "source": "note_playbook",
+      "target": "note_ai_creative_stack",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "concepts/Andromeda stack.md",
+      "source": "note_andromeda_stack",
+      "target": "note_awareness_ladder",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "concepts/Andromeda stack.md",
+      "source": "note_andromeda_stack",
+      "target": "note_capi_matchback",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "concepts/Andromeda stack.md",
+      "source": "note_andromeda_stack",
+      "target": "note_partnership_hub_and_euka",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - 10X Meta Ad Account.md",
+      "source": "note_chase_chappell_10x_meta_ad_account",
+      "target": "note_andromeda_stack",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - Andromeda Everything Just Changed.md",
+      "source": "note_chase_chappell_andromeda_everything_just_changed",
+      "target": "note_andromeda_stack",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "foundations/glossary.md",
+      "source": "note_glossary",
+      "target": "note_andromeda_stack",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "index.md",
+      "source": "note_index",
+      "target": "note_andromeda_stack",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "foundations/playbook.md",
+      "source": "note_playbook",
+      "target": "note_andromeda_stack",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - 1460 Meta Ad Creatives Study.md",
+      "source": "note_chase_chappell_1460_meta_ad_creatives_study",
+      "target": "note_awareness_ladder",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - Facebook Ad Creatives in 2027.md",
+      "source": "note_chase_chappell_facebook_ad_creatives_in_2027",
+      "target": "note_awareness_ladder",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "index.md",
+      "source": "note_index",
+      "target": "note_awareness_ladder",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "foundations/playbook.md",
+      "source": "note_playbook",
+      "target": "note_awareness_ladder",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "concepts/Break-even ROAS and AOV floor.md",
+      "source": "note_break_even_roas_and_aov_floor",
+      "target": "note_metric_diagnosis_tree",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "concepts/Break-even ROAS and AOV floor.md",
+      "source": "note_break_even_roas_and_aov_floor",
+      "target": "note_three_levels_of_purchase",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - Copy This Facebook Ad Strategy.md",
+      "source": "note_chase_chappell_copy_this_facebook_ad_strategy",
+      "target": "note_break_even_roas_and_aov_floor",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - If You Watch One Facebook Ad Video.md",
+      "source": "note_chase_chappell_if_you_watch_one_facebook_ad_video",
+      "target": "note_break_even_roas_and_aov_floor",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "index.md",
+      "source": "note_index",
+      "target": "note_break_even_roas_and_aov_floor",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "foundations/playbook.md",
+      "source": "note_playbook",
+      "target": "note_break_even_roas_and_aov_floor",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "concepts/CAPI matchback.md",
+      "source": "note_capi_matchback",
+      "target": "note_metric_diagnosis_tree",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - Andromeda Everything Just Changed.md",
+      "source": "note_chase_chappell_andromeda_everything_just_changed",
+      "target": "note_capi_matchback",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "foundations/glossary.md",
+      "source": "note_glossary",
+      "target": "note_capi_matchback",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "index.md",
+      "source": "note_index",
+      "target": "note_capi_matchback",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - 5 Levels of Brands.md",
+      "source": "note_chase_chappell_5_levels_of_brands",
+      "target": "note_five_levels_of_brands",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - 5 Levels of Personal Brand.md",
+      "source": "note_chase_chappell_5_levels_of_personal_brand",
+      "target": "note_five_levels_of_brands",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - Grow Any Brand 20x Faster.md",
+      "source": "note_chase_chappell_grow_any_brand_20x_faster",
+      "target": "note_five_levels_of_brands",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "concepts/Five levels of brands.md",
+      "source": "note_five_levels_of_brands",
+      "target": "note_hims_diagnostic_layer",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "concepts/Five levels of brands.md",
+      "source": "note_five_levels_of_brands",
+      "target": "note_villain_marketing",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "foundations/glossary.md",
+      "source": "note_glossary",
+      "target": "note_five_levels_of_brands",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "index.md",
+      "source": "note_index",
+      "target": "note_five_levels_of_brands",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "foundations/playbook.md",
+      "source": "note_playbook",
+      "target": "note_five_levels_of_brands",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - Hims Hers 8 Billion Brand.md",
+      "source": "note_chase_chappell_hims_hers_8_billion_brand",
+      "target": "note_hims_diagnostic_layer",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "foundations/glossary.md",
+      "source": "note_glossary",
+      "target": "note_hims_diagnostic_layer",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "index.md",
+      "source": "note_index",
+      "target": "note_hims_diagnostic_layer",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "foundations/playbook.md",
+      "source": "note_playbook",
+      "target": "note_hims_diagnostic_layer",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - 13 Hour Marketing Course.md",
+      "source": "note_chase_chappell_13_hour_marketing_course",
+      "target": "note_metric_diagnosis_tree",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - If You Watch One Facebook Ad Video.md",
+      "source": "note_chase_chappell_if_you_watch_one_facebook_ad_video",
+      "target": "note_metric_diagnosis_tree",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "index.md",
+      "source": "note_index",
+      "target": "note_metric_diagnosis_tree",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "concepts/Metric diagnosis tree.md",
+      "source": "note_metric_diagnosis_tree",
+      "target": "note_three_levels_of_purchase",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "foundations/playbook.md",
+      "source": "note_playbook",
+      "target": "note_metric_diagnosis_tree",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "concepts/TikTok Shop army.md",
+      "source": "note_tiktok_shop_army",
+      "target": "note_metric_diagnosis_tree",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - 10X Meta Ad Account.md",
+      "source": "note_chase_chappell_10x_meta_ad_account",
+      "target": "note_partnership_hub_and_euka",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - AI Agent Automates UGC Creators.md",
+      "source": "note_chase_chappell_ai_agent_automates_ugc_creators",
+      "target": "note_partnership_hub_and_euka",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - Meta UGC Partnership Ads Hub.md",
+      "source": "note_chase_chappell_meta_ugc_partnership_ads_hub",
+      "target": "note_partnership_hub_and_euka",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "foundations/glossary.md",
+      "source": "note_glossary",
+      "target": "note_partnership_hub_and_euka",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "index.md",
+      "source": "note_index",
+      "target": "note_partnership_hub_and_euka",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "concepts/Partnership Hub and Euka.md",
+      "source": "note_partnership_hub_and_euka",
+      "target": "note_tiktok_shop_army",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "foundations/playbook.md",
+      "source": "note_playbook",
+      "target": "note_partnership_hub_and_euka",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - Ecommerce Funnel They Beg to Buy.md",
+      "source": "note_chase_chappell_ecommerce_funnel_they_beg_to_buy",
+      "target": "note_three_levels_of_purchase",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - Sell For 8X More.md",
+      "source": "note_chase_chappell_sell_for_8x_more",
+      "target": "note_three_levels_of_purchase",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "foundations/glossary.md",
+      "source": "note_glossary",
+      "target": "note_three_levels_of_purchase",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "index.md",
+      "source": "note_index",
+      "target": "note_three_levels_of_purchase",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "foundations/playbook.md",
+      "source": "note_playbook",
+      "target": "note_three_levels_of_purchase",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - 0 to 315K TikTok Shop in 30 Days.md",
+      "source": "note_chase_chappell_0_to_315k_tiktok_shop_in_30_days",
+      "target": "note_tiktok_shop_army",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - AI Agent Automates UGC Creators.md",
+      "source": "note_chase_chappell_ai_agent_automates_ugc_creators",
+      "target": "note_tiktok_shop_army",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - Bloom 17M TikTok Shop Strategy.md",
+      "source": "note_chase_chappell_bloom_17m_tiktok_shop_strategy",
+      "target": "note_tiktok_shop_army",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "foundations/glossary.md",
+      "source": "note_glossary",
+      "target": "note_tiktok_shop_army",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "index.md",
+      "source": "note_index",
+      "target": "note_tiktok_shop_army",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "foundations/playbook.md",
+      "source": "note_playbook",
+      "target": "note_tiktok_shop_army",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - Villain Marketing.md",
+      "source": "note_chase_chappell_villain_marketing",
+      "target": "note_villain_marketing",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "foundations/glossary.md",
+      "source": "note_glossary",
+      "target": "note_villain_marketing",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "index.md",
+      "source": "note_index",
+      "target": "note_villain_marketing",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "foundations/playbook.md",
+      "source": "note_playbook",
+      "target": "note_villain_marketing",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "index.md",
+      "source": "note_index",
+      "target": "note_glossary",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - 0 to 315K TikTok Shop in 30 Days.md",
+      "source": "note_chase_chappell_0_to_315k_tiktok_shop_in_30_days",
+      "target": "note_playbook",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - 10X Meta Ad Account.md",
+      "source": "note_chase_chappell_10x_meta_ad_account",
+      "target": "note_playbook",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - 13 Hour Marketing Course.md",
+      "source": "note_chase_chappell_13_hour_marketing_course",
+      "target": "note_playbook",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - 1460 Meta Ad Creatives Study.md",
+      "source": "note_chase_chappell_1460_meta_ad_creatives_study",
+      "target": "note_playbook",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - 200+ AI Tools.md",
+      "source": "note_chase_chappell_200_ai_tools",
+      "target": "note_playbook",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - 5 Levels of Brands.md",
+      "source": "note_chase_chappell_5_levels_of_brands",
+      "target": "note_playbook",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - 5 Levels of Personal Brand.md",
+      "source": "note_chase_chappell_5_levels_of_personal_brand",
+      "target": "note_playbook",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - AI Agent Automates UGC Creators.md",
+      "source": "note_chase_chappell_ai_agent_automates_ugc_creators",
+      "target": "note_playbook",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - AI Creative Generator One Prompt.md",
+      "source": "note_chase_chappell_ai_creative_generator_one_prompt",
+      "target": "note_playbook",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - AI UGC Avatars Look and Sound Real.md",
+      "source": "note_chase_chappell_ai_ugc_avatars_look_and_sound_real",
+      "target": "note_playbook",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - Andromeda Everything Just Changed.md",
+      "source": "note_chase_chappell_andromeda_everything_just_changed",
+      "target": "note_playbook",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - Bloom 17M TikTok Shop Strategy.md",
+      "source": "note_chase_chappell_bloom_17m_tiktok_shop_strategy",
+      "target": "note_playbook",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - Claude Changed Facebook Ads Forever.md",
+      "source": "note_chase_chappell_claude_changed_facebook_ads_forever",
+      "target": "note_playbook",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - Cloned 100 Winning Ads with AI.md",
+      "source": "note_chase_chappell_cloned_100_winning_ads_with_ai",
+      "target": "note_playbook",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - Copy This Facebook Ad Strategy.md",
+      "source": "note_chase_chappell_copy_this_facebook_ad_strategy",
+      "target": "note_playbook",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - Dangerously Good with AI.md",
+      "source": "note_chase_chappell_dangerously_good_with_ai",
+      "target": "note_playbook",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - Ecommerce Funnel They Beg to Buy.md",
+      "source": "note_chase_chappell_ecommerce_funnel_they_beg_to_buy",
+      "target": "note_playbook",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - Facebook Ad Creatives in 2027.md",
+      "source": "note_chase_chappell_facebook_ad_creatives_in_2027",
+      "target": "note_playbook",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - Grow Any Brand 20x Faster.md",
+      "source": "note_chase_chappell_grow_any_brand_20x_faster",
+      "target": "note_playbook",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - Hims Hers 8 Billion Brand.md",
+      "source": "note_chase_chappell_hims_hers_8_billion_brand",
+      "target": "note_playbook",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - If You Watch One Facebook Ad Video.md",
+      "source": "note_chase_chappell_if_you_watch_one_facebook_ad_video",
+      "target": "note_playbook",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - Meta Ad Creatives That Stop The Scroll.md",
+      "source": "note_chase_chappell_meta_ad_creatives_that_stop_the_scroll",
+      "target": "note_playbook",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - Meta UGC Partnership Ads Hub.md",
+      "source": "note_chase_chappell_meta_ugc_partnership_ads_hub",
+      "target": "note_playbook",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - Scale Facebook Ads 2026.md",
+      "source": "note_chase_chappell_scale_facebook_ads_2026",
+      "target": "note_playbook",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - Sell For 8X More.md",
+      "source": "note_chase_chappell_sell_for_8x_more",
+      "target": "note_playbook",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Chase Chappell - Villain Marketing.md",
+      "source": "note_chase_chappell_villain_marketing",
+      "target": "note_playbook",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "index.md",
+      "source": "note_index",
+      "target": "note_playbook",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "foundations/playbook.md",
+      "source": "note_playbook",
+      "target": "note_source_index",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "index.md",
+      "source": "note_index",
+      "target": "note_source_index",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Source index.md",
+      "source": "note_source_index",
+      "target": "note_chase_chappell_0_to_315k_tiktok_shop_in_30_days",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Source index.md",
+      "source": "note_source_index",
+      "target": "note_chase_chappell_10x_meta_ad_account",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Source index.md",
+      "source": "note_source_index",
+      "target": "note_chase_chappell_13_hour_marketing_course",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Source index.md",
+      "source": "note_source_index",
+      "target": "note_chase_chappell_1460_meta_ad_creatives_study",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Source index.md",
+      "source": "note_source_index",
+      "target": "note_chase_chappell_200_ai_tools",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Source index.md",
+      "source": "note_source_index",
+      "target": "note_chase_chappell_5_levels_of_brands",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Source index.md",
+      "source": "note_source_index",
+      "target": "note_chase_chappell_5_levels_of_personal_brand",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Source index.md",
+      "source": "note_source_index",
+      "target": "note_chase_chappell_ai_agent_automates_ugc_creators",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Source index.md",
+      "source": "note_source_index",
+      "target": "note_chase_chappell_ai_creative_generator_one_prompt",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Source index.md",
+      "source": "note_source_index",
+      "target": "note_chase_chappell_ai_ugc_avatars_look_and_sound_real",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Source index.md",
+      "source": "note_source_index",
+      "target": "note_chase_chappell_andromeda_everything_just_changed",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Source index.md",
+      "source": "note_source_index",
+      "target": "note_chase_chappell_bloom_17m_tiktok_shop_strategy",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Source index.md",
+      "source": "note_source_index",
+      "target": "note_chase_chappell_claude_changed_facebook_ads_forever",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Source index.md",
+      "source": "note_source_index",
+      "target": "note_chase_chappell_cloned_100_winning_ads_with_ai",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Source index.md",
+      "source": "note_source_index",
+      "target": "note_chase_chappell_copy_this_facebook_ad_strategy",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Source index.md",
+      "source": "note_source_index",
+      "target": "note_chase_chappell_dangerously_good_with_ai",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Source index.md",
+      "source": "note_source_index",
+      "target": "note_chase_chappell_ecommerce_funnel_they_beg_to_buy",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Source index.md",
+      "source": "note_source_index",
+      "target": "note_chase_chappell_facebook_ad_creatives_in_2027",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Source index.md",
+      "source": "note_source_index",
+      "target": "note_chase_chappell_grow_any_brand_20x_faster",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Source index.md",
+      "source": "note_source_index",
+      "target": "note_chase_chappell_hims_hers_8_billion_brand",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Source index.md",
+      "source": "note_source_index",
+      "target": "note_chase_chappell_if_you_watch_one_facebook_ad_video",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Source index.md",
+      "source": "note_source_index",
+      "target": "note_chase_chappell_meta_ad_creatives_that_stop_the_scroll",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Source index.md",
+      "source": "note_source_index",
+      "target": "note_chase_chappell_meta_ugc_partnership_ads_hub",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Source index.md",
+      "source": "note_source_index",
+      "target": "note_chase_chappell_scale_facebook_ads_2026",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Source index.md",
+      "source": "note_source_index",
+      "target": "note_chase_chappell_sell_for_8x_more",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "_origin": "extracted",
+      "source_file": "sources/Source index.md",
+      "source": "note_source_index",
+      "target": "note_chase_chappell_villain_marketing",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": []
+}

@@ -1,0 +1,20 @@
+{
+  "search": "",
+  "showTags": true,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "colorGroups": [
+    {
+      "query": "path:concepts",
+      "color": { "a": 1, "rgb": 16750848 }
+    },
+    {
+      "query": "path:sources",
+      "color": { "a": 1, "rgb": 5431473 }
+    },
+    {
+      "query": "path:brands",
+      "color": { "a": 1, "rgb": 10233776 }
+    }
+  ]
+}

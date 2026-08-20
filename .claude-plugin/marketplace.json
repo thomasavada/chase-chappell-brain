@@ -1,0 +1,18 @@
+{
+  "name": "chase-chappell",
+  "owner": {
+    "name": "Unofficial Chase Chappell Brain"
+  },
+  "metadata": {
+    "description": "Unofficial Chase Chappell ecom teaching brain: Meta ads, Andromeda, TikTok Shop, subscriptions, brand stories."
+  },
+  "plugins": [
+    {
+      "name": "chase-chappell-knowledge",
+      "source": "./plugins/chase-chappell-knowledge",
+      "version": "0.1.0",
+      "description": "Chase Chappell knowledge plus teach-chase and doctrine skills. Install this.",
+      "category": "productivity"
+    }
+  ]
+}

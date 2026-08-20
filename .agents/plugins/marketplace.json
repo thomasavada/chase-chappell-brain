@@ -1,0 +1,20 @@
+{
+  "name": "chase-chappell",
+  "interface": {
+    "displayName": "Chase Chappell Brain"
+  },
+  "plugins": [
+    {
+      "name": "chase-chappell-knowledge",
+      "source": {
+        "source": "local",
+        "path": "./plugins/chase-chappell-knowledge"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

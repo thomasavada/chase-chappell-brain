@@ -1,0 +1,39 @@
+---
+title: Chase Chappell knowledge
+verified: 2026-08-20
+---
+
+# Chase Chappell knowledge
+
+Unofficial teaching corpus from [Chase Chappell](https://www.youtube.com/@ChaseChappell). Open **this `knowledge/` folder** as an Obsidian vault. Agent skill: `chase-chappell-brain` / `teach-chase`.
+
+Figures are **claimed**. Watch the originals. Not affiliated.
+
+## Pillars
+
+| Directory | What | Files |
+|---|---|--:|
+| `foundations/` | Playbook + glossary | 2 |
+| `concepts/` | Teachable doctrine (one idea per note) | 14 |
+| `sources/` | 26 long-form cards with Watch links | 27 |
+| `brands/` | Shorts atlas + 233-clip catalog | 2 |
+
+## Start
+
+1. [[playbook]]
+2. [[glossary]]
+3. [[Metric diagnosis tree]]
+4. [[Andromeda stack]]
+5. [[Brand atlas]]
+6. [[Source index]]
+
+## Doctrine map
+
+- Ads: [[4-campaign method]] · [[Break-even ROAS and AOV floor]] · [[CAPI matchback]]
+- Creative: [[33 percent rule]] · [[Awareness ladder]]
+- Distribution: [[TikTok Shop army]] · [[Partnership Hub and Euka]]
+- Money: [[Three levels of purchase]]
+- Brand: [[Five levels of brands]] · [[Villain marketing]] · [[Hims diagnostic layer]]
+- AI: [[AI creative stack]]
+
+Graph: repo `graphify-out/graph.html`. Skills live in `../skills/`.
