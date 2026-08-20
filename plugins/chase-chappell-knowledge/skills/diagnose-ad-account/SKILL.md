@@ -1,22 +1,23 @@
 ---
 name: diagnose-ad-account
-description: "Diagnose a Meta or Shopify ad account the Chase Chappell way: one metric combo, one meaning, one job. Use when CPM, CTR, CVR, ROAS, returning rate, ATC, or TikTok Shop request rate looks wrong, or the user says the ads are dying, sales are flat with high ROAS, or they want to run more ads. Do NOT use for creative format mix (33-percent-creative) or Andromeda indexing (andromeda-stack)."
+description: "Diagnose a Meta or Shopify account the way Chase teaches in https://youtu.be/42uhZYnyEXU: one metric combo, reject run-more-ads, one job. Use when CPM, CTR, CVR, ROAS, returning rate, ATC, or TikTok Shop request rate looks wrong, sales are flat with high ROAS (t=9:36), or they want to run more ads. Do NOT use for creative format mix (33-percent-creative) or Andromeda indexing (andromeda-stack)."
 ---
 
 # Diagnose Ad Account
 
-Knowledge lives in `${CLAUDE_PLUGIN_ROOT}/knowledge/`.
+Knowledge: `${CLAUDE_PLUGIN_ROOT}/knowledge/`. Method: [[Chase classroom]].
 
 ## STOP
 
-Before answering, **Read** `concepts/Metric diagnosis tree.md` (or the brands file if this skill says so). This map is an index, not the content. Cite one specific fact from the file. If you cannot read it, say so.
-
-Primary Watch: https://youtu.be/42uhZYnyEXU
+**Read** `concepts/Metric diagnosis tree.md` and `concepts/Chase classroom.md` before answering. Cite a timestamp on [42uhZYnyEXU](https://youtu.be/42uhZYnyEXU).
 
 ## Do
 
-1. Read `concepts/Metric diagnosis tree.md`. Ads own CPM+CTR only. Output: symptom → meaning → one job. Cite the Watch link.
-2. Tag every Chase figure **claimed**.
-3. Point at the matching `sources/` card if they want the video.
+1. Ask for the **combo** they have (spend, revenue flat?, ROAS, returning %, CTR, CPM). Missing numbers → teach the **t=9:36** combo as the example, then send them to pull Shopify returning-customer rate.
+2. Do not list the whole tree. Pick the one row that matches.
+3. Output: trap guess → meaning → **one job** → Watch timestamp.
+4. Tag Chase figures **claimed**.
 
-Completion: the user can name the job (not a list of tactics) and has a Watch link.
+Canonical: flat + high ROAS → [t=9:36](https://youtu.be/42uhZYnyEXU?t=936) → exclude past customers, first-time offer.
+
+Completion: they can name the job without saying “run more ads.”

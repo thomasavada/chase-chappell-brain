@@ -11,9 +11,9 @@ related:
 
 # Metric diagnosis tree
 
-Watch: [If you watch one Facebook Ad video](https://youtu.be/42uhZYnyEXU)
+Watch: [If you watch one Facebook Ad video](https://youtu.be/42uhZYnyEXU) — classroom: [[Chase classroom]]. Model beat **[t=9:36](https://youtu.be/42uhZYnyEXU?t=936)**.
 
-**Ads own CPM + CTR.** If those are fine and ROAS/CVR is not, do not “run more ads.”
+**Ads own CPM + CTR.** If those are fine and ROAS/CVR is not, do not “run more ads.” Each row is one lesson: trap guess → real job.
 
 | Symptom | Meaning | Job |
 |---|---|---|
@@ -21,7 +21,7 @@ Watch: [If you watch one Facebook Ad video](https://youtu.be/42uhZYnyEXU)
 | Low CTR | Creative/message not calling the right person | Unique formats, audience call-out — volume of the *same* format does not save you |
 | Good CTR+CPM, low CVR | **Site**, not ads | 3 offer bullets; 5–7 images; default sub; offer + free ship above the fold |
 | Low CVR + high AOV | Normal (e.g. $1,700 machine) | Don’t panic |
-| Flat sales + high ROAS | Ads hitting existing customers + email attributed to Meta | Exclude past buyers + list; first-time offer 15% / 30% first sub |
+| **Flat sales + high ROAS** (t=9:36) | Trap: spend more. Meaning: ~80% returning; ads + email attribution on the same people. Stuck $40K or $400K/mo | Exclude past buyers + email from acquisition. First-time objective. 15% / 30% first sub **on site and ads**. Returning → ~30% |
 | Low returning | No reason to come back | Consumable: **subscription**. Apparel: 2nd–5th hero, drops |
 | Low ROAS, rest fine | AOV | Floor **$35** |
 | ATC 8% / CVR 1% | Shipping or checkout broken | Price, drawer vs page, wallets |

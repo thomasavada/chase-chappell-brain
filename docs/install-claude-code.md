@@ -40,7 +40,7 @@ Claude must load skill `teach-chase`, grill a mission, and **Read** a file under
 
 | Ask | Expected |
 |---|---|
-| `/teach-chase facebook ads` | `teach-chase` → mission grill → `run-facebook-ads` / diagnosis tree, with a Watch link |
+| `/teach-chase facebook ads` | One combo (often flat sales + high ROAS at t=9:36), you guess, then one job — not a playbook dump |
 | *"Why do brands need subscriptions?"* | `subscription-ltv` → `Three levels of purchase.md` |
 | *"Which brands did Chase mention?"* | `brand-stories` → `Brand atlas.md` |
 | *"Write a Python function to reverse a string"* | **no** Chase skill fires |

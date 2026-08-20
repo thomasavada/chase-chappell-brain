@@ -1,47 +1,87 @@
 ---
 name: teach-chase
-description: "Teach a Chase Chappell topic over multiple sessions using this repo as a stateful classroom. Use when the user says teach me, /teach-chase, I want to learn Facebook ads, Andromeda, TikTok Shop, subscriptions, or brand stories. Ground every lesson in knowledge/ plus YouTube. Do NOT invent doctrine from training data."
+description: "Teach a Chase Chappell topic the way he teaches in If you watch one Facebook Ad video (https://youtu.be/42uhZYnyEXU): one metric combo, the student guesses, then one job. Use when the user says teach me, /teach-chase, I want to learn Facebook ads, Andromeda, TikTok Shop, subscriptions, or brand stories. Default Facebook-ads path is that video, especially t=9:36 (flat sales + high ROAS). Do NOT lecture the playbook. Do NOT invent doctrine."
 disable-model-invocation: true
 argument-hint: "What would you like to learn?"
 ---
 
 # Teach Chase
 
-Adapted from [Matt Pocock `/teach`](https://github.com/mattpocock/skills/blob/main/skills/productivity/teach/SKILL.md). Knowledge source is **this plugin**, not the web.
+Classroom = [If you watch one Facebook Ad video](https://youtu.be/42uhZYnyEXU) (`t=9:36` is the model beat). Knowledge source is **this plugin**, not training data. Matt Pocock `/teach` only supplies the *state* (`MISSION.md`, lessons, records). The *method* is Chase: scenario → guess → one job.
 
 ## Workspace
 
-Treat **cwd** as the student workspace. Prefer `./learners/` if this repo was cloned (that folder is gitignored). Files:
+Treat **cwd** as the student workspace. Prefer `./learners/` (gitignored in this repo).
 
-- `MISSION.md` — why they want this. Format: [MISSION-FORMAT.md](https://raw.githubusercontent.com/mattpocock/skills/main/skills/productivity/teach/MISSION-FORMAT.md)
-- `RESOURCES.md` — start from `${CLAUDE_PLUGIN_ROOT}/knowledge/sources/Source index.md` and the matching concept note. Add Watch URLs only.
-- `learning-records/*.md` — `0001-slug.md` when they *demonstrate* understanding
-- `lessons/*.html` — one short self-contained lesson per session
+- `MISSION.md` — why they want this (concrete: spend, ROAS, returning rate)
+- `RESOURCES.md` — Watch URLs only, start with `42uhZYnyEXU`
+- `learning-records/*.md` — only when they *diagnose a scenario correctly*
+- `lessons/*.html` — one scenario per file
 - `NOTES.md` — how they like to be taught
 
 ## First turn
 
-If `MISSION.md` is missing or vague, **grill the mission** (Matt grilling: numbered questions + your recommended answer, wait). Do not teach yet.
+If `MISSION.md` is missing, grill **metrics they already have**, not “do you want to learn ads?”
 
-Concrete over abstract: "I spend $5K/mo on Meta and ROAS dies when I scale" beats "learn Facebook ads."
+Recommended questions (Chase-shaped):
 
-## Every lesson
+1. What is spend / month, and is revenue **flat** or up?
+2. ROAS vs break-even — do they even know break-even?
+3. Returning-customer % on Shopify?
+4. CTR and CPM — are ads actually the problem?
 
-1. If repo `graphify-out/graph.json` exists, `graphify query` the topic, then Read the cited knowledge files.
-2. Otherwise Read the file in `chase-chappell-brain` quick-lookup.
-3. Reach for the matching model-invoked skill (`diagnose-ad-account`, `run-facebook-ads`, …).
-4. Teach **one** tightly scoped thing in their zone of proximal development (from `learning-records`).
-5. Write `lessons/NNNN-slug.html` — short, Tufte-plain, one win. Cite **one primary YouTube**. Equal-length quiz answers.
-6. Link the knowledge note. Remind them to ask follow-ups.
+Do not teach until those are answered or they admit they don’t have the numbers.
 
-Do not paste the whole playbook. Do not write transcripts.
+## How Chase teaches (copy this, every lesson)
 
-## Knowledge / skills / wisdom
+Watch the method: [42uhZYnyEXU](https://youtu.be/42uhZYnyEXU?t=936) from **t=9:36**.
 
-- Knowledge: `knowledge/` + the Watch URL on the source card
-- Skills: interactive quiz or a real-world checklist (break-even ROAS, 4-campaign, 33% grid)
-- Wisdom: send them to the video comments / brand Ads Library, not to invented communities
+He does **not** dump a playbook. He:
 
-## Completion of a session
+1. **Names one combo** — “flat sales, high ROAS.”
+2. **Asks what it means / what to do.** The intern guesses *spend more* / *run more ads* / *better creative*.
+3. **Kills the generic.** That guess is the trap.
+4. **Gives the real meaning + one job.** Flat + high ROAS → ads are reacquiring the same people + email attributed to Meta → exclude past customers and email from acquisition, first-time objective, 15% / 30% first-sub on **site and ads**.
+5. **Shows the before/after.** Returning 80% → ~30%, new ~70%, sales start moving. High returning is *good for the business*, bad if *ads* only hit them.
+6. **Flips the reverse.** Low returning → subscription (consumable), not “better email” as the first lever.
 
-User can do the one job the lesson named. A learning record exists only if they showed they got it — coverage is not learning.
+**One combo per lesson.** Never two. Ads own **CPM + CTR** only — if those are fine, the job is not Meta.
+
+Trap answers to reject on sight:
+
+- “Run more ads”
+- “Spend more”
+- “Need better creative” (when CTR is already fine)
+- “ROAS is high so we’re winning” (when sales are flat)
+
+## Facebook ads default curriculum
+
+If the topic is Facebook / Meta / “how to run ads”, **this video is the course.** Read `concepts/Metric diagnosis tree.md` before each lesson. Order matches the video:
+
+| # | Combo | Trap guess | Job | Watch |
+|---|---|---|---|---|
+| 1 | High CPM | Run more ads | Offer + compliance keywords (not page speed) | t=0:21 |
+| 2 | Low CTR | More of the same images | Call-out + unique formats | t=2:55 |
+| 3 | Good CTR + good CPM + low CVR | Creative / Meta | **Site.** First-load PDP | t=4:12 |
+| 4 | **Flat sales + high ROAS** | Spend more | Returning-customer fallacy. Exclude past buyers | **t=9:36** |
+| 5 | Low returning | More email | Consumable: **subscription**. Apparel: 2nd–5th hero | t=10:25 |
+| 6 | Low ROAS, rest fine | Ads | **AOV.** Floor $35 | t=13:22 |
+| 7 | TTS request 0.1% | Better listing only | Test **5** invite agents | t=15:07 |
+| 8 | ROAS dies after scale | Same 10 ads at 3x spend | 3x spend → 3x unique ads; testing campaign | t=30:09 |
+
+Start at the combo that matches their `MISSION.md`. If they have no numbers, start at **#4 (t=9:36)** — it is the lesson this brain exists to teach.
+
+Other topics (Andromeda, TTS army, Hims) still use the same classroom: one scenario, guess, one job. Reach for the matching skill after the diagnosis.
+
+## Every lesson (mechanics)
+
+1. Read `concepts/Metric diagnosis tree.md` (ads path) or the mapped concept. If `graphify-out/graph.json` exists, query first.
+2. Open with the scenario. **Ask. Wait.** Do not reveal the job in the same message as the question.
+3. After they guess, write `lessons/NNNN-<slug>.html`: symptom, what it is not, the job, before/after, **one** Watch URL with timestamp.
+4. Learning record only if they can restate the job in their own words.
+
+Do not paste the playbook. Do not write transcripts.
+
+## Completion
+
+They can name **the combo → the job** for the scenario you taught. Coverage is not learning.

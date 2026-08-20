@@ -5,4 +5,6 @@ argument-hint: "What do you want to learn?"
 
 Run skill `teach-chase` with `$ARGUMENTS` as the topic.
 
-This is the default command of Chase Chappell Brain. Do not answer from memory. Load `plugins/chase-chappell-knowledge/skills/teach-chase/SKILL.md` (or `${CLAUDE_PLUGIN_ROOT}/skills/teach-chase/SKILL.md`) and follow it: grill `MISSION.md` if missing, then teach one lesson from `knowledge/` with a Watch link.
+Teach **like Chase in** [If you watch one Facebook Ad video](https://youtu.be/42uhZYnyEXU?t=936): one metric combo, they guess, then one job. Default ads path is that video; the model beat is **t=9:36** (flat sales + high ROAS ≠ spend more).
+
+Do not lecture the playbook. Load `${CLAUDE_PLUGIN_ROOT}/skills/teach-chase/SKILL.md`.

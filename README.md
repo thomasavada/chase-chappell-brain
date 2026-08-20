@@ -2,7 +2,7 @@
 
 Unofficial teaching plugin for [Chase Chappell](https://www.youtube.com/@ChaseChappell). Same shape as Avada **Joy brain**: knowledge lives next to skills; the agent **reads the file** instead of guessing.
 
-**Start here:** `/teach-chase` — Matt Pocock-style teacher, grounded in this corpus.
+**Start here:** `/teach-chase` — taught like [this video](https://youtu.be/42uhZYnyEXU?t=936): one metric combo, you guess, then one job.
 
 **Not affiliated.** Numbers are *claimed*. Watch the originals. Not financial advice.
 
@@ -35,7 +35,7 @@ Run that from another directory (absolute path) if you want the real test — sk
 
 | Ask | Expected |
 |---|---|
-| `/teach-chase facebook ads` | `teach-chase` grills a mission, then reads `knowledge/` |
+| `/teach-chase facebook ads` | Scenario (e.g. flat sales + high ROAS), you guess, then the t=9:36 job |
 | *"Why do brands need subscriptions?"* | `subscription-ltv` |
 | *"Write a Python reverse-string function"* | **no** Chase skill fires |
 

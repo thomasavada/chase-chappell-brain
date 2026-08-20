@@ -2,7 +2,7 @@
 
 | When the user wants | Read first |
 |---|---|
-| To be taught over multiple sessions | skill `teach-chase` → grill `MISSION.md` → mapped concept |
+| To be taught over multiple sessions | skill `teach-chase` (Chase classroom: one combo → guess → one job; ads path = [42uhZYnyEXU](https://youtu.be/42uhZYnyEXU?t=936)) |
 | Which skill to use | `ask-chase` / `chase-chappell-brain` skill map |
 | How to run Facebook ads | `run-facebook-ads` → `concepts/4-campaign method.md` |
 | Why the account is stuck | `diagnose-ad-account` → `concepts/Metric diagnosis tree.md` |
