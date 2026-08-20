@@ -10,8 +10,8 @@
     {
       "name": "chase-chappell-knowledge",
       "source": "./plugins/chase-chappell-knowledge",
-      "version": "0.1.0",
-      "description": "Chase Chappell knowledge plus teach-chase and doctrine skills. Install this.",
+      "version": "0.2.0",
+      "description": "Chase Chappell knowledge. Default: /teach-chase. Install this.",
       "category": "productivity"
     }
   ]

@@ -5,7 +5,9 @@ verified: 2026-08-20
 
 # Chase Chappell knowledge
 
-Unofficial teaching corpus from [Chase Chappell](https://www.youtube.com/@ChaseChappell). Open **this `knowledge/` folder** as an Obsidian vault. Agent skill: `chase-chappell-brain` / `teach-chase`.
+Unofficial teaching corpus from [Chase Chappell](https://www.youtube.com/@ChaseChappell). Open **this `knowledge/` folder** as an Obsidian vault.
+
+**Agent default:** `/teach-chase` (install: repo `docs/install-claude-code.md`). Index skill: `chase-chappell-brain`.
 
 Figures are **claimed**. Watch the originals. Not affiliated.
 

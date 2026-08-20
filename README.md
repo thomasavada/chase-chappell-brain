@@ -1,15 +1,55 @@
 # Chase Chappell Brain
 
-Unofficial teaching plugin for [Chase Chappell](https://www.youtube.com/@ChaseChappell) (Ads Mastery). Same shape as Avada **Joy brain**: knowledge lives next to skills, the agent **reads the file** instead of guessing.
+Unofficial teaching plugin for [Chase Chappell](https://www.youtube.com/@ChaseChappell). Same shape as Avada **Joy brain**: knowledge lives next to skills; the agent **reads the file** instead of guessing.
+
+**Start here:** `/teach-chase` — Matt Pocock-style teacher, grounded in this corpus.
 
 **Not affiliated.** Numbers are *claimed*. Watch the originals. Not financial advice.
 
-## What ships
+## Install (Claude Code)
+
+Cloning this repo does **not** install the plugin. Full guide: [`docs/install-claude-code.md`](docs/install-claude-code.md).
+
+```
+/plugin marketplace add https://github.com/thomasavada/chase-chappell-brain.git
+/plugin install chase-chappell-knowledge@chase-chappell
+```
+
+Then, from **any folder**:
+
+```
+/teach-chase facebook ads
+```
+
+> **The `.git` suffix is required** on the marketplace URL. Without it Claude Code HTTP-GETs a file instead of `git clone`.
+
+**Codex:** [`docs/install-codex.md`](docs/install-codex.md).
+
+### One session, no install
+
+```bash
+claude --plugin-dir ./plugins/chase-chappell-knowledge
+```
+
+Run that from another directory (absolute path) if you want the real test — skills must work *outside* this repo.
+
+| Ask | Expected |
+|---|---|
+| `/teach-chase facebook ads` | `teach-chase` grills a mission, then reads `knowledge/` |
+| *"Why do brands need subscriptions?"* | `subscription-ltv` |
+| *"Write a Python reverse-string function"* | **no** Chase skill fires |
+
+```
+/plugin list
+```
+
+## Skills
 
 | Skill | Owns |
 |---|---|
-| `chase-chappell-brain` | Index — which note to read |
-| `teach-chase` | Matt Pocock-style teacher, grounded in this corpus |
+| **`teach-chase`** | **Default.** Multi-session teacher. Slash: `/teach-chase` |
+| `ask-chase` | Which skill fits |
+| `chase-chappell-brain` | Index — which note to Read |
 | `diagnose-ad-account` | Metric → one job |
 | `run-facebook-ads` | 4-campaign, scale, AOV floor |
 | `andromeda-stack` | Indexing, Hub, Euka, matchback |
@@ -21,30 +61,20 @@ Unofficial teaching plugin for [Chase Chappell](https://www.youtube.com/@ChaseCh
 | `positioning` | 5 levels, villain |
 | `ai-creative-stack` | Claude + Meta Ads MCP |
 
-**Knowledge:** `plugins/chase-chappell-knowledge/knowledge/` (open that folder in Obsidian).
+**Knowledge (Obsidian):** open `plugins/chase-chappell-knowledge/knowledge/` as a vault.
 
-**Graph:** `graphify-out/graph.html` — query before answering.
+**Graph:** `graphify-out/graph.html`.
 
-## Try it
-
-```bash
-git clone https://github.com/thomasavada/chase-chappell-brain
-claude --plugin-dir ./plugins/chase-chappell-knowledge
-```
-
-Then: *"Teach me how to run Facebook ads"* or *"Why do brands need subscriptions?"*
-
-Obsidian: **Open folder as vault** → `plugins/chase-chappell-knowledge/knowledge`.
-
-Student files land in `learners/` (gitignored). `/teach-chase` grills a mission first.
+Student files land in `learners/` (gitignored). `/teach-chase` always grills a mission first.
 
 ## Layout (Joy brain format)
 
 | Path | What |
 |---|---|
+| [`docs/install-claude-code.md`](docs/install-claude-code.md) | Claude plugin install |
 | [`CLAUDE.md`](CLAUDE.md) | invariants |
 | [`shared/RESOLVER.md`](shared/RESOLVER.md) | which task reads what |
-| `plugins/chase-chappell-knowledge/` | plugin — skills + knowledge |
+| `plugins/chase-chappell-knowledge/` | plugin — **`/teach-chase` first**, then doctrine skills + knowledge |
 | `scripts/check-parity.mjs` | Claude↔Codex drift gate |
 
 ```

@@ -22,7 +22,7 @@ If `graphify-out/graph.json` exists at the repo root, prefer `graphify query "<q
 
 | Question | Skill |
 |---|---|
-| Teach me X over multiple sessions | `teach-chase` |
+| **Teach me X** (default) | **`teach-chase`** — slash `/teach-chase` |
 | Which skill should I use | `ask-chase` (same map) |
 | CPM/CTR/CVR/ROAS/returning looks wrong | `diagnose-ad-account` |
 | How do I run / scale Facebook ads | `run-facebook-ads` |
