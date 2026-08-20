@@ -25,7 +25,7 @@ Channel: https://www.youtube.com/@ChaseChappell — **not affiliated**.
 
 **Install (Claude Code):** [`docs/install-claude-code.md`](docs/install-claude-code.md) — `/plugin marketplace add` then `/plugin install chase-chappell-knowledge@chase-chappell`. The plugin ships **one skill:** **`/teach-chase`**.
 
-Open `plugins/chase-chappell-knowledge/knowledge/` as an **Obsidian vault**.
+**Content is markdown** in `plugins/chase-chappell-knowledge/knowledge/` (playbook, concepts, 26 source cards, brand atlas). Open that folder as an **Obsidian vault**. `graphify-out/` is only a wikilink map of those files.
 
 ## Invariants
 

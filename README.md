@@ -45,11 +45,24 @@ Run that from another directory (absolute path) if you want the real test — th
 
 ## What ships
 
-**One skill:** `teach-chase` (slash `/teach-chase`). Everything else is notes in `knowledge/` — Andromeda, 33% rule, TTS, subscriptions, brand atlas — taught through that classroom, not as extra skills.
+**The notes are markdown** (that is the brain). Graphify did **not** replace them — `graphify-out/` is only a map of wikilinks between these files.
 
-**Knowledge (Obsidian):** open `plugins/chase-chappell-knowledge/knowledge/` as a vault.
+Browse on GitHub: [`plugins/chase-chappell-knowledge/knowledge/`](plugins/chase-chappell-knowledge/knowledge/)
 
-**Graph:** `graphify-out/graph.html`.
+| Path | What |
+|---|---|
+| [`knowledge/index.md`](plugins/chase-chappell-knowledge/knowledge/index.md) | Hub |
+| [`foundations/playbook.md`](plugins/chase-chappell-knowledge/knowledge/foundations/playbook.md) | Full synthesis |
+| [`foundations/glossary.md`](plugins/chase-chappell-knowledge/knowledge/foundations/glossary.md) | Terms |
+| [`concepts/`](plugins/chase-chappell-knowledge/knowledge/concepts/) | Doctrine (diagnosis tree, Andromeda, 33% rule, LTV, …) |
+| [`sources/`](plugins/chase-chappell-knowledge/knowledge/sources/) | 26 long-form cards + Watch links |
+| [`brands/`](plugins/chase-chappell-knowledge/knowledge/brands/) | Shorts atlas + 233-clip catalog |
+
+Obsidian: **Open folder as vault** → `plugins/chase-chappell-knowledge/knowledge/`.
+
+**One skill:** `teach-chase` (slash `/teach-chase`). It **Reads** those `.md` files and teaches like [t=9:36](https://youtu.be/42uhZYnyEXU?t=936).
+
+**Graph (optional):** [`graphify-out/graph.html`](graphify-out/graph.html) — 46 nodes / 153 EXTRACTED edges from the same markdown. Query layer, not the content.
 
 Student files land in `learners/` (gitignored). `/teach-chase` always grills a mission first.
 

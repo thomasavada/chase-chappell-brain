@@ -72,10 +72,12 @@ Then `/teach-chase`.
 
 Plugin skills are namespaced `chase-chappell-knowledge:teach-chase`. A copy in `~/.claude/skills` would show up *without* the prefix and will drift — delete the personal copy once the plugin works.
 
-## Obsidian (notes, not the plugin)
+## Obsidian (the markdown)
+
+The doctrine is **markdown**, not the graph JSON.
 
 Open folder as vault:
 
 `plugins/chase-chappell-knowledge/knowledge`
 
-Graph: repo `graphify-out/graph.html`.
+Start at `index.md`. Graph (optional map of those notes): repo `graphify-out/graph.html`.
