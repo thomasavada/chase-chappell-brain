@@ -35,7 +35,8 @@ Run that from another directory (absolute path) if you want the real test — th
 
 | Ask | Expected |
 |---|---|
-| `/teach-chase facebook ads` | Scenario (e.g. flat sales + high ROAS), you guess, then the t=9:36 job |
+| `/teach-chase facebook ads` or *teach me important meta ads metrics* | High CPM first (*quickest way to lower it?*) — not a Shopify-numbers quiz |
+| *My sales are flat but ROAS is high* | Then the four numbers, then t=9:36 |
 | *"Why do brands need subscriptions?"* | `teach-chase` → `Three levels of purchase.md` |
 | *"Write a Python reverse-string function"* | **no** Chase skill fires |
 

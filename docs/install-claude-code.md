@@ -40,7 +40,8 @@ Claude must load skill `teach-chase`, grill a mission, and **Read** a file under
 
 | Ask | Expected |
 |---|---|
-| `/teach-chase facebook ads` | One combo (often flat sales + high ROAS at t=9:36), you guess, then one job — not a playbook dump |
+| `/teach-chase` *teach me important meta ads metrics* | High CPM first — *quickest way to lower it?* — **not** a Shopify numbers quiz |
+| *My sales are flat, ROAS is high* | Then grill spend / returning % / CTR+CPM, then t=9:36 |
 | *"Why do brands need subscriptions?"* | `teach-chase` → `Three levels of purchase.md` |
 | *"Which brands did Chase mention?"* | `teach-chase` → `Brand atlas.md` |
 | *"Write a Python function to reverse a string"* | **no** Chase skill fires |

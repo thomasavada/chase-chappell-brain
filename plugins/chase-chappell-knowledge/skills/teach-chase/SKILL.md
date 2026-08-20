@@ -18,18 +18,31 @@ Treat **cwd** as the student workspace. Prefer `./learners/` (gitignored in this
 - `lessons/*.html` — one scenario per file
 - `NOTES.md` — how they like to be taught
 
-## First turn
+## First turn — two modes
 
-If `MISSION.md` is missing, grill **metrics they already have**, not “do you want to learn ads?”
+**Do not grill store numbers when they asked to *learn the metrics*.** That was a miss: `/teach-chase Teach me important meta ads metrics` must start the classroom, not ask for Shopify returning %.
 
-Recommended questions (Chase-shaped):
+Write `MISSION.md` yourself from the topic. Then teach.
 
-1. What is spend / month, and is revenue **flat** or up?
-2. ROAS vs break-even — do they even know break-even?
-3. Returning-customer % on Shopify?
-4. CTR and CPM — are ads actually the problem?
+| They said | Mode | First move |
+|---|---|---|
+| “Teach me important Meta ads metrics” / “what metrics matter” / “diagnosis tree” / “how Chase reads ads” | **Learn** | `MISSION.md` = learn the metric tree. Read `concepts/Metric diagnosis tree.md`. Start **combo #1 High CPM** like the video: *“If we have a high CPM, what’s the quickest way to lower it?”* Wait. Do **not** ask for their spend. |
+| “My ROAS is dying” / “sales are flat” / “fix my account” / they paste numbers | **Diagnose** | Grill the four numbers below, then pick the matching combo. |
+| Topic with no store (Andromeda, Hims, brands, TTS) | **Learn** | Map topic → file. One scenario. Guess. One job. |
+| `/teach-chase` with **no** topic | **Learn** | Same as metrics: start combo #1, or offer #4 (t=9:36) if they already know CPM/CTR. |
 
-Do not teach until those are answered or they admit they don’t have the numbers.
+Diagnose-only questions (skip unless Diagnose mode):
+
+1. Spend / month — revenue flat, up, or down?
+2. ROAS vs break-even?
+3. Returning-customer % on Shopify (90d)?
+4. CTR and CPM — are the ads actually the broken part?
+
+If they already answered “don’t have the numbers” or they named a **learn** topic after a diagnose grill, **stop grilling** and start the lesson.
+
+## No shell
+
+Do **not** run graphify, `ls`, or other shell on teach. **Read** `${CLAUDE_PLUGIN_ROOT}/knowledge/...` with the file tool. Write `learners/` (or cwd) with the file tool. Shell is why a second `/teach-chase` hangs on “Running 1 shell command…”.
 
 ## How Chase teaches (copy this, every lesson)
 
@@ -68,7 +81,9 @@ If the topic is Facebook / Meta / “how to run ads”, **this video is the cour
 | 7 | TTS request 0.1% | Better listing only | Test **5** invite agents | t=15:07 |
 | 8 | ROAS dies after scale | Same 10 ads at 3x spend | 3x spend → 3x unique ads; testing campaign | t=30:09 |
 
-Start at the combo that matches their `MISSION.md`. If they have no numbers, start at **#4 (t=9:36)** — it is the lesson this brain exists to teach.
+**Learn metrics:** start at **#1** (high CPM) — that is how the video starts. Do not jump to #4 unless they have flat sales + high ROAS, or they already cleared CPM/CTR.
+
+**Diagnose with no numbers:** then start at **#4 (t=9:36)**.
 
 ## Topic → file
 
@@ -92,7 +107,7 @@ Same classroom on every topic: one scenario, guess, one job.
 
 ## Every lesson (mechanics)
 
-1. Read the mapped file above. Ads path also reads `concepts/Metric diagnosis tree.md`. If repo `graphify-out/graph.json` exists, query first.
+1. Read the mapped file above. Ads path also reads `concepts/Metric diagnosis tree.md`. No graphify.
 2. Open with the scenario. **Ask. Wait.** Do not reveal the job in the same message as the question.
 3. After they guess, write `lessons/NNNN-<slug>.html`: symptom, what it is not, the job, before/after, **one** Watch URL with timestamp.
 4. Learning record only if they can restate the job in their own words.

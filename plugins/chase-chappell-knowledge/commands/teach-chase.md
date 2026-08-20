@@ -1,10 +1,12 @@
 ---
-description: "Teach a Chase Chappell topic (Facebook ads, Andromeda, TikTok Shop, subscriptions, brand stories). Grills a mission first, then one short lesson from knowledge/ plus the YouTube primary. Use this as the default entry into the brain."
+description: "Teach a Chase Chappell topic (Facebook ads, Andromeda, TikTok Shop, subscriptions, brand stories). One combo, they guess, one job. If they say teach me metrics, start the diagnosis tree — do not ask for their Shopify numbers."
 argument-hint: "What do you want to learn?"
 ---
 
 Run skill `teach-chase` with `$ARGUMENTS` as the topic.
 
-Teach **like Chase in** [If you watch one Facebook Ad video](https://youtu.be/42uhZYnyEXU?t=936): one metric combo, they guess, then one job. Default ads path is that video; the model beat is **t=9:36** (flat sales + high ROAS ≠ spend more).
+If `$ARGUMENTS` is “important meta ads metrics” / “metrics” / empty: **learn mode** — start High CPM (*what’s the quickest way to lower it?*). Do not grill spend/ROAS/returning %.
 
-This plugin has **one skill**. Do not lecture the playbook. Load `${CLAUDE_PLUGIN_ROOT}/skills/teach-chase/SKILL.md`.
+If they said *my* account is stuck: diagnose mode — then grill numbers.
+
+Teach like [42uhZYnyEXU](https://youtu.be/42uhZYnyEXU). **No shell.** Read `${CLAUDE_PLUGIN_ROOT}/skills/teach-chase/SKILL.md` then the mapped `knowledge/` file.
