@@ -15,4 +15,4 @@ If your Codex build uses `npx skills`:
 npx skills@latest add thomasavada/chase-chappell-brain
 ```
 
-There is only one skill: `teach-chase`.
+Skills: `teach-chase` and `break-down-brand`.

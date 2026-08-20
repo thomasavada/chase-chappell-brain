@@ -2,7 +2,7 @@
 
 This repo is a **plugin marketplace**, not a folder Claude auto-loads. Cloning it does **not** install the skills. Claude Code only auto-loads `.claude/skills/` inside a project. Ours live under `plugins/chase-chappell-knowledge/skills/` in marketplace format, so you must add the marketplace, then install.
 
-The first thing you run after install is **`/teach-chase`**.
+After install: **`/teach-chase`** (classroom) or **`/break-down-brand Hims`** (teardown).
 
 ## 1. Add the marketplace
 
@@ -40,6 +40,7 @@ Claude must load skill `teach-chase`, grill a mission, and **Read** a file under
 
 | Ask | Expected |
 |---|---|
+| `/break-down-brand Hims` | Hook + unique ads + army + rival from `Brand atlas.md` |
 | `/teach-chase` *teach me important meta ads metrics* | High CPM first — *quickest way to lower it?* — **not** a Shopify numbers quiz |
 | *My sales are flat, ROAS is high* | Then grill spend / returning % / CTR+CPM, then t=9:36 |
 | *"Why do brands need subscriptions?"* | `teach-chase` → `Three levels of purchase.md` |

@@ -1,8 +1,11 @@
 # Chase Chappell Brain
 
-Unofficial teaching plugin for [Chase Chappell](https://www.youtube.com/@ChaseChappell). Same shape as Avada **Joy brain**: knowledge lives next to **one skill**; the agent **reads the file** instead of guessing.
+Unofficial teaching plugin for [Chase Chappell](https://www.youtube.com/@ChaseChappell). Same shape as Avada **Joy brain**: knowledge lives next to skills; the agent **reads the file** instead of guessing.
 
-**The skill:** `/teach-chase` — like [this video](https://youtu.be/42uhZYnyEXU?t=936): one metric combo, you guess, then one job.
+| Command | Job |
+|---|---|
+| `/teach-chase` | Classroom like [t=9:36](https://youtu.be/42uhZYnyEXU?t=936): one metric combo, you guess, then one job |
+| `/break-down-brand Hims` | Teardown like his Shorts: not the SKU, the system |
 
 **Not affiliated.** Numbers are *claimed*. Watch the originals. Not financial advice.
 
@@ -19,6 +22,7 @@ Then, from **any folder**:
 
 ```
 /teach-chase facebook ads
+/break-down-brand Hims
 ```
 
 > **The `.git` suffix is required** on the marketplace URL. Without it Claude Code HTTP-GETs a file instead of `git clone`.
@@ -36,8 +40,8 @@ Run that from another directory (absolute path) if you want the real test — th
 | Ask | Expected |
 |---|---|
 | `/teach-chase facebook ads` or *teach me important meta ads metrics* | High CPM first (*quickest way to lower it?*) — not a Shopify-numbers quiz |
+| `/break-down-brand Hims` | Hook + ad volume + army + rival (Ads Library / atlas) |
 | *My sales are flat but ROAS is high* | Then the four numbers, then t=9:36 |
-| *"Why do brands need subscriptions?"* | `teach-chase` → `Three levels of purchase.md` |
 | *"Write a Python reverse-string function"* | **no** Chase skill fires |
 
 ```
@@ -61,7 +65,7 @@ Browse on GitHub: [`plugins/chase-chappell-knowledge/knowledge/`](plugins/chase-
 
 Obsidian: **Open folder as vault** → `plugins/chase-chappell-knowledge/knowledge/`.
 
-**One skill:** `teach-chase` (slash `/teach-chase`). It **Reads** those `.md` files and teaches like [t=9:36](https://youtu.be/42uhZYnyEXU?t=936).
+**Skills:** `teach-chase` (classroom) and `break-down-brand` (teardown). Both **Read** those `.md` files.
 
 **Graph (optional):** [`graphify-out/graph.html`](graphify-out/graph.html) — 46 nodes / 153 EXTRACTED edges from the same markdown. Query layer, not the content.
 
@@ -74,7 +78,7 @@ Student files land in `learners/` (gitignored). `/teach-chase` always grills a m
 | [`docs/install-claude-code.md`](docs/install-claude-code.md) | Claude plugin install |
 | [`CLAUDE.md`](CLAUDE.md) | invariants |
 | [`shared/RESOLVER.md`](shared/RESOLVER.md) | which topic reads which note |
-| `plugins/chase-chappell-knowledge/` | plugin — **`teach-chase`** + `knowledge/` |
+| `plugins/chase-chappell-knowledge/` | plugin — `teach-chase` + `break-down-brand` + `knowledge/` |
 | `scripts/check-parity.mjs` | Claude↔Codex drift gate |
 
 ```

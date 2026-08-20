@@ -7,7 +7,7 @@ verified: 2026-08-20
 
 Unofficial teaching corpus from [Chase Chappell](https://www.youtube.com/@ChaseChappell). Open **this `knowledge/` folder** as an Obsidian vault.
 
-**The skill:** `/teach-chase` — classroom is [this video](https://youtu.be/42uhZYnyEXU?t=936) (t=9:36). Install: repo `docs/install-claude-code.md`.
+**Skills:** `/teach-chase` (classroom, [t=9:36](https://youtu.be/42uhZYnyEXU?t=936)) · `/break-down-brand` ([[Brand breakdown]]). Install: repo `docs/install-claude-code.md`.
 
 Figures are **claimed**. Watch the originals. Not affiliated.
 
@@ -35,7 +35,7 @@ Figures are **claimed**. Watch the originals. Not affiliated.
 - Creative: [[33 percent rule]] · [[Awareness ladder]]
 - Distribution: [[TikTok Shop army]] · [[Partnership Hub and Euka]]
 - Money: [[Three levels of purchase]]
-- Brand: [[Five levels of brands]] · [[Villain marketing]] · [[Hims diagnostic layer]]
+- Brand: [[Brand breakdown]] · [[Five levels of brands]] · [[Villain marketing]] · [[Hims diagnostic layer]]
 - AI: [[AI creative stack]]
 
 Graph: repo `graphify-out/graph.html`. Skills live in `../skills/`.

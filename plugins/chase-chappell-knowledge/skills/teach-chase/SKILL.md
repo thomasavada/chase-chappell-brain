@@ -1,6 +1,6 @@
 ---
 name: teach-chase
-description: "The only skill in Chase Chappell Brain. Teach any Chase topic the way he teaches in If you watch one Facebook Ad video (https://youtu.be/42uhZYnyEXU): one metric combo, the student guesses, then one job. Use when the user says teach me, /teach-chase, how to run Facebook ads, why the ad account is stuck, Andromeda, TikTok Shop, subscriptions, brand stories, Hims, or which brands Chase mentioned. Default ads path is that video, especially t=9:36 (flat sales + high ROAS). Do NOT lecture the playbook. Do NOT invent doctrine."
+description: "Teach a Chase Chappell topic the way he teaches in If you watch one Facebook Ad video (https://youtu.be/42uhZYnyEXU): one metric combo, the student guesses, then one job. Use when the user says teach me, /teach-chase, how to run Facebook ads, why the ad account is stuck, Andromeda, TikTok Shop, or subscriptions. Default ads path is that video, especially t=9:36. Do NOT use to teardown a named brand (that is break-down-brand). Do NOT lecture the playbook."
 argument-hint: "What would you like to learn?"
 ---
 
@@ -87,7 +87,7 @@ If the topic is Facebook / Meta / “how to run ads”, **this video is the cour
 
 ## Topic → file
 
-This plugin has **one skill**. Doctrine lives in `knowledge/`. Read the file, then teach one scenario.
+Doctrine lives in `knowledge/`. Read the file, then teach one scenario. To teardown a **named brand**, stop and use `break-down-brand`.
 
 | Topic | Read |
 |---|---|
@@ -97,7 +97,8 @@ This plugin has **one skill**. Doctrine lives in `knowledge/`. Read the file, th
 | What ads to make / 33% | `concepts/33 percent rule.md` |
 | TikTok Shop / affiliates | `concepts/TikTok Shop army.md` |
 | Subscriptions / LTV | `concepts/Three levels of purchase.md` |
-| Brands Chase named | `brands/Brand atlas.md` |
+| Brands Chase named (learn the roster) | `brands/Brand atlas.md` |
+| Break down **this** brand like Chase | **stop — skill `break-down-brand`** |
 | Hims / quiz | `concepts/Hims diagnostic layer.md` |
 | Positioning / villain | `concepts/Five levels of brands.md` + `concepts/Villain marketing.md` |
 | AI ads / MCP | `concepts/AI creative stack.md` |
