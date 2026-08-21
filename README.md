@@ -4,8 +4,17 @@ Unofficial teaching plugin for [Chase Chappell](https://www.youtube.com/@ChaseCh
 
 | Command | Job |
 |---|---|
-| `/teach-chase` | Classroom like [t=9:36](https://youtu.be/42uhZYnyEXU?t=936): one metric combo, you guess, then one job |
-| `/break-down-brand Hims` | Teardown like his Shorts: Chase's system + **live** Ads Library / site / rival |
+| `/chase` | Router — which skill |
+| `/teach-chase` | Classroom like [t=9:36](https://youtu.be/42uhZYnyEXU?t=936): one combo, you guess, one job |
+| `/break-down-brand Hims` | Teardown: Chase's system + **live** Ads Library / site / rival |
+| `/diagnose-ad-account` | Stuck account → one combo, one job |
+| `/andromeda-stack` | Matchback → Hub → Euka → 33% fill |
+| `/run-facebook-ads` | 4-campaign + 33% + $35 AOV |
+| `/tiktok-shop-army` | Listing, request rate, GPM, army |
+| `/email-sms` | Owned come-back loop |
+| `/subscription-ltv` | L1 / L2 / L3 |
+| `/ai-creative-stack` | Claude + Meta MCP (no CBO publish) |
+| `/positioning` | 5 levels, villain, Hims desire |
 
 **Not affiliated.** Numbers are *claimed*. Watch the originals. Not financial advice.
 
@@ -35,8 +44,10 @@ grok plugin enable chase-chappell-knowledge
 Then, from **any folder**:
 
 ```
+/chase
 /teach-chase facebook ads
 /break-down-brand Hims
+/andromeda-stack
 ```
 
 Full guides: [`docs/install-claude-code.md`](docs/install-claude-code.md) · [`docs/install-codex.md`](docs/install-codex.md) · [`docs/install-grok.md`](docs/install-grok.md).
@@ -81,7 +92,7 @@ Browse on GitHub: [`plugins/chase-chappell-knowledge/knowledge/`](plugins/chase-
 
 Obsidian: **Open folder as vault** → `plugins/chase-chappell-knowledge/knowledge/`.
 
-**Skills:** `teach-chase` (classroom) and `break-down-brand` (teardown). Both **Read** those `.md` files.
+**Skills:** classroom `teach-chase` · teardown `break-down-brand` · router `ask-chase` · apply: `diagnose-ad-account`, `andromeda-stack`, `run-facebook-ads`, `tiktok-shop-army`, `email-sms`, `subscription-ltv`, `ai-creative-stack`, `positioning`. Skills **Read** those `.md` files. Doctrine is not copied into skills.
 
 **Graph (optional):** [`graphify-out/graph.html`](graphify-out/graph.html) — 46 nodes / 153 EXTRACTED edges from the same markdown. Query layer, not the content.
 

@@ -1,6 +1,6 @@
 ---
 name: teach-chase
-description: "Teach a Chase Chappell topic the way he teaches in If you watch one Facebook Ad video (https://youtu.be/42uhZYnyEXU): one metric combo, the student guesses, then one job. Use when the user says teach me, /teach-chase, how to run Facebook ads, why the ad account is stuck, Andromeda, TikTok Shop, or subscriptions. Default ads path is that video, especially t=9:36. Do NOT use to teardown a named brand (that is break-down-brand). Do NOT lecture the playbook."
+description: "Teach a Chase Chappell topic as a classroom: one metric combo, the student guesses, then one job (https://youtu.be/42uhZYnyEXU t=9:36). Use when they say teach me, /teach-chase, or want to learn the diagnosis tree. Do NOT use to apply a stack (andromeda-stack, run-facebook-ads, tiktok-shop-army, email-sms, subscription-ltv, ai-creative-stack, positioning). Do NOT diagnose a pasted account (diagnose-ad-account). Do NOT teardown a brand (break-down-brand). Do NOT lecture the playbook."
 argument-hint: "What would you like to learn?"
 ---
 
@@ -87,7 +87,7 @@ If the topic is Facebook / Meta / “how to run ads”, **this video is the cour
 
 ## Topic → file
 
-Doctrine lives in `knowledge/`. Read the file, then teach one scenario. To teardown a **named brand**, stop and use `break-down-brand`.
+Doctrine lives in `knowledge/`. Read the file, then teach one scenario. If they want a **plan/setup** not a lesson, stop and use the specialist (`andromeda-stack`, `run-facebook-ads`, …). To teardown a **named brand**, stop and use `break-down-brand`.
 
 | Topic | Read |
 |---|---|
@@ -96,7 +96,9 @@ Doctrine lives in `knowledge/`. Read the file, then teach one scenario. To teard
 | Andromeda / Hub / Euka / matchback | `concepts/Andromeda stack.md` |
 | What ads to make / 33% | `concepts/33 percent rule.md` |
 | TikTok Shop / affiliates | `concepts/TikTok Shop army.md` |
+| TikTok **ads** (paid, CTR/CPM, scenes) | `concepts/TikTok Shop army.md` — paid-ads subsection, not Shop request rate |
 | Subscriptions / LTV | `concepts/Three levels of purchase.md` |
+| Email / SMS / Klaviyo / cart flow | `concepts/Email and SMS.md` |
 | Brands Chase named (learn the roster) | `brands/Brand atlas.md` |
 | Break down **this** brand like Chase | **stop — skill `break-down-brand`** |
 | Hims / quiz | `concepts/Hims diagnostic layer.md` |

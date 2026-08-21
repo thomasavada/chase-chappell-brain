@@ -23,6 +23,7 @@ Under those: positioning ([[Five levels of brands]], [[Villain marketing]]), uni
 - **AOV floor $35.** $35 → $70 ≈ 1.2 → 2.4 ROAS with no ad change.
 - [[Three levels of purchase]]: L1 one-time profit caps you. L2 AOV still caps. L3 subscription: acquire at $50, lose $10, stay 7–12 months, ~$800 profit **claimed** — then you can spend $30K → $300K. Seven repeats ≈ **17x LTV ROAS**. CAC $150 on a $40 SKU is rational *if* L3 exists.
 - Compound CTR × CVR × AOV × sub ≈ **16x**, not 2x.
+- Owned come-back: [[Email and SMS]] so acquisition ads can exclude the list. Not a substitute for L3.
 
 ## Meta doctrine
 
@@ -65,6 +66,6 @@ Under those: positioning ([[Five levels of brands]], [[Villain marketing]]), uni
 4. TTS as distribution. Automate invite → community → refinery.
 5. Pick the industry lie. Sell belief.
 6. AI on the boring 90%. Guardrails on spend.
-7. Operator, not silo.
+7. Operator, not silo. Email/SMS is the owned loop — [[Email and SMS]] — not “more Klaviyo” when returning is already 80%.
 
 Watch: [If you watch one Facebook Ad video](https://youtu.be/42uhZYnyEXU).

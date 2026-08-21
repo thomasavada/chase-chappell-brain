@@ -6,6 +6,7 @@ title: Three levels of purchase
 related:
   - "[[Break-even ROAS and AOV floor]]"
   - "[[Metric diagnosis tree]]"
+  - "[[Email and SMS]]"
 ---
 
 # Three levels of purchase
@@ -23,5 +24,7 @@ Walk (claimed): CAC $35 → ~$565 profit over 7 months. Then **$150 CAC on a $40
 **Subscription-first** (IM8, David Protein, AG1, Grüns): break even or lose on order 1 because 2/3/4 pay. Default subscribe-and-save **on** the PDP.
 
 Cash-flow: profit shows up months later. Clothing uses drops, not a monthly bar. High-ticket one-shot attaches a consumable accessory.
+
+Email/SMS is the **owned** loop around L3, not a replacement. [[Email and SMS]]
 
 See `/teach-chase`.

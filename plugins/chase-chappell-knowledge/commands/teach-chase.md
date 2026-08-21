@@ -1,5 +1,5 @@
 ---
-description: "Teach a Chase Chappell topic (Facebook ads, Andromeda, TikTok Shop, subscriptions, brand stories). One combo, they guess, one job. If they say teach me metrics, start the diagnosis tree — do not ask for their Shopify numbers."
+description: "Classroom: one combo, they guess, one job. Teach-me only. Stack setup is /andromeda-stack /run-facebook-ads /tiktok-shop-army. Teardown is /break-down-brand."
 argument-hint: "What do you want to learn?"
 ---
 

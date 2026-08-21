@@ -11,8 +11,8 @@ drift-risk: low
 - **Date:** 2026-01-02 · ~12h
 - **Playbook:** [[playbook]]
 
-**Thesis:** Full-funnel course. Six Shopify metric scenarios. Static format library. The diagnosis tree later expands this.
+**Thesis:** Full-funnel course. Six Shopify metric scenarios (later expanded). Distil lives in concepts — **do not treat this card as a second playbook.**
 
-Related: [[Metric diagnosis tree]] · [[playbook]]
+Related: [[Metric diagnosis tree]] · [[4-campaign method]] · [[33 percent rule]] · [[TikTok Shop army]] · [[Email and SMS]] · [[playbook]]
 
 Figures in this corpus are **claimed** by Chase, not audited.

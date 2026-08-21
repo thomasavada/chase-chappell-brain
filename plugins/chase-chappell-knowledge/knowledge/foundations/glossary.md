@@ -19,6 +19,8 @@ Canonical terms. See also repo `CONTEXT.md`.
 
 **MER** — Marketing efficiency ratio: total revenue ÷ total ad spend. Use when channels overlap.
 
+**10% rule** — Model organic video at ~10% of views is the one you lift into ads / GMV Max. [[TikTok Shop army]]
+
 **Claimed** — A Chase figure (scale, ads, GMV) that this vault has not audited.
 
 ## Meta
@@ -52,5 +54,7 @@ Canonical terms. See also repo `CONTEXT.md`.
 **Positional engineering** — Win the belief before the transaction. [[Five levels of brands]]
 
 **Operator** — Funnel as one flywheel, not siloed teams.
+
+**Email/SMS backend** — Owned come-back so Meta hunts new customers. [[Email and SMS]]
 
 **Diagnostic layer** — Hims-style quiz that pulls a solution, not a product page. [[Hims diagnostic layer]]
