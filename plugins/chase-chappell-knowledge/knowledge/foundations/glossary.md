@@ -59,6 +59,8 @@ Canonical terms. See also repo `CONTEXT.md`.
 
 **Positional engineering** — Win the belief before the transaction. [[Five levels of brands]]
 
+**Hero mechanism** — Named unique *why it works when everything else hasn't*. Not a discount. [[Hero mechanism]]
+
 **Operator** — Funnel as one flywheel, not siloed teams.
 
 **Email/SMS backend** — Owned come-back so Meta hunts new customers. [[Email and SMS]]

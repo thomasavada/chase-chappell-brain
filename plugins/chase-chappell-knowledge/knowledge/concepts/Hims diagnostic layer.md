@@ -6,6 +6,7 @@ drift-risk: medium
 related:
   - "[[Five levels of brands]]"
   - "[[33 percent rule]]"
+  - "[[Hero mechanism]]"
 ---
 
 # Hims diagnostic layer
@@ -19,5 +20,7 @@ Claimed: 710 Hims ads / 600+ Hers. They did not win by selling pills.
 - Delivery mechanism (powder / gummy / gel).
 - Site answers: is this normal / does it work / is it safe / is it for me.
 - Pull toward a solution. Most brands push a product.
+
+Quiz personalizes *before* the offer. The offer still needs a named [[Hero mechanism]] — not a substitute.
 
 See `/teach-chase`.

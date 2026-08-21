@@ -7,7 +7,7 @@ title: Playbook
 
 # Chase Chappell playbook (2026)
 
-Synthesis of **30 long-form videos** (2025-10-03 → 2026-08-14) from [Chase Chappell](https://www.youtube.com/@ChaseChappell). Unofficial. Figures are **claimed**. Full cards: [[Source index]].
+Synthesis of **31 long-form videos** (2025-10-03 → 2026-08-14) from [Chase Chappell](https://www.youtube.com/@ChaseChappell). Unofficial. Figures are **claimed**. Full cards: [[Source index]].
 
 Three axes, plus the site:
 
@@ -51,6 +51,7 @@ Under those: positioning ([[Five levels of brands]], [[Villain marketing]]), uni
 
 - Five levels: Survival → Systems → Identity → Distribution → Icon. Level-1 behavior in a level-5 business destroys growth.
 - Win the industry “lie” first. Villain brands would rather be hated than ignored. [[Villain marketing]]
+- Offer = named [[Hero mechanism]] (why it works when everything else hasn't), not a bigger discount. Whoop recovery score, Rhode glazing formula.
 - Hims: 710 ads claimed, quiz, sell self-esteem/dating, not “you have hair loss.” [[Hims diagnostic layer]]
 
 ## AI
@@ -65,7 +66,7 @@ Under those: positioning ([[Five levels of brands]], [[Villain marketing]]), uni
 2. KPI = new customers at survivable ROAS. Exclude past buyers from acquisition.
 3. 33% creative engine (Flexible = same-format batches). Sweep Partnership Hub. Euka if no TTS army.
 4. TTS as distribution. Automate invite → community → refinery.
-5. Pick the industry lie. Sell belief.
+5. Pick the industry lie. Sell belief. Name the [[Hero mechanism]].
 6. AI on the boring 90%. Guardrails on spend.
 7. Operator, not silo. Email/SMS is the owned loop — [[Email and SMS]] — not “more Klaviyo” when returning is already 80%. Site leak → [[Shopify CRO]].
 

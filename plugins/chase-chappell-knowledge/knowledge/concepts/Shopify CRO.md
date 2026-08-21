@@ -34,6 +34,8 @@ Claimed Shopify average CVR **1.4%**. 4x that without extra spend (claimed: $50k
 
 Everyday Dose / Graza / Carpe as examples: hero offer visible without scroll, subscribe-and-save **on**, quantity/bundle in one view, drawer with upsells, strike-through + free-ship bar. L2 AOV still lives in [[Three levels of purchase]] — this note is the *site* that makes L2 clickable.
 
+Chase also says “hero mechanism” here for that **stack**. The *named why it works* (Whoop recovery score, Rhode glazing) lives in [[Hero mechanism]] — do not collapse.
+
 ## Owned recovery (do not duplicate)
 
 Cart sitting in Shopify + no SMS/email = leak, not an ads problem. Capture + cart beats: [[Email and SMS]]. Claimed Heights District **+$60K** month one SMS (same family as the 13h AI-SMS claim — **claimed**, not a forecast).

@@ -88,7 +88,7 @@ Browse on GitHub: [`plugins/chase-chappell-knowledge/knowledge/`](plugins/chase-
 | [`foundations/playbook.md`](plugins/chase-chappell-knowledge/knowledge/foundations/playbook.md) | Full synthesis |
 | [`foundations/glossary.md`](plugins/chase-chappell-knowledge/knowledge/foundations/glossary.md) | Terms |
 | [`concepts/`](plugins/chase-chappell-knowledge/knowledge/concepts/) | Doctrine (diagnosis tree, Andromeda, 33% rule, LTV, …) |
-| [`sources/`](plugins/chase-chappell-knowledge/knowledge/sources/) | 30 long-form cards + Watch links |
+| [`sources/`](plugins/chase-chappell-knowledge/knowledge/sources/) | 31 long-form cards + Watch links |
 | [`brands/`](plugins/chase-chappell-knowledge/knowledge/brands/) | Shorts atlas + 233-clip catalog |
 
 Obsidian: **Open folder as vault** → `plugins/chase-chappell-knowledge/knowledge/`.

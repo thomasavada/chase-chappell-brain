@@ -10,7 +10,7 @@
     {
       "name": "chase-chappell-knowledge",
       "source": "./plugins/chase-chappell-knowledge",
-      "version": "0.10.0",
+      "version": "0.11.0",
       "description": "Chase Chappell knowledge. /chase router, /teach-chase, /break-down-brand, Andromeda, Shopify CRO, TTS, email, LTV. Install this.",
       "category": "productivity"
     }

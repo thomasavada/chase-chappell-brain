@@ -6,7 +6,7 @@ verified: 2026-08-21
 
 # Source index
 
-30 long-form cards. Click **Watch**. Doctrine lives in `../concepts/`.
+31 long-form cards. Click **Watch**. Doctrine lives in `../concepts/`.
 
 | Date | Note | Watch | Thesis |
 |---|---|---|---|
@@ -39,4 +39,5 @@ verified: 2026-08-21
 | 2025-12-05 | [[Chase Chappell - Shopify Conversion Rates 2026]] | [daDsoHXE52A](https://youtu.be/daDsoHXE52A) | Claimed 1.4% avg CVR. ATC / reach checkout / complete. First-load. Home: [[Shopify CRO]]. |
 | 2025-12-01 | [[Chase Chappell - Target Facebook Ads Post-Andromeda]] | [yM8VhjU5ec8](https://youtu.be/yM8VhjU5ec8) | $30k transition. Under: interest+testing+retarget. Over: CBO/broad by product. $500k+: Advantage+ + Flexible. |
 | 2025-11-24 | [[Chase Chappell - Why ROAS Collapses After Andromeda]] | [1zTJo1ctVBQ](https://youtu.be/1zTJo1ctVBQ) | Andromeda not bad. Flexible ~10 same-format. One-campaign claimed 4x→1.8x in 7d. |
+| 2025-11-18 | [[Chase Chappell - 100M Offer on Shopify]] | [mJ57WQM_eCo](https://youtu.be/mJ57WQM_eCo) | Hero mechanism: named why it works when everything else hasn't. Not a bigger discount. |
 | 2025-10-03 | [[Chase Chappell - Andromeda Everything Just Changed]] | [ZLFWruC2iEw](https://youtu.be/ZLFWruC2iEw) | Three shifts: hierarchical indexing, Advantage+ 4-campaign, retrieval 3–4 days iff CAPI matchback ≥8–10. |

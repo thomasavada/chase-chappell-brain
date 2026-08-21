@@ -20,6 +20,6 @@ Pick **one** skill. Then run it. Knowledge is in `${CLAUDE_PLUGIN_ROOT}/knowledg
 | Email / SMS / Klaviyo / cart flow | `email-sms` |
 | Why subscriptions / L1 L2 L3 / LTV | `subscription-ltv` |
 | Claude + Meta MCP / AI UGC / Higgsfield | `ai-creative-stack` |
-| 5 levels / villain / Hims quiz desire | `positioning` |
+| 5 levels / villain / Hims quiz / offer / hero mechanism | `positioning` |
 
 Ambiguous → one clarifying question, then route. Python reverse-string → **no** Chase skill.

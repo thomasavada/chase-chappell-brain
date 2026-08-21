@@ -18,7 +18,7 @@ Watch: [If you watch one Facebook Ad video](https://youtu.be/42uhZYnyEXU) — cl
 
 | Symptom | Meaning | Job |
 |---|---|---|
-| High CPM | Compliance keywords and/or weak offer (biggest levers) | Fix language Meta flags; beat competitor offer |
+| High CPM | Compliance keywords and/or weak offer (biggest levers) | Fix language Meta flags; beat competitor offer — named [[Hero mechanism]], not a bigger discount |
 | Low CTR | Creative/message not calling the right person | Unique formats, audience call-out — volume of the *same* format does not save you |
 | Good CTR+CPM, low CVR | **Site**, not ads | [[Shopify CRO]]: first-load matches the ad; 3 offer bullets; 5–7 images; default sub; offer + free ship above the fold |
 | Low CVR + high AOV | Normal (e.g. $1,700 machine) | Don’t panic |

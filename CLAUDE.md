@@ -25,7 +25,7 @@ Channel: https://www.youtube.com/@ChaseChappell — **not affiliated**.
 
 **Install:** [`docs/install-claude-code.md`](docs/install-claude-code.md) · [`docs/install-codex.md`](docs/install-codex.md) · [`docs/install-grok.md`](docs/install-grok.md). Skills: **`/chase`**, **`/teach-chase`**, **`/break-down-brand`**, plus apply specialists in [`shared/RESOLVER.md`](shared/RESOLVER.md). Do not add a third `.grok-plugin/` marketplace — Grok reads `.claude-plugin/` (same as cmux-workflow).
 
-**Content is markdown** in `plugins/chase-chappell-knowledge/knowledge/` (playbook, concepts, 30 source cards, brand atlas). Open that folder as an **Obsidian vault**. `graphify-out/` is only a wikilink map of those files.
+**Content is markdown** in `plugins/chase-chappell-knowledge/knowledge/` (playbook, concepts, 31 source cards, brand atlas). Open that folder as an **Obsidian vault**. `graphify-out/` is only a wikilink map of those files.
 
 ## Invariants
 

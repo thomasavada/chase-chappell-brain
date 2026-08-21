@@ -104,6 +104,7 @@ Doctrine lives in `knowledge/`. Read the file, then teach one scenario. If they 
 | Break down **this** brand like Chase | **stop — skill `break-down-brand`** |
 | Hims / quiz | `concepts/Hims diagnostic layer.md` |
 | Positioning / villain | `concepts/Five levels of brands.md` + `concepts/Villain marketing.md` |
+| Offer / hero mechanism / $100M offer | `concepts/Hero mechanism.md` |
 | AI ads / MCP | `concepts/AI creative stack.md` |
 | A specific video | `sources/Source index.md` |
 

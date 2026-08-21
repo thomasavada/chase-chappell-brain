@@ -16,8 +16,8 @@ Figures are **claimed**. Watch the originals. Not affiliated.
 | Directory | What | Files |
 |---|---|--:|
 | `foundations/` | Playbook + glossary | 2 |
-| `concepts/` | Teachable doctrine (one idea per note) | 18 |
-| `sources/` | 30 long-form cards with Watch links | 31 |
+| `concepts/` | Teachable doctrine (one idea per note) | 19 |
+| `sources/` | 31 long-form cards with Watch links | 32 |
 | `brands/` | Shorts atlas + 233-clip catalog | 2 |
 
 ## Start
@@ -36,7 +36,7 @@ Figures are **claimed**. Watch the originals. Not affiliated.
 - Site: [[Shopify CRO]]
 - Distribution: [[TikTok Shop army]] · [[Partnership Hub and Euka]]
 - Money: [[Three levels of purchase]] · [[Email and SMS]]
-- Brand: [[Brand breakdown]] · [[Five levels of brands]] · [[Villain marketing]] · [[Hims diagnostic layer]]
+- Brand: [[Brand breakdown]] · [[Five levels of brands]] · [[Villain marketing]] · [[Hims diagnostic layer]] · [[Hero mechanism]]
 - AI: [[AI creative stack]]
 
 Graph: repo `graphify-out/graph.html`. Skills live in `../skills/`.

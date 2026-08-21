@@ -16,7 +16,7 @@ Classroom vs apply: `teach-chase` teaches. Specialists **apply**. `break-down-br
 | Email / SMS / Klaviyo | `email-sms` | `concepts/Email and SMS.md` |
 | Why subscriptions / LTV | `subscription-ltv` | `concepts/Three levels of purchase.md` |
 | Claude MCP / AI UGC | `ai-creative-stack` | `concepts/AI creative stack.md` |
-| 5 levels / villain / Hims desire | `positioning` | `concepts/Five levels of brands.md` |
+| 5 levels / villain / Hims desire / offer / hero mechanism | `positioning` | `concepts/Five levels of brands.md` + `Hero mechanism.md` |
 | Brands Chase mentioned (roster) | `teach-chase` or atlas | `brands/Brand atlas.md` |
 | A specific video | — | `knowledge/sources/` + Watch |
 | Graph / how X connects to Y | — | `graphify query` on repo `graphify-out/` |

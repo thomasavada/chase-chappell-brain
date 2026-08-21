@@ -38,6 +38,8 @@ Use these terms. Do not paraphrase them into longer sentences.
 
 **Villain marketing** — Attention > approval. Controversy is distribution; Shop + PDP monetize it.
 
+**Hero mechanism** — Named unique *why it works when everything else hasn't*. Not a bigger discount.
+
 **Operator** — Funnel as one flywheel. Opposite of technical (one button) and manager (siloed teams).
 
 **Creative-to-spend ratio** — New unique ads must keep up with spend. +10% creatives / +131% spend kills ROAS.
