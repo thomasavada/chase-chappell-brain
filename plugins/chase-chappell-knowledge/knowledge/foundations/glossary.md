@@ -1,6 +1,6 @@
 ---
 source: "Chase Chappell YouTube"
-verified: 2026-08-20
+verified: 2026-08-21
 drift-risk: medium
 title: Glossary
 ---
@@ -35,6 +35,12 @@ Canonical terms. See also repo `CONTEXT.md`.
 
 **4-campaign** — Testing → interest → Advantage+ → retargeting. [[4-campaign method]]
 
+**$30k transition** — Under $30k/mo still need interest + testing + retarget. Over: CBO/broad by product. $500k+: Advantage+ + Flexible.
+
+**Flexible ads** — ~10 creatives of the **same** format inside one ad. Not mixed formats.
+
+**Use as suggested** — Meta toggle. **Off** on retarget or it is not retargeting.
+
 **Partnership Hub** — Tagged history as ad-ready collab. [[Partnership Hub and Euka]]
 
 **Euka** — Meta UGC army at 5% of ad-attributed sales.
@@ -56,5 +62,9 @@ Canonical terms. See also repo `CONTEXT.md`.
 **Operator** — Funnel as one flywheel, not siloed teams.
 
 **Email/SMS backend** — Owned come-back so Meta hunts new customers. [[Email and SMS]]
+
+**Shopify CRO** — Site leak is ATC / reach checkout / complete checkout. First-load must match the ad. [[Shopify CRO]]
+
+**First-load** — PDP hero = the ad they clicked. Mismatch = bounce.
 
 **Diagnostic layer** — Hims-style quiz that pulls a solution, not a product page. [[Hims diagnostic layer]]

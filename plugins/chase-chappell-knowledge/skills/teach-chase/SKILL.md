@@ -1,6 +1,6 @@
 ---
 name: teach-chase
-description: "Teach a Chase Chappell topic as a classroom: one metric combo, the student guesses, then one job (https://youtu.be/42uhZYnyEXU t=9:36). Use when they say teach me, /teach-chase, or want to learn the diagnosis tree. Do NOT use to apply a stack (andromeda-stack, run-facebook-ads, tiktok-shop-army, email-sms, subscription-ltv, ai-creative-stack, positioning). Do NOT diagnose a pasted account (diagnose-ad-account). Do NOT teardown a brand (break-down-brand). Do NOT lecture the playbook."
+description: "Teach a Chase Chappell topic as a classroom: one metric combo, the student guesses, then one job (https://youtu.be/42uhZYnyEXU t=9:36). Use when they say teach me, /teach-chase, or want to learn the diagnosis tree. Do NOT use to apply a stack (andromeda-stack, run-facebook-ads, shopify-cro, tiktok-shop-army, email-sms, subscription-ltv, ai-creative-stack, positioning). Do NOT diagnose a pasted account (diagnose-ad-account). Do NOT teardown a brand (break-down-brand). Do NOT lecture the playbook."
 argument-hint: "What would you like to learn?"
 ---
 
@@ -74,7 +74,7 @@ If the topic is Facebook / Meta / “how to run ads”, **this video is the cour
 |---|---|---|---|---|
 | 1 | High CPM | Run more ads | Offer + compliance keywords (not page speed) | t=0:21 |
 | 2 | Low CTR | More of the same images | Call-out + unique formats | t=2:55 |
-| 3 | Good CTR + good CPM + low CVR | Creative / Meta | **Site.** First-load PDP | t=4:12 |
+| 3 | Good CTR + good CPM + low CVR | Creative / Meta | **Site.** First-load PDP (`concepts/Shopify CRO.md`) | t=4:12 |
 | 4 | **Flat sales + high ROAS** | Spend more | Returning-customer fallacy. Exclude past buyers | **t=9:36** |
 | 5 | Low returning | More email | Consumable: **subscription**. Apparel: 2nd–5th hero | t=10:25 |
 | 6 | Low ROAS, rest fine | Ads | **AOV.** Floor $35 | t=13:22 |
@@ -99,6 +99,7 @@ Doctrine lives in `knowledge/`. Read the file, then teach one scenario. If they 
 | TikTok **ads** (paid, CTR/CPM, scenes) | `concepts/TikTok Shop army.md` — paid-ads subsection, not Shop request rate |
 | Subscriptions / LTV | `concepts/Three levels of purchase.md` |
 | Email / SMS / Klaviyo / cart flow | `concepts/Email and SMS.md` |
+| CVR / PDP / drawer / first-load / site speed | `concepts/Shopify CRO.md` |
 | Brands Chase named (learn the roster) | `brands/Brand atlas.md` |
 | Break down **this** brand like Chase | **stop — skill `break-down-brand`** |
 | Hims / quiz | `concepts/Hims diagnostic layer.md` |

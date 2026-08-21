@@ -10,7 +10,11 @@ Use these terms. Do not paraphrase them into longer sentences.
 
 **Matchback** — Event Match Quality / CAPI + Advanced Matching score. Floor **≥ 8–10** or Andromeda retrieval dies.
 
-**4-campaign** — Creative Testing → Interest Testing → Advantage+ (winners, broad) → Retargeting. Few campaigns, many creatives.
+**4-campaign** — Creative Testing → Interest Testing → Advantage+ (winners, broad) → Retargeting. Few campaigns, many creatives. **$30k/mo** is the targeting transition. One campaign does not work.
+
+**Flexible ads** — ~10 of the **same** format inside one ad.
+
+**Shopify CRO / first-load** — ATC / reach checkout / complete checkout. PDP hero = the ad they clicked.
 
 **Break-even ROAS** — The number that decides cut / watch / scale. Typical claimed 1.7–1.8. Above ~3x = margin/AOV problem, not “need more ads.”
 

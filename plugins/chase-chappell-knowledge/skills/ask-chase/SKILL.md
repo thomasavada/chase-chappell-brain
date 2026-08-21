@@ -15,6 +15,7 @@ Pick **one** skill. Then run it. Knowledge is in `${CLAUDE_PLUGIN_ROOT}/knowledg
 | My account is stuck; they paste numbers | `diagnose-ad-account` |
 | Andromeda / Hub / Euka / matchback / CAPI | `andromeda-stack` |
 | 4-campaign, scale %, 33%, what ads to make | `run-facebook-ads` |
+| CVR / PDP / drawer / site speed / first-load | `shopify-cro` |
 | TikTok Shop army / affiliates / GPM | `tiktok-shop-army` |
 | Email / SMS / Klaviyo / cart flow | `email-sms` |
 | Why subscriptions / L1 L2 L3 / LTV | `subscription-ltv` |

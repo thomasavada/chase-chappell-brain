@@ -6,7 +6,7 @@ argument-hint: "Spend, ROAS, returning %, CTR, CPM"
 
 # Diagnose ad account
 
-Read `${CLAUDE_PLUGIN_ROOT}/knowledge/concepts/Metric diagnosis tree.md` and `concepts/Chase classroom.md`. Tag figures **claimed**. No shell.
+Read `${CLAUDE_PLUGIN_ROOT}/knowledge/concepts/Metric diagnosis tree.md` and `concepts/Chase classroom.md`. If the job is **site** (good CTR+CPM, low CVR / ATC leak), also read `concepts/Shopify CRO.md` or hand off to `shopify-cro`. Tag figures **claimed**. No shell.
 
 ## Need (grill only what's missing)
 

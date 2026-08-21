@@ -12,14 +12,24 @@ related:
 
 # 4-campaign method
 
-Watch: [Andromeda](https://youtu.be/ZLFWruC2iEw) · [Scale Facebook ads 2026](https://youtu.be/s_g4JYSRRow). Numbers below tagged **claimed** also appear in the [13h course](https://youtu.be/8AAIf5PWJik). **Scale 2026 is current law** when they disagree.
+Watch: [Andromeda](https://youtu.be/ZLFWruC2iEw) · [Scale Facebook ads 2026](https://youtu.be/s_g4JYSRRow). Click-path HOW (under $30k): [Tutorial 2026](https://youtu.be/_jqhFeUu8QE). Spend-stage: [Targeting](https://youtu.be/yM8VhjU5ec8). Anti one-campaign: [ROAS collapse](https://youtu.be/1zTJo1ctVBQ). Numbers tagged **claimed** also appear in the [13h course](https://youtu.be/8AAIf5PWJik). **Scale 2026 is current law** when they disagree.
 
-Few campaigns. Many unique creatives.
+Few campaigns. Many unique creatives. **One campaign does not work** — Meta dumps budget on existing customers (claimed ~4x then ~1.8x in 7d).
 
-1. **Creative testing** — 10–20 variations, own budget. Winners migrate out.
-2. **Interest testing** — only if you still need it; Andromeda prefers Advantage+ broad. Course-era lookalikes (1% then 2–5%) are a *seed after you have data*, not the scale engine.
-3. **Advantage+** — winners only, broad. Audience segments: engaged-never-buy vs customers 180 days. Scale the **new-customer** ad set.
-4. **Retargeting** — cap. If you skip it, Meta self-retargets and frequency explodes.
+## Spend-stage (claimed, targeting)
+
+| Spend / mo | Shape |
+|---|---|
+| **< $30k** | Interest proving + creative testing + retarget. Train the model. Tutorial HOW. |
+| **> $30k** | CBO + **broad**, segment by **product**. Manual interest stands in the way. |
+| **$500k+** | Advantage+ + broad + [[33 percent rule]] Flexible (~10 of the *same* format per ad). |
+
+$30k is the **transition**, not a hard cliff. Stellar offer + unique formats can go broad earlier — exception, not default.
+
+1. **Creative testing** — 10–20 variations, own budget, **new audiences** (no overlap with proving). Weekly 5–7 new unique formats. Winners migrate out.
+2. **Interest testing** — under $30k, this *becomes* the proven campaign. Andromeda still prefers Advantage+ broad once the model is trained. Course-era lookalikes (1% then 2–5%) are a *seed after you have data*, not the scale engine.
+3. **Advantage+** — winners only, broad. Audience segments: engaged-never-buy vs customers 180 days. Scale the **new-customer** ad set. Tutorial puts this *after* ~15 proven ads — Scale 2026 / Andromeda prefer it earlier once you are over the transition.
+4. **Retargeting** — cap. If you skip it, Meta self-retargets and frequency explodes. **Use as suggested OFF** or it is not retargeting.
 
 ## Retargeting (claimed, 13h)
 
@@ -34,11 +44,14 @@ Open a list only when it is big enough, then **≤ ~30% of ad budget**:
 
 Frequency band claimed **3–20**. Product-growth retarget (push a second SKU at low budget) claimed **3–15x ROAS** — that is L2, not a reason to uncap retarget.
 
-## Settings (claimed, 13h)
+## Settings (claimed, 13h + tutorial)
 
-- Objective: **Sales** / conversions.
+- Objective: **Sales** / conversions. Not link clicks.
 - Attribution: **7-day click / 1-day view**.
-- **Off** Meta AI enhancements except Enhanced CTA (course). Do not treat that as Andromeda gospel — retrieval still needs [[CAPI matchback]] ≥ 8–10.
+- Exclude purchasers **180 days** on prospecting.
+- CTA **Shop now**, not Learn more.
+- **Off** Meta AI enhancements except Enhanced CTA. Skip Meta-generated images if you already have creatives. Retrieval still needs [[CAPI matchback]] ≥ 8–10.
+- Five unique **formats** × five copy / headline / description per ad. One headline includes the **product name**.
 
 ## Scale
 

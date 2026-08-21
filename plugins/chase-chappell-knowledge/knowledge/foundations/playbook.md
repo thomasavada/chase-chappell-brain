@@ -1,21 +1,21 @@
 ---
 source: "Chase Chappell YouTube"
-verified: 2026-08-20
+verified: 2026-08-21
 drift-risk: medium
 title: Playbook
 ---
 
 # Chase Chappell playbook (2026)
 
-Synthesis of **26 long-form videos** (2025-10-03 → 2026-08-14) from [Chase Chappell](https://www.youtube.com/@ChaseChappell). Unofficial. Figures are **claimed**. Full cards: [[Source index]].
+Synthesis of **30 long-form videos** (2025-10-03 → 2026-08-14) from [Chase Chappell](https://www.youtube.com/@ChaseChappell). Unofficial. Figures are **claimed**. Full cards: [[Source index]].
 
-Three axes:
+Three axes, plus the site:
 
-1. **Creative volume + diversity.** After [[Andromeda stack]], Meta picks which ad to show. Winners ship unique formats (20–30+/month, 1,000+ active ads claimed at the top end).
+1. **Creative volume + diversity.** After [[Andromeda stack]], Meta picks which ad to show. Winners ship unique formats (20–30+/month, 1,000+ active ads claimed at the top end). Flexible ads = ~10 of the **same** format in one ad.
 2. **TikTok Shop as distribution**, not a sales channel. One creator video → Meta, Reels, Amazon, email, PDP. [[TikTok Shop army]]
 3. **AI compresses the stack** but **supplements** real UGC. Claude + Meta Ads MCP + Higgsfield = analyze → variant → draft into *testing*. [[AI creative stack]]
 
-Under those: positioning ([[Five levels of brands]], [[Villain marketing]]), unit economics ([[Break-even ROAS and AOV floor]], [[Three levels of purchase]]), operator mindset ([[Metric diagnosis tree]]).
+Under those: positioning ([[Five levels of brands]], [[Villain marketing]]), unit economics ([[Break-even ROAS and AOV floor]], [[Three levels of purchase]]), the **site** ([[Shopify CRO]]), operator mindset ([[Metric diagnosis tree]]).
 
 ## Economics first
 
@@ -30,8 +30,9 @@ Under those: positioning ([[Five levels of brands]], [[Villain marketing]]), uni
 - Goal is **lowest ROAS you can afford at the highest new-customer volume you can handle**.
 - Ads own **CPM + CTR** only. [[Metric diagnosis tree]]
 - Flat sales + high ROAS → ads hitting existing customers. Exclude them.
-- [[4-campaign method]]. Scale +20% / 3–4 days at ad-set. Audience segments: scale **new-customer**.
+- [[4-campaign method]]. **$30k/mo = targeting transition** (interest+testing+retarget → CBO/broad by product → $500k+ Advantage+ + Flexible). One campaign does not work. Scale +20% / 3–4 days at ad-set. Audience segments: scale **new-customer**.
 - CAPI + Advanced Matching, matchback **≥ 8–10**. Cut/launch every 3–4 days when retrieval works.
+- Good CTR+CPM, low CVR → [[Shopify CRO]], not more ads. First-load must match the ad.
 
 ## Creative
 
@@ -62,10 +63,10 @@ Under those: positioning ([[Five levels of brands]], [[Villain marketing]]), uni
 
 1. Break-even ROAS + lift AOV to ≥ $35. Diagnose with [[Metric diagnosis tree]].
 2. KPI = new customers at survivable ROAS. Exclude past buyers from acquisition.
-3. 33% creative engine. Sweep Partnership Hub. Euka if no TTS army.
+3. 33% creative engine (Flexible = same-format batches). Sweep Partnership Hub. Euka if no TTS army.
 4. TTS as distribution. Automate invite → community → refinery.
 5. Pick the industry lie. Sell belief.
 6. AI on the boring 90%. Guardrails on spend.
-7. Operator, not silo. Email/SMS is the owned loop — [[Email and SMS]] — not “more Klaviyo” when returning is already 80%.
+7. Operator, not silo. Email/SMS is the owned loop — [[Email and SMS]] — not “more Klaviyo” when returning is already 80%. Site leak → [[Shopify CRO]].
 
 Watch: [If you watch one Facebook Ad video](https://youtu.be/42uhZYnyEXU).

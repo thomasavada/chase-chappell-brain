@@ -7,6 +7,7 @@ related:
   - "[[Three levels of purchase]]"
   - "[[Metric diagnosis tree]]"
   - "[[4-campaign method]]"
+  - "[[Shopify CRO]]"
 ---
 
 # Email and SMS
@@ -21,7 +22,7 @@ Email/SMS is the **owned** come-back loop so Meta can hunt *new* customers. Cour
 
 ## Capture (claimed, 13h)
 
-- Full-width popup: **+25–60%** list growth vs a corner widget.
+- Full-width popup: **+25–60%** list growth vs a corner widget (13h). Same job claimed as **~15%** opt-in vs 3–5% corner ([CRO](https://youtu.be/daDsoHXE52A)).
 - Quiz/consult: email **after** sunk cost, not before question 1. [[Hims diagnostic layer]]
 
 ## Cart flow (claimed, 13h)
@@ -33,7 +34,7 @@ Email/SMS is the **owned** come-back loop so Meta can hunt *new* customers. Cour
 | 3 | Day 3 | **10% off** |
 | 4 | Day 5 | Close or stop |
 
-AI SMS on this flow claimed **+$60K** in month one on one account — **claimed**, not a forecast.
+AI SMS on this flow claimed **+$60K** in month one on one account — **claimed**, not a forecast. Same family as Heights District in the [CRO video](https://youtu.be/daDsoHXE52A) (15–30% of ATC recovered, claimed). Site leak that *creates* the cart pile is [[Shopify CRO]], not a second email playbook.
 
 ## Bound
 

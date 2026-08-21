@@ -32,4 +32,4 @@ How he teaches in [If you watch one Facebook Ad video](https://youtu.be/42uhZYny
 
 **Reverse (t=10:25):** low returning → **subscription** on a consumable, not “better flows” as the first lever. Clothing: 2nd–5th hero + drops, not Recharge.
 
-See [[Metric diagnosis tree]] for the rest of the combos in that video.
+See [[Metric diagnosis tree]] for the rest of the combos in that video. Combo 3 (good CTR+CPM, low CVR) applies via [[Shopify CRO]].

@@ -1,12 +1,12 @@
 ---
 title: Source index
 source: "Chase Chappell YouTube"
-verified: 2026-08-20
+verified: 2026-08-21
 ---
 
 # Source index
 
-26 long-form cards. Click **Watch**. Doctrine lives in `../concepts/`.
+30 long-form cards. Click **Watch**. Doctrine lives in `../concepts/`.
 
 | Date | Note | Watch | Thesis |
 |---|---|---|---|
@@ -35,4 +35,8 @@ verified: 2026-08-20
 | 2026-01-20 | [[Chase Chappell - Copy This Facebook Ad Strategy]] | [JZZTg_Z2qac](https://youtu.be/JZZTg_Z2qac) | Demand creation > max ROAS. Lowest affordable ROAS at highest new-customer volume. |
 | 2026-01-02 | [[Chase Chappell - 13 Hour Marketing Course]] | [8AAIf5PWJik](https://youtu.be/8AAIf5PWJik) | Full-funnel base layer. Gaps distilled into 4-campaign, 33%, TTS army, [[Email and SMS]]. Diagnosis tree later expands the six Shopify scenarios. |
 | 2025-12-19 | [[Chase Chappell - 0 to 315K TikTok Shop in 30 Days]] | [fGxGIQWv-6I](https://youtu.be/fGxGIQWv-6I) | Affiliate outreach automation. GPM screen. Claimed $0→$315K/30 days; one David creator $105K from one video. |
+| 2025-12-12 | [[Chase Chappell - Facebook Ad Tutorial 2026]] | [_jqhFeUu8QE](https://youtu.be/_jqhFeUu8QE) | Under-$30k HOW: 5 unique × 5 copy, proving + testing + retarget (Use as suggested OFF). Scale 2026 is current law. |
+| 2025-12-05 | [[Chase Chappell - Shopify Conversion Rates 2026]] | [daDsoHXE52A](https://youtu.be/daDsoHXE52A) | Claimed 1.4% avg CVR. ATC / reach checkout / complete. First-load. Home: [[Shopify CRO]]. |
+| 2025-12-01 | [[Chase Chappell - Target Facebook Ads Post-Andromeda]] | [yM8VhjU5ec8](https://youtu.be/yM8VhjU5ec8) | $30k transition. Under: interest+testing+retarget. Over: CBO/broad by product. $500k+: Advantage+ + Flexible. |
+| 2025-11-24 | [[Chase Chappell - Why ROAS Collapses After Andromeda]] | [1zTJo1ctVBQ](https://youtu.be/1zTJo1ctVBQ) | Andromeda not bad. Flexible ~10 same-format. One-campaign claimed 4x→1.8x in 7d. |
 | 2025-10-03 | [[Chase Chappell - Andromeda Everything Just Changed]] | [ZLFWruC2iEw](https://youtu.be/ZLFWruC2iEw) | Three shifts: hierarchical indexing, Advantage+ 4-campaign, retrieval 3–4 days iff CAPI matchback ≥8–10. |

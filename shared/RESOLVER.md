@@ -10,6 +10,7 @@ Classroom vs apply: `teach-chase` teaches. Specialists **apply**. `break-down-br
 | Pasted account / sales flat high ROAS | `diagnose-ad-account` | `concepts/Metric diagnosis tree.md` |
 | Andromeda / Hub / Euka / matchback | `andromeda-stack` | `concepts/Andromeda stack.md` |
 | 4-campaign / scale / 33% / what ads | `run-facebook-ads` | `concepts/4-campaign method.md` + `33 percent rule.md` |
+| CVR / PDP / drawer / site speed / first-load | `shopify-cro` | `concepts/Shopify CRO.md` |
 | TikTok Shop / affiliates / GPM | `tiktok-shop-army` | `concepts/TikTok Shop army.md` |
 | TikTok **ads** (paid) | `tiktok-shop-army` | same note, paid-ads subsection |
 | Email / SMS / Klaviyo | `email-sms` | `concepts/Email and SMS.md` |

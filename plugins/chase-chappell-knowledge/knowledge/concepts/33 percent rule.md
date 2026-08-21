@@ -1,6 +1,6 @@
 ---
 source: "Chase Chappell YouTube"
-verified: 2026-08-20
+verified: 2026-08-21
 drift-risk: medium
 title: 33 percent rule
 related:
@@ -40,6 +40,8 @@ Stock 5–10 formats, each unique: features & benefits · notes-based · product
 | $0–10K | 5–30 |
 | $10–50K | 30–100 |
 | $300K+ | ~250 via Flexible Formats, broad-only |
+
+**Flexible ads** ([ROAS collapse](https://youtu.be/1zTJo1ctVBQ) · [targeting](https://youtu.be/yM8VhjU5ec8)): batch **~10 of the same format** into one ad (10 reviews, or 10 UGC, or 10 F&B). Do **not** mix formats inside one Flexible. That is how you feed Andromeda volume without 100 standalone ads in one ad set.
 
 3x spend still needs ~3x **unique formats**. [[Metric diagnosis tree]]
 

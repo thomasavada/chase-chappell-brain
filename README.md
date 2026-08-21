@@ -10,6 +10,7 @@ Unofficial teaching plugin for [Chase Chappell](https://www.youtube.com/@ChaseCh
 | `/diagnose-ad-account` | Stuck account → one combo, one job |
 | `/andromeda-stack` | Matchback → Hub → Euka → 33% fill |
 | `/run-facebook-ads` | 4-campaign + 33% + $35 AOV |
+| `/shopify-cro` | ATC / reach checkout / complete checkout |
 | `/tiktok-shop-army` | Listing, request rate, GPM, army |
 | `/email-sms` | Owned come-back loop |
 | `/subscription-ltv` | L1 / L2 / L3 |
@@ -87,12 +88,12 @@ Browse on GitHub: [`plugins/chase-chappell-knowledge/knowledge/`](plugins/chase-
 | [`foundations/playbook.md`](plugins/chase-chappell-knowledge/knowledge/foundations/playbook.md) | Full synthesis |
 | [`foundations/glossary.md`](plugins/chase-chappell-knowledge/knowledge/foundations/glossary.md) | Terms |
 | [`concepts/`](plugins/chase-chappell-knowledge/knowledge/concepts/) | Doctrine (diagnosis tree, Andromeda, 33% rule, LTV, …) |
-| [`sources/`](plugins/chase-chappell-knowledge/knowledge/sources/) | 26 long-form cards + Watch links |
+| [`sources/`](plugins/chase-chappell-knowledge/knowledge/sources/) | 30 long-form cards + Watch links |
 | [`brands/`](plugins/chase-chappell-knowledge/knowledge/brands/) | Shorts atlas + 233-clip catalog |
 
 Obsidian: **Open folder as vault** → `plugins/chase-chappell-knowledge/knowledge/`.
 
-**Skills:** classroom `teach-chase` · teardown `break-down-brand` · router `ask-chase` · apply: `diagnose-ad-account`, `andromeda-stack`, `run-facebook-ads`, `tiktok-shop-army`, `email-sms`, `subscription-ltv`, `ai-creative-stack`, `positioning`. Skills **Read** those `.md` files. Doctrine is not copied into skills.
+**Skills:** classroom `teach-chase` · teardown `break-down-brand` · router `ask-chase` · apply: `diagnose-ad-account`, `andromeda-stack`, `run-facebook-ads`, `shopify-cro`, `tiktok-shop-army`, `email-sms`, `subscription-ltv`, `ai-creative-stack`, `positioning`. Skills **Read** those `.md` files. Doctrine is not copied into skills.
 
 **Graph (optional):** [`graphify-out/graph.html`](graphify-out/graph.html) — 46 nodes / 153 EXTRACTED edges from the same markdown. Query layer, not the content.
 
