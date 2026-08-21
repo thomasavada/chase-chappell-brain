@@ -95,7 +95,7 @@ Obsidian: **Open folder as vault** → `plugins/chase-chappell-knowledge/knowled
 
 **Skills:** classroom `teach-chase` · teardown `break-down-brand` · router `ask-chase` · apply: `diagnose-ad-account`, `andromeda-stack`, `run-facebook-ads`, `shopify-cro`, `tiktok-shop-army`, `email-sms`, `subscription-ltv`, `ai-creative-stack`, `positioning`. Skills **Read** those `.md` files. Doctrine is not copied into skills.
 
-**Graph (optional):** [`graphify-out/graph.html`](graphify-out/graph.html) — 46 nodes / 153 EXTRACTED edges from the same markdown. Query layer, not the content.
+**Graph (optional):** [`graphify-out/graph.html`](graphify-out/graph.html) — 56 nodes / 221 EXTRACTED edges from the same markdown. Query layer, not the content.
 
 Student files land in `learners/` (gitignored). `/teach-chase` always grills a mission first.
 
