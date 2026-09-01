@@ -1,8 +1,8 @@
 ---
 type: index
-title: "Chase Chappell — Shorts Catalog (233)"
+title: "Chase Chappell — Shorts Catalog (241)"
 created: 2026-08-20
-updated: 2026-08-20
+updated: 2026-09-01
 tags:
   - marketing
   - ecommerce
@@ -16,12 +16,20 @@ related:
 
 # Chase Chappell — Shorts Catalog
 
-**233 YouTube Shorts** ([channel](https://www.youtube.com/@ChaseChappell/shorts), 2025-08-21 → 2026-08-18). Click **Watch** to open the actual clip.
+**241 YouTube Shorts** ([channel](https://www.youtube.com/@ChaseChappell/shorts), 2025-08-21 → 2026-08-31). Click **Watch** to open the actual clip.
 
 Brand stories / theses: [[Brand atlas]]. Long-form: [[Source index]].
 
 | Date | Title | Views | Watch |
 |---|---|---:|---|
+| 2026-08-31 | These are the 6 best ad creative concepts I’ve seen in 2026 🤩 | 1,797 | [a8hMomL2sH0](https://youtu.be/a8hMomL2sH0) |
+| 2026-08-28 | The BTS of Bloom Nu’s $100M Creator Army 😱 | 2,255 | [WYzHJbBLQ-c](https://youtu.be/WYzHJbBLQ-c) |
+| 2026-08-27 | Rating Ads 1/10 to 10/10 🫪 Here’s how to make your ads 10/10 | 2,579 | [op7eO_X8vYI](https://youtu.be/op7eO_X8vYI) |
+| 2026-08-26 | The 5 Systems Behind 714 Winning Brands 🤩 | 2,475 | [sQWQkLy_jwY](https://youtu.be/sQWQkLy_jwY) |
+| 2026-08-25 | Smooche’s $10 Million Brand Strategy 💋 | 1,359 | [jnnavCAQKgU](https://youtu.be/jnnavCAQKgU) |
+| 2026-08-24 | Meta’s New Claude and Higgsfield Integration Update is absolutely insane 🚨 | 3,280 | [x1BvTAYYOcY](https://youtu.be/x1BvTAYYOcY) |
+| 2026-08-21 | 2026 Marketing Predictions: ROAS is becoming one of the most dangerous metrics in DTC and CPG | 2,419 | [4g5XZtBnGA8](https://youtu.be/4g5XZtBnGA8) |
+| 2026-08-21 | Whop is the New Startup Testing Ground 😱 | 1,970 | [JnokhpsxA_Q](https://youtu.be/JnokhpsxA_Q) |
 | 2026-08-18 | The New DTC Funnel Isn’t Linear Anymore 😬 | 1,586 | [3ID2vaJ3el4](https://youtu.be/3ID2vaJ3el4) |
 | 2026-08-17 | Who has better marketing? Golden Child or Maev? 🐶 Let me know what you think 🤔 | 1,934 | [h220KULiZrk](https://youtu.be/h220KULiZrk) |
 | 2026-08-14 | The Meta UGC Automation Flywheel Behind Every $100M Brand 😳 | 2,410 | [Ng8LXrOu-Uc](https://youtu.be/Ng8LXrOu-Uc) |

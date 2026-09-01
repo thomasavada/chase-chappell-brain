@@ -1,13 +1,13 @@
 ---
 source: "Chase Chappell YouTube"
-verified: 2026-08-21
+verified: 2026-09-01
 drift-risk: medium
 title: Playbook
 ---
 
 # Chase Chappell playbook (2026)
 
-Synthesis of **31 long-form videos** (2025-10-03 → 2026-08-14) from [Chase Chappell](https://www.youtube.com/@ChaseChappell). Unofficial. Figures are **claimed**. Full cards: [[Source index]].
+Synthesis of **33 long-form videos** (2025-10-03 → 2026-08-28) from [Chase Chappell](https://www.youtube.com/@ChaseChappell). Unofficial. Figures are **claimed**. Full cards: [[Source index]].
 
 Three axes, plus the site:
 
@@ -15,7 +15,7 @@ Three axes, plus the site:
 2. **TikTok Shop as distribution**, not a sales channel. One creator video → Meta, Reels, Amazon, email, PDP. [[TikTok Shop army]]
 3. **AI compresses the stack** but **supplements** real UGC. Claude + Meta Ads MCP + Higgsfield = analyze → variant → draft into *testing*. [[AI creative stack]]
 
-Under those: positioning ([[Five levels of brands]], [[Villain marketing]]), unit economics ([[Break-even ROAS and AOV floor]], [[Three levels of purchase]]), the **site** ([[Shopify CRO]]), operator mindset ([[Metric diagnosis tree]]).
+Under those: positioning ([[Five levels of brands]], [[Villain marketing]]), unit economics ([[Break-even ROAS and AOV floor]], [[Offer economics]], [[Three levels of purchase]]), the **site** ([[Shopify CRO]]), operator mindset ([[Metric diagnosis tree]]).
 
 ## Economics first
 
@@ -24,6 +24,7 @@ Under those: positioning ([[Five levels of brands]], [[Villain marketing]]), uni
 - [[Three levels of purchase]]: L1 one-time profit caps you. L2 AOV still caps. L3 subscription: acquire at $50, lose $10, stay 7–12 months, ~$800 profit **claimed** — then you can spend $30K → $300K. Seven repeats ≈ **17x LTV ROAS**. CAC $150 on a $40 SKU is rational *if* L3 exists.
 - Compound CTR × CVR × AOV × sub ≈ **16x**, not 2x.
 - Owned come-back: [[Email and SMS]] so acquisition ads can exclude the list. Not a substitute for L3.
+- An offer trades margin for one of three defined returns: conversion, larger cart, or repeat purchase. Model contribution margin and cash timing before discounting. [[Offer economics]]
 
 ## Meta doctrine
 
@@ -46,6 +47,7 @@ Under those: positioning ([[Five levels of brands]], [[Villain marketing]]), uni
 - Request rate 0.1% → ~5% by testing outreach, not shotgun samples.
 - $100K/month claimed path: **400 samples/week**, GPM math, 3:1–5:1 videos per affiliate.
 - Recycle: GMV Max → Meta paid collab. [[Partnership Hub and Euka]] for Meta-only army at 5%.
+- Train the army weekly on one proven video: provide the script and require the hook, voiceover, scenes, structure, and length—not just the visual theme—to be modeled. [[TikTok Shop army]]
 
 ## Positioning
 

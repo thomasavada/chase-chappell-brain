@@ -562,6 +562,36 @@
       "id": "note_source_index",
       "community": 4,
       "norm_label": "source index"
+    },
+    {
+      "label": "Offer economics",
+      "file_type": "document",
+      "source_file": "concepts/Offer economics.md",
+      "source_location": null,
+      "_origin": "extracted",
+      "id": "note_offer_economics",
+      "community": 2,
+      "norm_label": "offer economics"
+    },
+    {
+      "label": "Chase Chappell - 10X Ecommerce UGC Creator Army",
+      "file_type": "document",
+      "source_file": "sources/Chase Chappell - 10X Ecommerce UGC Creator Army.md",
+      "source_location": null,
+      "_origin": "extracted",
+      "id": "note_chase_chappell_10x_ecommerce_ugc_creator_army",
+      "community": 3,
+      "norm_label": "chase chappell - 10x ecommerce ugc creator army"
+    },
+    {
+      "label": "Chase Chappell - Ecommerce Offer Economics",
+      "file_type": "document",
+      "source_file": "sources/Chase Chappell - Ecommerce Offer Economics.md",
+      "source_location": null,
+      "_origin": "extracted",
+      "id": "note_chase_chappell_ecommerce_offer_economics",
+      "community": 2,
+      "norm_label": "chase chappell - ecommerce offer economics"
     }
   ],
   "links": [
@@ -2995,8 +3025,193 @@
       "_origin": "extracted",
       "source": "note_source_index",
       "target": "note_chase_chappell_why_roas_collapses_after_andromeda"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Chase Chappell - 10X Ecommerce UGC Creator Army.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_33_percent_rule",
+      "target": "note_chase_chappell_10x_ecommerce_ugc_creator_army"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Chase Chappell - Ecommerce Offer Economics.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_break_even_roas_and_aov_floor",
+      "target": "note_chase_chappell_ecommerce_offer_economics"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "concepts/Offer economics.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_break_even_roas_and_aov_floor",
+      "target": "note_offer_economics"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Chase Chappell - 10X Ecommerce UGC Creator Army.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_chase_chappell_10x_ecommerce_ugc_creator_army",
+      "target": "note_partnership_hub_and_euka"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Chase Chappell - 10X Ecommerce UGC Creator Army.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_chase_chappell_10x_ecommerce_ugc_creator_army",
+      "target": "note_playbook"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Source index.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_chase_chappell_10x_ecommerce_ugc_creator_army",
+      "target": "note_source_index"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Chase Chappell - 10X Ecommerce UGC Creator Army.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_chase_chappell_10x_ecommerce_ugc_creator_army",
+      "target": "note_tiktok_shop_army"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Chase Chappell - Ecommerce Offer Economics.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_chase_chappell_ecommerce_offer_economics",
+      "target": "note_email_and_sms"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Chase Chappell - Ecommerce Offer Economics.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_chase_chappell_ecommerce_offer_economics",
+      "target": "note_offer_economics"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Chase Chappell - Ecommerce Offer Economics.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_chase_chappell_ecommerce_offer_economics",
+      "target": "note_playbook"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Source index.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_chase_chappell_ecommerce_offer_economics",
+      "target": "note_source_index"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Chase Chappell - Ecommerce Offer Economics.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_chase_chappell_ecommerce_offer_economics",
+      "target": "note_three_levels_of_purchase"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "concepts/Offer economics.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_email_and_sms",
+      "target": "note_offer_economics"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "index.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_index",
+      "target": "note_offer_economics"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "foundations/playbook.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_offer_economics",
+      "target": "note_playbook"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "concepts/Offer economics.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_offer_economics",
+      "target": "note_shopify_cro"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "concepts/Offer economics.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_offer_economics",
+      "target": "note_three_levels_of_purchase"
     }
-  ],
-  "hyperedges": [],
-  "built_at_commit": "a532ad5937c9819645520834c33d5c4e3c0297b8"
+  ]
 }

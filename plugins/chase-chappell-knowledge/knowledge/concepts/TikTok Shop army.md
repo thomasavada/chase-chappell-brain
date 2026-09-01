@@ -1,7 +1,7 @@
 ---
 title: TikTok Shop army
 source: "Chase Chappell YouTube"
-verified: 2026-08-21
+verified: 2026-09-01
 drift-risk: medium
 related:
   - "[[Partnership Hub and Euka]]"
@@ -10,7 +10,7 @@ related:
 
 # TikTok Shop army
 
-Watch: [Bloom $17M](https://youtu.be/ijeGs0XCwso) · [$0 to $315K](https://youtu.be/fGxGIQWv-6I)
+Watch: [Bloom $17M](https://youtu.be/ijeGs0XCwso) · [$0 to $315K](https://youtu.be/fGxGIQWv-6I) · [10x UGC creator army](https://youtu.be/VI_BIMMjlHY)
 
 TTS is a **distribution ecosystem**, not a sales channel. One creator video → Meta, Reels, Amazon, email, PDP. Halo ~**30%** claimed onto Amazon/Shopify/retail.
 
@@ -21,6 +21,12 @@ TTS is a **distribution ecosystem**, not a sales channel. One creator video → 
 - Affiliate-to-video **3:1–5:1**. Discord/WhatsApp army: education + announcements.
 - **Content refinery:** 0-view sample is not trash. Organic → Meta test → GMV Max → site/email.
 - **10% rule** (claimed, [13h](https://youtu.be/8AAIf5PWJik)): a model organic video at ~10% of views is the one you lift into ads / GMV Max — not the 0-view pile.
+
+## Creator training loop
+
+Samples without training create volume, not winners. Attach an already-winning video and script to the sample; teach one winner on a weekly call; require creators to match the proven **hook, voiceover, scenes, structure, and length**, not merely its visual theme. Show exact-model and partial-model results, then feed the next winning variant back into the brief. The incentive is creator commission: make proven execution the easiest path to getting paid. Chase’s example figures are **claimed**, not audited. [Watch](https://youtu.be/VI_BIMMjlHY)
+
+Bloom is the retention version of the same loop: Discord + brief + winner library + weekly coaching; commission creates posts, winners become new examples, then paid Shop Ads/GMV Max distributes them. Chase claims **70K+ affiliates, 185K+ shoppable videos, nearly 40K shoppable Lives, and ~$500M/year**. [Watch](https://youtu.be/WYzHJbBLQ-c)
 
 ## TikTok Ads (paid — not Shop)
 

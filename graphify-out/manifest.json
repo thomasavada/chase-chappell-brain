@@ -1,13 +1,13 @@
 {
   "brands/Brand atlas.md": {
-    "mtime": 1787241054.7609897,
-    "ast_hash": "4bd14b38624d5ed8fd1540e63b08534c",
-    "semantic_hash": "4bd14b38624d5ed8fd1540e63b08534c"
+    "mtime": 1788262913.5387166,
+    "ast_hash": "20e1b2d23fca63ef889f9cd87c8fa97c",
+    "semantic_hash": "20e1b2d23fca63ef889f9cd87c8fa97c"
   },
   "brands/Shorts catalog.md": {
-    "mtime": 1787239371.9728422,
-    "ast_hash": "67c5aa9ab491ed28a8d0ef4c77585c04",
-    "semantic_hash": "67c5aa9ab491ed28a8d0ef4c77585c04"
+    "mtime": 1788262913.4643612,
+    "ast_hash": "085c4407fe5ddab033a9271a8d259bd7",
+    "semantic_hash": "085c4407fe5ddab033a9271a8d259bd7"
   },
   "concepts/33 percent rule.md": {
     "mtime": 1787304440.5271075,
@@ -75,9 +75,14 @@
     "semantic_hash": "b16f2f478d107271697486be576c7f79"
   },
   "concepts/Metric diagnosis tree.md": {
-    "mtime": 1787310992.283173,
-    "ast_hash": "306e0ea4dfc066b4deed56496351e65a",
-    "semantic_hash": "306e0ea4dfc066b4deed56496351e65a"
+    "mtime": 1788262913.811442,
+    "ast_hash": "04d5083ed5d2eed7c66eb93ed17fb541",
+    "semantic_hash": "04d5083ed5d2eed7c66eb93ed17fb541"
+  },
+  "concepts/Offer economics.md": {
+    "mtime": 1788262864.1183648,
+    "ast_hash": "693da8f632229fe12c99187c8cdea891",
+    "semantic_hash": "693da8f632229fe12c99187c8cdea891"
   },
   "concepts/Partnership Hub and Euka.md": {
     "mtime": 1787239295.7525623,
@@ -90,14 +95,14 @@
     "semantic_hash": "d1478d124e26273084d5e58a823cf3b2"
   },
   "concepts/Three levels of purchase.md": {
-    "mtime": 1787311108.212079,
-    "ast_hash": "dc8e598a11b07f87b676bd0b3d615d06",
-    "semantic_hash": "dc8e598a11b07f87b676bd0b3d615d06"
+    "mtime": 1788262913.7175832,
+    "ast_hash": "f89805dd1f4412e4aa6b18cf5bfe185c",
+    "semantic_hash": "f89805dd1f4412e4aa6b18cf5bfe185c"
   },
   "concepts/TikTok Shop army.md": {
-    "mtime": 1787303093.445631,
-    "ast_hash": "53dab64941fefa0dc1f76f2315e0f782",
-    "semantic_hash": "53dab64941fefa0dc1f76f2315e0f782"
+    "mtime": 1788262913.6327465,
+    "ast_hash": "a76af014eacb3b63e9c155d0d20b1461",
+    "semantic_hash": "a76af014eacb3b63e9c155d0d20b1461"
   },
   "concepts/Villain marketing.md": {
     "mtime": 1787241054.7637289,
@@ -110,14 +115,14 @@
     "semantic_hash": "8359dffc37604d44be7fb38bb2492465"
   },
   "foundations/playbook.md": {
-    "mtime": 1787311010.740258,
-    "ast_hash": "df81d44507cf76034a79e670a6813990",
-    "semantic_hash": "df81d44507cf76034a79e670a6813990"
+    "mtime": 1788262948.3476024,
+    "ast_hash": "bdb3f8c7b339cc4092ffeac4b9c50621",
+    "semantic_hash": "bdb3f8c7b339cc4092ffeac4b9c50621"
   },
   "index.md": {
-    "mtime": 1787311010.7385316,
-    "ast_hash": "48845d0ab7bffe210437657874ce9f2a",
-    "semantic_hash": "48845d0ab7bffe210437657874ce9f2a"
+    "mtime": 1788262948.4507914,
+    "ast_hash": "3e1876d3ba8da2f5b4e1f4a6e2aa16e1",
+    "semantic_hash": "3e1876d3ba8da2f5b4e1f4a6e2aa16e1"
   },
   "sources/Chase Chappell - 0 to 315K TikTok Shop in 30 Days.md": {
     "mtime": 1787239363.4552064,
@@ -128,6 +133,11 @@
     "mtime": 1787310970.2902555,
     "ast_hash": "9ea71b152fe2af4f854852d7f2d4a48a",
     "semantic_hash": "9ea71b152fe2af4f854852d7f2d4a48a"
+  },
+  "sources/Chase Chappell - 10X Ecommerce UGC Creator Army.md": {
+    "mtime": 1788262864.101267,
+    "ast_hash": "1c48b539f7750173dcf2c518832bacd9",
+    "semantic_hash": "1c48b539f7750173dcf2c518832bacd9"
   },
   "sources/Chase Chappell - 10X Meta Ad Account.md": {
     "mtime": 1787239363.4535549,
@@ -209,6 +219,11 @@
     "ast_hash": "4c68d62fe7dff723b6a728e988fd60b0",
     "semantic_hash": "4c68d62fe7dff723b6a728e988fd60b0"
   },
+  "sources/Chase Chappell - Ecommerce Offer Economics.md": {
+    "mtime": 1788262864.1037476,
+    "ast_hash": "74d5e6332a3c93e46c2ad017828d86f5",
+    "semantic_hash": "74d5e6332a3c93e46c2ad017828d86f5"
+  },
   "sources/Chase Chappell - Facebook Ad Creatives in 2027.md": {
     "mtime": 1787239363.454059,
     "ast_hash": "d600fc74a5b6ae68eadd57d17612b9e0",
@@ -275,8 +290,8 @@
     "semantic_hash": "f6f8296dfab62772e42fe764da632a1f"
   },
   "sources/Source index.md": {
-    "mtime": 1787311010.7391813,
-    "ast_hash": "58f75c377c327aed63ac91ff4e6ebf93",
-    "semantic_hash": "58f75c377c327aed63ac91ff4e6ebf93"
+    "mtime": 1788262913.3517683,
+    "ast_hash": "6cbf5e6a5bd7aeac631fc44c530625ed",
+    "semantic_hash": "6cbf5e6a5bd7aeac631fc44c530625ed"
   }
 }

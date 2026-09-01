@@ -1,15 +1,17 @@
 ---
 title: Source index
 source: "Chase Chappell YouTube"
-verified: 2026-08-21
+verified: 2026-09-01
 ---
 
 # Source index
 
-31 long-form cards. Click **Watch**. Doctrine lives in `../concepts/`.
+33 long-form cards. Click **Watch**. Doctrine lives in `../concepts/`.
 
 | Date | Note | Watch | Thesis |
 |---|---|---|---|
+| 2026-08-28 | [[Chase Chappell - 10X Ecommerce UGC Creator Army]] | [VI_BIMMjlHY](https://youtu.be/VI_BIMMjlHY) | Train creators on one proven video at a time: exact hook, script, scenes, structure, and weekly winner feedback. |
+| 2026-08-21 | [[Chase Chappell - Ecommerce Offer Economics]] | [RHZ39WfEuM0](https://youtu.be/RHZ39WfEuM0) | Trade margin only for conversion, larger carts, or repeat purchase; model contribution and cash timing before discounting. |
 | 2026-08-14 | [[Chase Chappell - 10X Meta Ad Account]] | [ih17rzW5JK0](https://youtu.be/ih17rzW5JK0) | Euka Meta UGC army at 5% of ad-attributed sales, 500 emails/day, no TTS required. |
 | 2026-08-09 | [[Chase Chappell - Claude Changed Facebook Ads Forever]] | [ReYEYoLsppk](https://youtu.be/ReYEYoLsppk) | Claude Desktop + Meta Ads MCP + Higgsfield: analyze → iterate winners → draft into creative testing → weekly auto-release. |
 | 2026-08-01 | [[Chase Chappell - If You Watch One Facebook Ad Video]] | [42uhZYnyEXU](https://youtu.be/42uhZYnyEXU) | Every ecom bottleneck is one metric combo → one diagnosis → one job. Ads own CPM+CTR only. |

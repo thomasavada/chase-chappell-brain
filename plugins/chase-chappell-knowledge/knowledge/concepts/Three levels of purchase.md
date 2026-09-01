@@ -1,6 +1,6 @@
 ---
 source: "Chase Chappell YouTube"
-verified: 2026-08-20
+verified: 2026-09-01
 drift-risk: medium
 title: Three levels of purchase
 related:
@@ -9,6 +9,7 @@ related:
   - "[[Email and SMS]]"
   - "[[Shopify CRO]]"
   - "[[Hero mechanism]]"
+  - "[[Offer economics]]"
 ---
 
 # Three levels of purchase
@@ -25,7 +26,7 @@ Walk (claimed): CAC $35 → ~$565 profit over 7 months. Then **$150 CAC on a $40
 
 **Subscription-first** (IM8, David Protein, AG1, Grüns): break even or lose on order 1 because 2/3/4 pay. Default subscribe-and-save **on** the PDP. The site that makes L2 clickable (drawer, bundle in one view, first-load) is [[Shopify CRO]], not this note. The L1 *offer* is a named [[Hero mechanism]], not a bigger discount.
 
-Cash-flow: profit shows up months later. Clothing uses drops, not a monthly bar. High-ticket one-shot attaches a consumable accessory.
+Cash-flow: profit shows up months later. Clothing uses drops, not a monthly bar. High-ticket one-shot attaches a consumable accessory. Before buying order-one losses, model the offer’s downstream event and payback window: [[Offer economics]].
 
 Email/SMS is the **owned** loop around L3, not a replacement. [[Email and SMS]]
 

@@ -1,6 +1,6 @@
 ---
 title: Chase Chappell knowledge
-verified: 2026-08-21
+verified: 2026-09-01
 ---
 
 # Chase Chappell knowledge
@@ -16,9 +16,9 @@ Figures are **claimed**. Watch the originals. Not affiliated.
 | Directory | What | Files |
 |---|---|--:|
 | `foundations/` | Playbook + glossary | 2 |
-| `concepts/` | Teachable doctrine (one idea per note) | 19 |
-| `sources/` | 31 long-form cards with Watch links | 32 |
-| `brands/` | Shorts atlas + 233-clip catalog | 2 |
+| `concepts/` | Teachable doctrine (one idea per note) | 20 |
+| `sources/` | 33 long-form cards with Watch links | 34 |
+| `brands/` | Shorts atlas + 241-clip catalog | 2 |
 
 ## Start
 
@@ -35,7 +35,7 @@ Figures are **claimed**. Watch the originals. Not affiliated.
 - Creative: [[33 percent rule]] · [[Awareness ladder]]
 - Site: [[Shopify CRO]]
 - Distribution: [[TikTok Shop army]] · [[Partnership Hub and Euka]]
-- Money: [[Three levels of purchase]] · [[Email and SMS]]
+- Money: [[Offer economics]] · [[Three levels of purchase]] · [[Email and SMS]]
 - Brand: [[Brand breakdown]] · [[Five levels of brands]] · [[Villain marketing]] · [[Hims diagnostic layer]] · [[Hero mechanism]]
 - AI: [[AI creative stack]]
 

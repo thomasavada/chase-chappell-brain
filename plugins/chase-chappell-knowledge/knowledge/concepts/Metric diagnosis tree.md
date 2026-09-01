@@ -1,6 +1,6 @@
 ---
 source: "Chase Chappell YouTube"
-verified: 2026-08-21
+verified: 2026-09-01
 drift-risk: medium
 title: Metric diagnosis tree
 related:
@@ -32,5 +32,9 @@ Watch: [If you watch one Facebook Ad video](https://youtu.be/42uhZYnyEXU) — cl
 | TTS low request rate | Outreach copy, not listing only | Test 5 invite agents |
 | High request + low sales | No GPM screen | Pre/post-qualify |
 | ROAS dies on scale | Creative volume didn’t keep up | 3x spend needs ~3x unique ads; new ads in **testing** campaign |
+
+## Blended measurement bound
+
+Platform ROAS is a platform’s attribution claim, not the whole customer journey. A buyer can discover on Meta, validate through a TikTok creator, search on Google, and close on Amazon or retail. Do not shut off a demand-creating channel solely because another channel captured the sale. Chase’s 2026 scorecard prioritizes **blended CAC, new-customer CAC, MER, contribution margin, incremental revenue, total profitable revenue growth, and CAC:LTV**. The example of $60 CAC against $240 LTV is **claimed**, not a forecast. [Watch](https://youtu.be/4g5XZtBnGA8)
 
 See `/teach-chase`.
