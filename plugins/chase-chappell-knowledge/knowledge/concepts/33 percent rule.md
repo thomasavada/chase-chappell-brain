@@ -1,6 +1,6 @@
 ---
 source: "Chase Chappell YouTube"
-verified: 2026-08-21
+verified: 2026-10-29
 drift-risk: medium
 title: 33 percent rule
 related:
@@ -44,6 +44,10 @@ Stock 5–10 formats, each unique: features & benefits · notes-based · product
 **Flexible ads** ([ROAS collapse](https://youtu.be/1zTJo1ctVBQ) · [targeting](https://youtu.be/yM8VhjU5ec8)): batch **~10 of the same format** into one ad (10 reviews, or 10 UGC, or 10 F&B). Do **not** mix formats inside one Flexible. That is how you feed Andromeda volume without 100 standalone ads in one ad set.
 
 3x spend still needs ~3x **unique formats**. [[Metric diagnosis tree]]
+
+## Evergreen breadth inside one ad
+
+Format diversity across the account does not require every individual ad to stay narrow. Chase's long-running examples broaden one coherent creative with **options, sizes, colors, use cases and objections**, then anchor it with a real person in the usage setting, checkable proof, and a reason to buy now. Catalog carousels, warehouse/founder walkthroughs, comment replies and raw demos are reusable structures. This is breadth of buyer relevance—not cloning one winner—and all displayed performance figures are **claimed**. [Watch](https://youtu.be/aLXb1i-lXNY)
 
 See `/teach-chase`.
 

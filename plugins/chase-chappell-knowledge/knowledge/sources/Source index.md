@@ -1,15 +1,21 @@
 ---
 title: Source index
 source: "Chase Chappell YouTube"
-verified: 2026-09-01
+verified: 2026-10-29
 ---
 
 # Source index
 
-33 long-form cards. Click **Watch**. Doctrine lives in `../concepts/`.
+39 long-form cards. Click **Watch**. Doctrine lives in `../concepts/`.
 
 | Date | Note | Watch | Thesis |
 |---|---|---|---|
+| 2026-10-23 | [[Chase Chappell - Ultimate 2026 Black Friday Cyber Monday Guide]] | [qAPtMocHz5M](https://youtu.be/qAPtMocHz5M) | Run an October-to-December offer ladder: test → VIP → main sale → hero deal → gifting. |
+| 2026-10-09 | [[Chase Chappell - UGC Creator Army Full Guide]] | [yvco21OOxpM](https://youtu.be/yvco21OOxpM) | Duplicate the TTS affiliate loop across Instagram, Meta and YouTube; organic winners become licensed ads. |
+| 2026-10-02 | [[Chase Chappell - Fix Meta False Attribution]] | [uhH0OZwXrUs](https://youtu.be/uhH0OZwXrUs) | Segment new/engaged/existing, exclude known customers from cold, and test click-only plus incremental attribution. |
+| 2026-09-25 | [[Chase Chappell - Ad Formats to 10X Your Brand]] | [aLXb1i-lXNY](https://youtu.be/aLXb1i-lXNY) | Evergreen creative covers options, use cases and objections with raw demonstration and verifiable proof. |
+| 2026-09-11 | [[Chase Chappell - Claude for Meta in 10 Minutes]] | [AYp982ZpxNQ](https://youtu.be/AYp982ZpxNQ) | Claude + Meta MCP: diagnose spend waste and format gaps, retrieve models, generate assets, then draft campaigns. |
+| 2026-09-04 | [[Chase Chappell - UGC Video Tier List]] | [vtjMMvEcxEw](https://youtu.be/vtjMMvEcxEw) | Rank UGC by sales efficiency: demo, use cases, objections, offer, purchase path and CTA beat empty views. |
 | 2026-08-28 | [[Chase Chappell - 10X Ecommerce UGC Creator Army]] | [VI_BIMMjlHY](https://youtu.be/VI_BIMMjlHY) | Train creators on one proven video at a time: exact hook, script, scenes, structure, and weekly winner feedback. |
 | 2026-08-21 | [[Chase Chappell - Ecommerce Offer Economics]] | [RHZ39WfEuM0](https://youtu.be/RHZ39WfEuM0) | Trade margin only for conversion, larger carts, or repeat purchase; model contribution and cash timing before discounting. |
 | 2026-08-14 | [[Chase Chappell - 10X Meta Ad Account]] | [ih17rzW5JK0](https://youtu.be/ih17rzW5JK0) | Euka Meta UGC army at 5% of ad-attributed sales, 500 emails/day, no TTS required. |

@@ -1,8 +1,8 @@
 ---
 type: index
-title: "Chase Chappell — Shorts Catalog (241)"
+title: "Chase Chappell — Shorts Catalog (251)"
 created: 2026-08-20
-updated: 2026-09-01
+updated: 2026-10-29
 tags:
   - marketing
   - ecommerce
@@ -16,12 +16,22 @@ related:
 
 # Chase Chappell — Shorts Catalog
 
-**241 YouTube Shorts** ([channel](https://www.youtube.com/@ChaseChappell/shorts), 2025-08-21 → 2026-08-31). Click **Watch** to open the actual clip.
+**251 YouTube Shorts** ([channel](https://www.youtube.com/@ChaseChappell/shorts), 2025-08-21 → 2026-10-28). Click **Watch** to open the actual clip.
 
 Brand stories / theses: [[Brand atlas]]. Long-form: [[Source index]].
 
 | Date | Title | Views | Watch |
 |---|---|---:|---|
+| 2026-10-28 | Comment ‘CRO’ for the full guide 🚀 | 73 | [9FGFDhyuUyc](https://youtu.be/9FGFDhyuUyc) |
+| 2026-10-28 | Comment ‘FUNNEL’ for the full strategy ✅ | 207 | [MyH9WBbOKG0](https://youtu.be/MyH9WBbOKG0) |
+| 2026-10-28 | Comment ‘MAGIC’ and I’ll send the full strategy ✅ | 549 | [lIYcxC-2Xhw](https://youtu.be/lIYcxC-2Xhw) |
+| 2026-10-23 | The Ultimate 5-Step Guide to Black Friday/Cyber Monday for 2026 | 1,305 | [rnABOajU28s](https://youtu.be/rnABOajU28s) |
+| 2026-10-22 | Whop just hit a $5.1 BILLION valuation after a $200M investment backed by Shopify and Sequoia 😱 | 2,567 | [AwUpOA1z1fQ](https://youtu.be/AwUpOA1z1fQ) |
+| 2026-10-20 | Shapermint’s $10M TikTok Shop Brand Strategy 🤩 | 522 | [FavH3LxQy_M](https://youtu.be/FavH3LxQy_M) |
+| 2026-10-19 | Higgsfield just launched its new AI ad studio integration with ChatGPT 😱 | 4,141 | [onXNMD4TqH4](https://youtu.be/onXNMD4TqH4) |
+| 2026-10-16 | Hulken’s $100M Brand Strategy 😮 | 1,950 | [3MgrRp6-pIk](https://youtu.be/3MgrRp6-pIk) |
+| 2026-10-15 | The question I always get is what do I actually do? I find what’s stopping brands from growing, | 2,085 | [JEwtdS__2Bk](https://youtu.be/JEwtdS__2Bk) |
+| 2026-10-14 | Comfrt’s Dream Blanket earned $676K on TikTok Shop in just 7 days 🫪 Here’s their creator army | 2,225 | [t2JzdXFdDoQ](https://youtu.be/t2JzdXFdDoQ) |
 | 2026-08-31 | These are the 6 best ad creative concepts I’ve seen in 2026 🤩 | 1,797 | [a8hMomL2sH0](https://youtu.be/a8hMomL2sH0) |
 | 2026-08-28 | The BTS of Bloom Nu’s $100M Creator Army 😱 | 2,255 | [WYzHJbBLQ-c](https://youtu.be/WYzHJbBLQ-c) |
 | 2026-08-27 | Rating Ads 1/10 to 10/10 🫪 Here’s how to make your ads 10/10 | 2,579 | [op7eO_X8vYI](https://youtu.be/op7eO_X8vYI) |

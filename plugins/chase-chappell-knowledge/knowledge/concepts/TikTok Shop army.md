@@ -1,7 +1,7 @@
 ---
 title: TikTok Shop army
 source: "Chase Chappell YouTube"
-verified: 2026-09-01
+verified: 2026-10-29
 drift-risk: medium
 related:
   - "[[Partnership Hub and Euka]]"
@@ -27,6 +27,10 @@ TTS is a **distribution ecosystem**, not a sales channel. One creator video → 
 Samples without training create volume, not winners. Attach an already-winning video and script to the sample; teach one winner on a weekly call; require creators to match the proven **hook, voiceover, scenes, structure, and length**, not merely its visual theme. Show exact-model and partial-model results, then feed the next winning variant back into the brief. The incentive is creator commission: make proven execution the easiest path to getting paid. Chase’s example figures are **claimed**, not audited. [Watch](https://youtu.be/VI_BIMMjlHY)
 
 Bloom is the retention version of the same loop: Discord + brief + winner library + weekly coaching; commission creates posts, winners become new examples, then paid Shop Ads/GMV Max distributes them. Chase claims **70K+ affiliates, 185K+ shoppable videos, nearly 40K shoppable Lives, and ~$500M/year**. [Watch](https://youtu.be/WYzHJbBLQ-c)
+
+## UGC sales-efficiency rubric
+
+Do not rank creator videos on views alone. High-converting examples combine: an immediate visible problem/aesthetic; product shown up close in its natural setting; fit, size, ingredients or use cases; comparison or objection handling; the live offer and purchase path; and a direct CTA with truthful urgency. ASMR, music and hype can earn reach while producing weak sales when the demo or CTA is missing. A narrow video can have low reach but high sales efficiency; a breakout needs both conversion detail and broad relevance. All example sales are **claimed**. [Watch](https://youtu.be/vtjMMvEcxEw)
 
 ## TikTok Ads (paid — not Shop)
 

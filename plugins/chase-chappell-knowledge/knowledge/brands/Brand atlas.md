@@ -1,14 +1,14 @@
 ---
 title: Brand atlas
 source: "Chase Chappell YouTube Shorts"
-verified: 2026-09-01
+verified: 2026-10-29
 drift-risk: medium
 source_url: "https://www.youtube.com/@ChaseChappell/shorts"
 ---
 
 # Brand atlas
 
-241 Shorts (2025-08-21 → 2026-08-31). **Every clip:** [[Shorts catalog]]. Figures are **claimed**.
+251 Shorts (2025-08-21 → 2026-10-28). **Every clip:** [[Shorts catalog]]. Figures are **claimed**.
 
 Shorts = brand-story machine. Three levers repeat: (1) unique Meta ad volume, (2) creator army, (3) TikTok Shop as distribution. Head-to-head winner is almost always **more unique ads** — same as [[33 percent rule]].
 
@@ -37,6 +37,13 @@ Shorts = brand-story machine. Three levers repeat: (1) unique Meta ad volume, (2
 | **Mars Men** | $100M / 18 mo | 430–1,200 ads + quiz; sell the problem | [teUxV3oHdb0](https://youtu.be/teUxV3oHdb0) |
 | **David Protein** | TTS $3M vs Prima $193K | Attention company. [[Villain marketing]] | [teR-MH2kbjw](https://youtu.be/teR-MH2kbjw) |
 | **Smooche** | $10M title; 350+ active Meta ads; 26K TTS products sold; 15–17% popup | Format/angle volume → product PDP → email capture → bundles; TTS winners rotate into Meta | [jnnavCAQKgU](https://youtu.be/jnnavCAQKgU) |
+| **Whop** | $5.1B valuation after claimed $200M investment | Internet-business operating system: site, products, ads, payments and money management | [AwUpOA1z1fQ](https://youtu.be/AwUpOA1z1fQ) |
+| **Shapermint** | $10M TTS; 5K creators; 20K videos; +515% sales in one month | Recruit affiliates who mirror buyers: women 35–65; claimed 60% of top affiliates are in that range | [FavH3LxQy_M](https://youtu.be/FavH3LxQy_M) |
+| **Hulken** | $100M title; 100+ Meta ads | Sell hundreds of use cases; PDP reinforces them with UGC, comparisons, sizes and limited color drops | [3MgrRp6-pIk](https://youtu.be/3MgrRp6-pIk) |
+| **Comfrt** | Dream Blanket: $676K / 7 days; 4,200 units; 2,700 creators | Existing affiliate distribution launched the SKU without one breakout video; claimed top video only $1K | [t2JzdXFdDoQ](https://youtu.be/t2JzdXFdDoQ) |
+| **Magic Mind** | $20M/year; 340+ Meta ads | Three-formula PDP; quantity ladder; claimed up to 60% off and 45% off future subscription orders | [lIYcxC-2Xhw](https://youtu.be/lIYcxC-2Xhw) |
+| **Better Days** | $7M title; founder has 23M+ followers | Founder haircut transformations → Meta; barber affiliate demos → GMV Max; $40 bundle + subscription | [MyH9WBbOKG0](https://youtu.be/MyH9WBbOKG0) |
+| **Carpe** | 10/10 PDP rating; $20 unit pushed toward $60–80 cart | Sweat-management system, education, proof, three-packs, build-a-bundle, free shipping and subscription | [9FGFDhyuUyc](https://youtu.be/9FGFDhyuUyc) |
 
 **TTS specialists (claimed):** Medicube $331M · The Ordinary $37M (47K aff / 87K videos) · Comfrt $75M (4 videos/creator) · Bali Body 100K invites.
 

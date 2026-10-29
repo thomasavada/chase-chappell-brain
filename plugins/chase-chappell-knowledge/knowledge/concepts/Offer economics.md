@@ -1,7 +1,7 @@
 ---
 title: Offer economics
 source: "Chase Chappell YouTube"
-verified: 2026-09-01
+verified: 2026-10-29
 drift-risk: medium
 related:
   - "[[Break-even ROAS and AOV floor]]"
@@ -40,5 +40,9 @@ Chase’s current preference is a full-width, interactive **mystery offer** rath
 ## Cash-flow bound
 
 A subscription brand can deliberately lose on order one because later orders raise LTV and its auction ceiling. That is not permission to spend to a forecast: a small brand can run out of cash before payback arrives. Bundle-first economics are safer when working capital is constrained. [[Three levels of purchase]]
+
+## Seasonal offer ladder
+
+BFCM is a sequence, not one discount stretched across a month: test gift-with-purchase, spend thresholds and bundles in October; give VIP/email/SMS a smaller early-access offer; move into the public main sale; reserve the deepest hero-SKU deal for the peak; then switch to gifting bundles and shipping-deadline angles through December. Change ads, site banners and lifecycle messages with every stage. Early offers should maximize AOV and create a retargeting/list pool; do not burn the deepest discount first. [Watch](https://youtu.be/qAPtMocHz5M)
 
 See `/teach-chase`.

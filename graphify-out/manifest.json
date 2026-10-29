@@ -1,18 +1,18 @@
 {
   "brands/Brand atlas.md": {
-    "mtime": 1788262913.5387166,
-    "ast_hash": "20e1b2d23fca63ef889f9cd87c8fa97c",
-    "semantic_hash": "20e1b2d23fca63ef889f9cd87c8fa97c"
+    "mtime": 1793235830.0161667,
+    "ast_hash": "501d9dd28a0ca7c85a16dd45e7504f82",
+    "semantic_hash": "501d9dd28a0ca7c85a16dd45e7504f82"
   },
   "brands/Shorts catalog.md": {
-    "mtime": 1788262913.4643612,
-    "ast_hash": "085c4407fe5ddab033a9271a8d259bd7",
-    "semantic_hash": "085c4407fe5ddab033a9271a8d259bd7"
+    "mtime": 1793235829.8857777,
+    "ast_hash": "bc1ac42fad2d25780863d6c0ff1fb103",
+    "semantic_hash": "bc1ac42fad2d25780863d6c0ff1fb103"
   },
   "concepts/33 percent rule.md": {
-    "mtime": 1787304440.5271075,
-    "ast_hash": "ab4e50bf9f77bc8ac4035e8f842c9c36",
-    "semantic_hash": "ab4e50bf9f77bc8ac4035e8f842c9c36"
+    "mtime": 1793235830.7335052,
+    "ast_hash": "5682bb7ab0500ac7b654725060aef8d3",
+    "semantic_hash": "5682bb7ab0500ac7b654725060aef8d3"
   },
   "concepts/4-campaign method.md": {
     "mtime": 1787304244.3560252,
@@ -20,9 +20,9 @@
     "semantic_hash": "93fcb12b05f763aff022dc71f25fddc0"
   },
   "concepts/AI creative stack.md": {
-    "mtime": 1787241054.7630866,
-    "ast_hash": "9c8a17132b12475943b2ab67b23ab0d1",
-    "semantic_hash": "9c8a17132b12475943b2ab67b23ab0d1"
+    "mtime": 1793235830.3833103,
+    "ast_hash": "13bf6f3acfd2c010688b8ac47791d70a",
+    "semantic_hash": "13bf6f3acfd2c010688b8ac47791d70a"
   },
   "concepts/Andromeda stack.md": {
     "mtime": 1787304440.527071,
@@ -75,19 +75,19 @@
     "semantic_hash": "b16f2f478d107271697486be576c7f79"
   },
   "concepts/Metric diagnosis tree.md": {
-    "mtime": 1788262913.811442,
-    "ast_hash": "04d5083ed5d2eed7c66eb93ed17fb541",
-    "semantic_hash": "04d5083ed5d2eed7c66eb93ed17fb541"
+    "mtime": 1793235830.1335762,
+    "ast_hash": "14a0307d009c9be856610a151cf00105",
+    "semantic_hash": "14a0307d009c9be856610a151cf00105"
   },
   "concepts/Offer economics.md": {
-    "mtime": 1788262864.1183648,
-    "ast_hash": "693da8f632229fe12c99187c8cdea891",
-    "semantic_hash": "693da8f632229fe12c99187c8cdea891"
+    "mtime": 1793235830.6432252,
+    "ast_hash": "cf80427f36b94c6cca77a37778e680a2",
+    "semantic_hash": "cf80427f36b94c6cca77a37778e680a2"
   },
   "concepts/Partnership Hub and Euka.md": {
-    "mtime": 1787239295.7525623,
-    "ast_hash": "dd51bbdd476b538d55cd6bbb1eb3c354",
-    "semantic_hash": "dd51bbdd476b538d55cd6bbb1eb3c354"
+    "mtime": 1793235830.2484438,
+    "ast_hash": "ccc827f4b8008a30372a6bb33ab3ed00",
+    "semantic_hash": "ccc827f4b8008a30372a6bb33ab3ed00"
   },
   "concepts/Shopify CRO.md": {
     "mtime": 1787310992.2832162,
@@ -100,9 +100,9 @@
     "semantic_hash": "f89805dd1f4412e4aa6b18cf5bfe185c"
   },
   "concepts/TikTok Shop army.md": {
-    "mtime": 1788262913.6327465,
-    "ast_hash": "a76af014eacb3b63e9c155d0d20b1461",
-    "semantic_hash": "a76af014eacb3b63e9c155d0d20b1461"
+    "mtime": 1793235830.5150583,
+    "ast_hash": "eb56f6e5705917bf007d3d12a40cbd51",
+    "semantic_hash": "eb56f6e5705917bf007d3d12a40cbd51"
   },
   "concepts/Villain marketing.md": {
     "mtime": 1787241054.7637289,
@@ -184,6 +184,11 @@
     "ast_hash": "18f52e22d75cb46f5e8f1f4bb6389078",
     "semantic_hash": "18f52e22d75cb46f5e8f1f4bb6389078"
   },
+  "sources/Chase Chappell - Ad Formats to 10X Your Brand.md": {
+    "mtime": 1793235792.5437055,
+    "ast_hash": "4cedd186a39c5555d8ef0d57d76973d3",
+    "semantic_hash": "4cedd186a39c5555d8ef0d57d76973d3"
+  },
   "sources/Chase Chappell - Andromeda Everything Just Changed.md": {
     "mtime": 1787239363.4552972,
     "ast_hash": "ebbafc7f7de2c699ada87705c1d64932",
@@ -198,6 +203,11 @@
     "mtime": 1787239363.4536476,
     "ast_hash": "2269b93f2b17408497785493c7698ce4",
     "semantic_hash": "2269b93f2b17408497785493c7698ce4"
+  },
+  "sources/Chase Chappell - Claude for Meta in 10 Minutes.md": {
+    "mtime": 1793235792.5640023,
+    "ast_hash": "5290dd7d6be179ca1235b9b71bce45ba",
+    "semantic_hash": "5290dd7d6be179ca1235b9b71bce45ba"
   },
   "sources/Chase Chappell - Cloned 100 Winning Ads with AI.md": {
     "mtime": 1787239363.4539287,
@@ -233,6 +243,11 @@
     "mtime": 1787304137.410504,
     "ast_hash": "7ab58149eab26e36e846df50b44fe898",
     "semantic_hash": "7ab58149eab26e36e846df50b44fe898"
+  },
+  "sources/Chase Chappell - Fix Meta False Attribution.md": {
+    "mtime": 1793235792.5427864,
+    "ast_hash": "6497ccd672ffaabd15069db343aaf4b8",
+    "semantic_hash": "6497ccd672ffaabd15069db343aaf4b8"
   },
   "sources/Chase Chappell - Grow Any Brand 20x Faster.md": {
     "mtime": 1787239363.4548442,
@@ -279,6 +294,21 @@
     "ast_hash": "4a752eeee4a4ce792b85d7a94021e48e",
     "semantic_hash": "4a752eeee4a4ce792b85d7a94021e48e"
   },
+  "sources/Chase Chappell - UGC Creator Army Full Guide.md": {
+    "mtime": 1793235792.498053,
+    "ast_hash": "2e300ff0fa01e135d95dd207f332a399",
+    "semantic_hash": "2e300ff0fa01e135d95dd207f332a399"
+  },
+  "sources/Chase Chappell - UGC Video Tier List.md": {
+    "mtime": 1793235792.573677,
+    "ast_hash": "8e03cdcbce8803839f15f97034fd263b",
+    "semantic_hash": "8e03cdcbce8803839f15f97034fd263b"
+  },
+  "sources/Chase Chappell - Ultimate 2026 Black Friday Cyber Monday Guide.md": {
+    "mtime": 1793235792.49802,
+    "ast_hash": "fee51fb323ba73eb431be1e49e7b8936",
+    "semantic_hash": "fee51fb323ba73eb431be1e49e7b8936"
+  },
   "sources/Chase Chappell - Villain Marketing.md": {
     "mtime": 1787239363.4541779,
     "ast_hash": "7386e8ef24e57bfef5ac18852bd38a4b",
@@ -290,8 +320,8 @@
     "semantic_hash": "f6f8296dfab62772e42fe764da632a1f"
   },
   "sources/Source index.md": {
-    "mtime": 1788262913.3517683,
-    "ast_hash": "6cbf5e6a5bd7aeac631fc44c530625ed",
-    "semantic_hash": "6cbf5e6a5bd7aeac631fc44c530625ed"
+    "mtime": 1793235829.7533262,
+    "ast_hash": "d44198ef5d2f0676727d5b07c23d3031",
+    "semantic_hash": "d44198ef5d2f0676727d5b07c23d3031"
   }
 }

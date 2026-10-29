@@ -1,6 +1,6 @@
 ---
 source: "Chase Chappell YouTube"
-verified: 2026-09-01
+verified: 2026-10-29
 drift-risk: medium
 title: Metric diagnosis tree
 related:
@@ -36,5 +36,9 @@ Watch: [If you watch one Facebook Ad video](https://youtu.be/42uhZYnyEXU) — cl
 ## Blended measurement bound
 
 Platform ROAS is a platform’s attribution claim, not the whole customer journey. A buyer can discover on Meta, validate through a TikTok creator, search on Google, and close on Amazon or retail. Do not shut off a demand-creating channel solely because another channel captured the sale. Chase’s 2026 scorecard prioritizes **blended CAC, new-customer CAC, MER, contribution margin, incremental revenue, total profitable revenue growth, and CAC:LTV**. The example of $60 CAC against $240 LTV is **claimed**, not a forecast. [Watch](https://youtu.be/4g5XZtBnGA8)
+
+## False-attribution audit
+
+When ROAS spikes but Shopify revenue or new-customer volume does not, inspect **Breakdown → Audience segments** before scaling. Define engaged audiences (site/email/social), define existing customers with purchaser history plus the customer list, and separate new audience. For cold acquisition, Chase's current sequence is: exclude purchaser/customer/email lists; test the **acquire new customers** lifecycle objective; compare click-only reporting against view/engagement credit; then test Meta's **incremental attribution** model. Reported ROAS should fall if duplicate credit is removed—that is measurement correction, not necessarily performance decay. Settings and availability can drift; verify them in the live account. Figures in the worked example are **claimed**. [Watch](https://youtu.be/uhH0OZwXrUs)
 
 See `/teach-chase`.

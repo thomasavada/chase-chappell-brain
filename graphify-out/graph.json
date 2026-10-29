@@ -592,6 +592,66 @@
       "id": "note_chase_chappell_ecommerce_offer_economics",
       "community": 2,
       "norm_label": "chase chappell - ecommerce offer economics"
+    },
+    {
+      "label": "Chase Chappell - Ad Formats to 10X Your Brand",
+      "file_type": "document",
+      "source_file": "sources/Chase Chappell - Ad Formats to 10X Your Brand.md",
+      "source_location": null,
+      "_origin": "extracted",
+      "id": "note_chase_chappell_ad_formats_to_10x_your_brand",
+      "community": 0,
+      "norm_label": "chase chappell - ad formats to 10x your brand"
+    },
+    {
+      "label": "Chase Chappell - Claude for Meta in 10 Minutes",
+      "file_type": "document",
+      "source_file": "sources/Chase Chappell - Claude for Meta in 10 Minutes.md",
+      "source_location": null,
+      "_origin": "extracted",
+      "id": "note_chase_chappell_claude_for_meta_in_10_minutes",
+      "community": 3,
+      "norm_label": "chase chappell - claude for meta in 10 minutes"
+    },
+    {
+      "label": "Chase Chappell - Fix Meta False Attribution",
+      "file_type": "document",
+      "source_file": "sources/Chase Chappell - Fix Meta False Attribution.md",
+      "source_location": null,
+      "_origin": "extracted",
+      "id": "note_chase_chappell_fix_meta_false_attribution",
+      "community": 0,
+      "norm_label": "chase chappell - fix meta false attribution"
+    },
+    {
+      "label": "Chase Chappell - UGC Creator Army Full Guide",
+      "file_type": "document",
+      "source_file": "sources/Chase Chappell - UGC Creator Army Full Guide.md",
+      "source_location": null,
+      "_origin": "extracted",
+      "id": "note_chase_chappell_ugc_creator_army_full_guide",
+      "community": 6,
+      "norm_label": "chase chappell - ugc creator army full guide"
+    },
+    {
+      "label": "Chase Chappell - UGC Video Tier List",
+      "file_type": "document",
+      "source_file": "sources/Chase Chappell - UGC Video Tier List.md",
+      "source_location": null,
+      "_origin": "extracted",
+      "id": "note_chase_chappell_ugc_video_tier_list",
+      "community": 6,
+      "norm_label": "chase chappell - ugc video tier list"
+    },
+    {
+      "label": "Chase Chappell - Ultimate 2026 Black Friday Cyber Monday Guide",
+      "file_type": "document",
+      "source_file": "sources/Chase Chappell - Ultimate 2026 Black Friday Cyber Monday Guide.md",
+      "source_location": null,
+      "_origin": "extracted",
+      "id": "note_chase_chappell_ultimate_2026_black_friday_cyber_monday_guide",
+      "community": 2,
+      "norm_label": "chase chappell - ultimate 2026 black friday cyber monday guide"
     }
   ],
   "links": [
@@ -3212,6 +3272,336 @@
       "_origin": "extracted",
       "source": "note_offer_economics",
       "target": "note_three_levels_of_purchase"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Chase Chappell - Ad Formats to 10X Your Brand.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_33_percent_rule",
+      "target": "note_chase_chappell_ad_formats_to_10x_your_brand"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Chase Chappell - Claude for Meta in 10 Minutes.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_33_percent_rule",
+      "target": "note_chase_chappell_claude_for_meta_in_10_minutes"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Chase Chappell - UGC Creator Army Full Guide.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_33_percent_rule",
+      "target": "note_chase_chappell_ugc_creator_army_full_guide"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Chase Chappell - UGC Video Tier List.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_33_percent_rule",
+      "target": "note_chase_chappell_ugc_video_tier_list"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Chase Chappell - Ultimate 2026 Black Friday Cyber Monday Guide.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_33_percent_rule",
+      "target": "note_chase_chappell_ultimate_2026_black_friday_cyber_monday_guide"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Chase Chappell - Fix Meta False Attribution.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_4_campaign_method",
+      "target": "note_chase_chappell_fix_meta_false_attribution"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Chase Chappell - Claude for Meta in 10 Minutes.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_ai_creative_stack",
+      "target": "note_chase_chappell_claude_for_meta_in_10_minutes"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Chase Chappell - Ad Formats to 10X Your Brand.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_awareness_ladder",
+      "target": "note_chase_chappell_ad_formats_to_10x_your_brand"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Chase Chappell - Fix Meta False Attribution.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_capi_matchback",
+      "target": "note_chase_chappell_fix_meta_false_attribution"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Chase Chappell - Ad Formats to 10X Your Brand.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_chase_chappell_ad_formats_to_10x_your_brand",
+      "target": "note_playbook"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Source index.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_chase_chappell_ad_formats_to_10x_your_brand",
+      "target": "note_source_index"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Chase Chappell - Ad Formats to 10X Your Brand.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_chase_chappell_ad_formats_to_10x_your_brand",
+      "target": "note_tiktok_shop_army"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Chase Chappell - Claude for Meta in 10 Minutes.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_chase_chappell_claude_for_meta_in_10_minutes",
+      "target": "note_metric_diagnosis_tree"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Chase Chappell - Claude for Meta in 10 Minutes.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_chase_chappell_claude_for_meta_in_10_minutes",
+      "target": "note_playbook"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Source index.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_chase_chappell_claude_for_meta_in_10_minutes",
+      "target": "note_source_index"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Chase Chappell - Fix Meta False Attribution.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_chase_chappell_fix_meta_false_attribution",
+      "target": "note_metric_diagnosis_tree"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Chase Chappell - Fix Meta False Attribution.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_chase_chappell_fix_meta_false_attribution",
+      "target": "note_playbook"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Source index.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_chase_chappell_fix_meta_false_attribution",
+      "target": "note_source_index"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Chase Chappell - UGC Creator Army Full Guide.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_chase_chappell_ugc_creator_army_full_guide",
+      "target": "note_partnership_hub_and_euka"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Chase Chappell - UGC Creator Army Full Guide.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_chase_chappell_ugc_creator_army_full_guide",
+      "target": "note_playbook"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Source index.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_chase_chappell_ugc_creator_army_full_guide",
+      "target": "note_source_index"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Chase Chappell - UGC Creator Army Full Guide.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_chase_chappell_ugc_creator_army_full_guide",
+      "target": "note_tiktok_shop_army"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Chase Chappell - UGC Video Tier List.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_chase_chappell_ugc_video_tier_list",
+      "target": "note_partnership_hub_and_euka"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Chase Chappell - UGC Video Tier List.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_chase_chappell_ugc_video_tier_list",
+      "target": "note_playbook"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Source index.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_chase_chappell_ugc_video_tier_list",
+      "target": "note_source_index"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Chase Chappell - UGC Video Tier List.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_chase_chappell_ugc_video_tier_list",
+      "target": "note_tiktok_shop_army"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Chase Chappell - Ultimate 2026 Black Friday Cyber Monday Guide.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_chase_chappell_ultimate_2026_black_friday_cyber_monday_guide",
+      "target": "note_email_and_sms"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Chase Chappell - Ultimate 2026 Black Friday Cyber Monday Guide.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_chase_chappell_ultimate_2026_black_friday_cyber_monday_guide",
+      "target": "note_offer_economics"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Chase Chappell - Ultimate 2026 Black Friday Cyber Monday Guide.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_chase_chappell_ultimate_2026_black_friday_cyber_monday_guide",
+      "target": "note_playbook"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Source index.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_chase_chappell_ultimate_2026_black_friday_cyber_monday_guide",
+      "target": "note_source_index"
     }
   ]
 }
