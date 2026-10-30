@@ -1,14 +1,14 @@
 ---
 title: Brand atlas
 source: "Chase Chappell YouTube Shorts"
-verified: 2026-10-29
+verified: 2026-10-30
 drift-risk: medium
 source_url: "https://www.youtube.com/@ChaseChappell/shorts"
 ---
 
 # Brand atlas
 
-251 Shorts (2025-08-21 → 2026-10-28). **Every clip:** [[Shorts catalog]]. Figures are **claimed**.
+253 Shorts (2025-08-21 → 2026-10-29). **Every clip:** [[Shorts catalog]]. Figures are **claimed**.
 
 Shorts = brand-story machine. Three levers repeat: (1) unique Meta ad volume, (2) creator army, (3) TikTok Shop as distribution. Head-to-head winner is almost always **more unique ads** — same as [[33 percent rule]].
 
@@ -20,7 +20,7 @@ Shorts = brand-story machine. Three levers repeat: (1) unique Meta ad volume, (2
 | **Aritzia** | $2B | Apparel brand strategy | [58guHZ71CLc](https://youtu.be/58guHZ71CLc) |
 | **Huel** | $1.3B; 790 ads | Hook × persona × format | [AfWZgn1iPjU](https://youtu.be/AfWZgn1iPjU) |
 | **Grüns** | $1.2B exit / 30 mo | Meta flood + TTS; beats Bloom (12 ads) and AG1 | [x_KE6_2ek4I](https://youtu.be/x_KE6_2ek4I) |
-| **Medicube** | $331M TTS | Creator-powered money machine, not a skincare brand | [UGVDz3fJDkE](https://youtu.be/UGVDz3fJDkE) |
+| **Medicube** | $331M TTS; tens of thousands of creators and hundreds of thousands of content pieces | Creator-powered money machine: creator breadth multiplies hooks, audiences and chances to find winners | [strategy](https://youtu.be/UGVDz3fJDkE) · [army](https://youtu.be/9COBcEbErc0) |
 | **Factor** | $1B | Stacked freebies on first box | [uzNSgAb3GEI](https://youtu.be/uzNSgAb3GEI) |
 | **Vuori** | $1B; 1,700 ads | 10× Rhone (670 vs 60) | [-iZAyD0-v5s](https://youtu.be/-iZAyD0-v5s) |
 | **Alo Yoga** | $1B; 990 ads | Offers/collabs vs Lululemon | [0EMwTkfzUC0](https://youtu.be/0EMwTkfzUC0) |
@@ -40,10 +40,14 @@ Shorts = brand-story machine. Three levers repeat: (1) unique Meta ad volume, (2
 | **Whop** | $5.1B valuation after claimed $200M investment | Internet-business operating system: site, products, ads, payments and money management | [AwUpOA1z1fQ](https://youtu.be/AwUpOA1z1fQ) |
 | **Shapermint** | $10M TTS; 5K creators; 20K videos; +515% sales in one month | Recruit affiliates who mirror buyers: women 35–65; claimed 60% of top affiliates are in that range | [FavH3LxQy_M](https://youtu.be/FavH3LxQy_M) |
 | **Hulken** | $100M title; 100+ Meta ads | Sell hundreds of use cases; PDP reinforces them with UGC, comparisons, sizes and limited color drops | [3MgrRp6-pIk](https://youtu.be/3MgrRp6-pIk) |
-| **Comfrt** | Dream Blanket: $676K / 7 days; 4,200 units; 2,700 creators | Existing affiliate distribution launched the SKU without one breakout video; claimed top video only $1K | [t2JzdXFdDoQ](https://youtu.be/t2JzdXFdDoQ) |
+| **Comfrt** | Dream Blanket: $676K / 7 days; 4,200 units; 2,700 creators; 9K creators made 50K+ videos / 130 days | Existing affiliate distribution launched the SKU without one breakout video; optimize repeat-post ratio and treat Live as an always-on QVC channel | [launch](https://youtu.be/t2JzdXFdDoQ) · [army](https://youtu.be/9COBcEbErc0) |
 | **Magic Mind** | $20M/year; 340+ Meta ads | Three-formula PDP; quantity ladder; claimed up to 60% off and 45% off future subscription orders | [lIYcxC-2Xhw](https://youtu.be/lIYcxC-2Xhw) |
 | **Better Days** | $7M title; founder has 23M+ followers | Founder haircut transformations → Meta; barber affiliate demos → GMV Max; $40 bundle + subscription | [MyH9WBbOKG0](https://youtu.be/MyH9WBbOKG0) |
 | **Carpe** | 10/10 PDP rating; $20 unit pushed toward $60–80 cart | Sweat-management system, education, proof, three-packs, build-a-bundle, free shipping and subscription | [9FGFDhyuUyc](https://youtu.be/9FGFDhyuUyc) |
+| **Tarte** | $100M+ TikTok Shop title | Discord, challenges, incentives and a visible earnings roadmap gamify creator performance | [9COBcEbErc0](https://youtu.be/9COBcEbErc0) |
+| **Goli** | No new economics stated | Bundles, aggressive promotions and hero products give affiliates an offer that converts | [9COBcEbErc0](https://youtu.be/9COBcEbErc0) |
+| **Dr. Melaxin** | No economics stated | Amplify organic creator winners with GMV Max, then return winning concepts to the army for variations | [9COBcEbErc0](https://youtu.be/9COBcEbErc0) |
+| **Nakery Beauty** | $100M sales / 3 years; HSN's #1 beauty brand | Founder-led HSN demos reached women 50+ where they already shop; channel dominance then supported Ulta expansion | [Id6E-LWckzg](https://youtu.be/Id6E-LWckzg) |
 
 **TTS specialists (claimed):** Medicube $331M · The Ordinary $37M (47K aff / 87K videos) · Comfrt $75M (4 videos/creator) · Bali Body 100K invites.
 

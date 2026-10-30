@@ -1,7 +1,7 @@
 ---
 title: TikTok Shop army
 source: "Chase Chappell YouTube"
-verified: 2026-10-29
+verified: 2026-10-30
 drift-risk: medium
 related:
   - "[[Partnership Hub and Euka]]"
@@ -27,6 +27,10 @@ TTS is a **distribution ecosystem**, not a sales channel. One creator video → 
 Samples without training create volume, not winners. Attach an already-winning video and script to the sample; teach one winner on a weekly call; require creators to match the proven **hook, voiceover, scenes, structure, and length**, not merely its visual theme. Show exact-model and partial-model results, then feed the next winning variant back into the brief. The incentive is creator commission: make proven execution the easiest path to getting paid. Chase’s example figures are **claimed**, not audited. [Watch](https://youtu.be/VI_BIMMjlHY)
 
 Bloom is the retention version of the same loop: Discord + brief + winner library + weekly coaching; commission creates posts, winners become new examples, then paid Shop Ads/GMV Max distributes them. Chase claims **70K+ affiliates, 185K+ shoppable videos, nearly 40K shoppable Lives, and ~$500M/year**. [Watch](https://youtu.be/WYzHJbBLQ-c)
+
+## Decentralized sales-force loop
+
+Do not optimize for one post per sample. Recruit broadly, train creators in a community, drive **3–10 posts from the best creators**, identify organic winners, amplify them with GMV Max, send the winning concepts back for variations, add Live, reward top performers and repeat. Chase's benchmark example is **claimed**: Comfrt's roughly **9K creators produced 50K+ videos in 130 days**—more than five per active creator—and its thousands of weekly Lives operate like an always-on QVC channel. Tarte adds challenges and incentives; Goli makes the creator's job easier with bundles, promotions and hero offers; Dr. Melaxin closes the loop by feeding paid winners back into the army. The operating model is a decentralized sales force, not a sequence of influencer campaigns. [Watch](https://youtu.be/9COBcEbErc0)
 
 ## UGC sales-efficiency rubric
 

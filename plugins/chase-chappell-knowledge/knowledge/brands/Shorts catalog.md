@@ -1,8 +1,8 @@
 ---
 type: index
-title: "Chase Chappell — Shorts Catalog (251)"
+title: "Chase Chappell — Shorts Catalog (253)"
 created: 2026-08-20
-updated: 2026-10-29
+updated: 2026-10-30
 tags:
   - marketing
   - ecommerce
@@ -16,12 +16,14 @@ related:
 
 # Chase Chappell — Shorts Catalog
 
-**251 YouTube Shorts** ([channel](https://www.youtube.com/@ChaseChappell/shorts), 2025-08-21 → 2026-10-28). Click **Watch** to open the actual clip.
+**253 YouTube Shorts** ([channel](https://www.youtube.com/@ChaseChappell/shorts), 2025-08-21 → 2026-10-29). Click **Watch** to open the actual clip.
 
 Brand stories / theses: [[Brand atlas]]. Long-form: [[Source index]].
 
 | Date | Title | Views | Watch |
 |---|---|---:|---|
+| 2026-10-29 | Comment “TikTok Shop” & I’ll Send It ✅ | 88 | [9COBcEbErc0](https://youtu.be/9COBcEbErc0) |
+| 2026-10-29 | Comment ‘BEAUTY’ for the full guide ✅ | 307 | [Id6E-LWckzg](https://youtu.be/Id6E-LWckzg) |
 | 2026-10-28 | Comment ‘CRO’ for the full guide 🚀 | 73 | [9FGFDhyuUyc](https://youtu.be/9FGFDhyuUyc) |
 | 2026-10-28 | Comment ‘FUNNEL’ for the full strategy ✅ | 207 | [MyH9WBbOKG0](https://youtu.be/MyH9WBbOKG0) |
 | 2026-10-28 | Comment ‘MAGIC’ and I’ll send the full strategy ✅ | 549 | [lIYcxC-2Xhw](https://youtu.be/lIYcxC-2Xhw) |
