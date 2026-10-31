@@ -1,13 +1,13 @@
 {
   "brands/Brand atlas.md": {
-    "mtime": 1793235830.0161667,
-    "ast_hash": "501d9dd28a0ca7c85a16dd45e7504f82",
-    "semantic_hash": "501d9dd28a0ca7c85a16dd45e7504f82"
+    "mtime": 1793408522.2072961,
+    "ast_hash": "6f2bc78e7b779a4ca80e9af406d01b33",
+    "semantic_hash": "6f2bc78e7b779a4ca80e9af406d01b33"
   },
   "brands/Shorts catalog.md": {
-    "mtime": 1793235829.8857777,
-    "ast_hash": "bc1ac42fad2d25780863d6c0ff1fb103",
-    "semantic_hash": "bc1ac42fad2d25780863d6c0ff1fb103"
+    "mtime": 1793408522.0686374,
+    "ast_hash": "ada0d475bf298a3b417dc559dc3105ab",
+    "semantic_hash": "ada0d475bf298a3b417dc559dc3105ab"
   },
   "concepts/33 percent rule.md": {
     "mtime": 1793235830.7335052,
@@ -90,9 +90,9 @@
     "semantic_hash": "ccc827f4b8008a30372a6bb33ab3ed00"
   },
   "concepts/Shopify CRO.md": {
-    "mtime": 1787310992.2832162,
-    "ast_hash": "d1478d124e26273084d5e58a823cf3b2",
-    "semantic_hash": "d1478d124e26273084d5e58a823cf3b2"
+    "mtime": 1793408521.9386206,
+    "ast_hash": "02bb708a010d43c1dbc03b0d8343c9f1",
+    "semantic_hash": "02bb708a010d43c1dbc03b0d8343c9f1"
   },
   "concepts/Three levels of purchase.md": {
     "mtime": 1788262913.7175832,
@@ -100,9 +100,9 @@
     "semantic_hash": "f89805dd1f4412e4aa6b18cf5bfe185c"
   },
   "concepts/TikTok Shop army.md": {
-    "mtime": 1793235830.5150583,
-    "ast_hash": "eb56f6e5705917bf007d3d12a40cbd51",
-    "semantic_hash": "eb56f6e5705917bf007d3d12a40cbd51"
+    "mtime": 1793322276.734201,
+    "ast_hash": "61d3c0d1e542117bf6c4b24015989fe9",
+    "semantic_hash": "61d3c0d1e542117bf6c4b24015989fe9"
   },
   "concepts/Villain marketing.md": {
     "mtime": 1787241054.7637289,
@@ -153,6 +153,11 @@
     "mtime": 1787239363.4545498,
     "ast_hash": "9288bbdf933b0c6a011867a99c755744",
     "semantic_hash": "9288bbdf933b0c6a011867a99c755744"
+  },
+  "sources/Chase Chappell - 1B Funnel Strategy 2026.md": {
+    "mtime": 1793408521.6850638,
+    "ast_hash": "12af3444d2234faf606a632da654d9d7",
+    "semantic_hash": "12af3444d2234faf606a632da654d9d7"
   },
   "sources/Chase Chappell - 200+ AI Tools.md": {
     "mtime": 1787239363.4547362,
@@ -320,8 +325,8 @@
     "semantic_hash": "f6f8296dfab62772e42fe764da632a1f"
   },
   "sources/Source index.md": {
-    "mtime": 1793235829.7533262,
-    "ast_hash": "d44198ef5d2f0676727d5b07c23d3031",
-    "semantic_hash": "d44198ef5d2f0676727d5b07c23d3031"
+    "mtime": 1793408521.828427,
+    "ast_hash": "79a816b24c097e5f9580a727724b360c",
+    "semantic_hash": "79a816b24c097e5f9580a727724b360c"
   }
 }

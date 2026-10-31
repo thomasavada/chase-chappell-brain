@@ -652,6 +652,16 @@
       "id": "note_chase_chappell_ultimate_2026_black_friday_cyber_monday_guide",
       "community": 2,
       "norm_label": "chase chappell - ultimate 2026 black friday cyber monday guide"
+    },
+    {
+      "label": "Chase Chappell - 1B Funnel Strategy 2026",
+      "file_type": "document",
+      "source_file": "sources/Chase Chappell - 1B Funnel Strategy 2026.md",
+      "source_location": null,
+      "_origin": "extracted",
+      "id": "note_chase_chappell_1b_funnel_strategy_2026",
+      "community": 2,
+      "norm_label": "chase chappell - 1b funnel strategy 2026"
     }
   ],
   "links": [
@@ -3602,6 +3612,61 @@
       "_origin": "extracted",
       "source": "note_chase_chappell_ultimate_2026_black_friday_cyber_monday_guide",
       "target": "note_source_index"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Chase Chappell - 1B Funnel Strategy 2026.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_chase_chappell_1b_funnel_strategy_2026",
+      "target": "note_email_and_sms"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Chase Chappell - 1B Funnel Strategy 2026.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_chase_chappell_1b_funnel_strategy_2026",
+      "target": "note_playbook"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Chase Chappell - 1B Funnel Strategy 2026.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_chase_chappell_1b_funnel_strategy_2026",
+      "target": "note_shopify_cro"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Source index.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_chase_chappell_1b_funnel_strategy_2026",
+      "target": "note_source_index"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Chase Chappell - 1B Funnel Strategy 2026.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_chase_chappell_1b_funnel_strategy_2026",
+      "target": "note_three_levels_of_purchase"
     }
   ]
 }

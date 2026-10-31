@@ -1,14 +1,14 @@
 ---
 title: Brand atlas
 source: "Chase Chappell YouTube Shorts"
-verified: 2026-10-30
+verified: 2026-10-31
 drift-risk: medium
 source_url: "https://www.youtube.com/@ChaseChappell/shorts"
 ---
 
 # Brand atlas
 
-253 Shorts (2025-08-21 → 2026-10-29). **Every clip:** [[Shorts catalog]]. Figures are **claimed**.
+254 Shorts (2025-08-21 → 2026-10-30). **Every clip:** [[Shorts catalog]]. Figures are **claimed**.
 
 Shorts = brand-story machine. Three levers repeat: (1) unique Meta ad volume, (2) creator army, (3) TikTok Shop as distribution. Head-to-head winner is almost always **more unique ads** — same as [[33 percent rule]].
 
@@ -48,6 +48,7 @@ Shorts = brand-story machine. Three levers repeat: (1) unique Meta ad volume, (2
 | **Goli** | No new economics stated | Bundles, aggressive promotions and hero products give affiliates an offer that converts | [9COBcEbErc0](https://youtu.be/9COBcEbErc0) |
 | **Dr. Melaxin** | No economics stated | Amplify organic creator winners with GMV Max, then return winning concepts to the army for variations | [9COBcEbErc0](https://youtu.be/9COBcEbErc0) |
 | **Nakery Beauty** | $100M sales / 3 years; HSN's #1 beauty brand | Founder-led HSN demos reached women 50+ where they already shop; channel dominance then supported Ulta expansion | [Id6E-LWckzg](https://youtu.be/Id6E-LWckzg) |
+| **Veronica Beard** | $400M+; 1M+ Dickey jackets sold; 50+ stores | Start with one expandable hero: interchangeable Dickey inserts made the blazer a versatile wardrobe system, built loyalty, then supported category expansion | [y7KeF2M94dY](https://youtu.be/y7KeF2M94dY) |
 
 **TTS specialists (claimed):** Medicube $331M · The Ordinary $37M (47K aff / 87K videos) · Comfrt $75M (4 videos/creator) · Bali Body 100K invites.
 

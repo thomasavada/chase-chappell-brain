@@ -1,6 +1,6 @@
 ---
 source: "Chase Chappell YouTube"
-verified: 2026-08-21
+verified: 2026-10-31
 drift-risk: medium
 title: Shopify CRO
 related:
@@ -35,6 +35,15 @@ Claimed Shopify average CVR **1.4%**. 4x that without extra spend (claimed: $50k
 Everyday Dose / Graza / Carpe as examples: hero offer visible without scroll, subscribe-and-save **on**, quantity/bundle in one view, drawer with upsells, strike-through + free-ship bar. L2 AOV still lives in [[Three levels of purchase]] — this note is the *site* that makes L2 clickable.
 
 Chase also says “hero mechanism” here for that **stack**. The *named why it works* (Whoop recovery score, Rhode glazing) lives in [[Hero mechanism]] — do not collapse.
+
+## Four website-psychology jobs
+
+[The $1B Funnel Strategy](https://youtu.be/cdoh-DON5jA) adds four distinct jobs; treat them as hypotheses to test, not universal lifts:
+
+1. **Winner effect — earn the capture:** replace the obvious email-for-discount exchange with an interactive reveal, quiz or mystery offer. The offer may be fixed, but the visitor took an action to unlock it, increasing perceived ownership. Chase claims **2.3×** email-submit likelihood and **$50K–$100K/month** potential impact; both are **claimed**, not audited. [Watch](https://youtu.be/cdoh-DON5jA?t=31)
+2. **Subscription baiting — price the lifetime:** make subscribe-and-save materially more attractive than one-time purchase, then support the acquisition subsidy with shipment reminders, failed-payment recovery, cancellation saves and churn work. It is valid only when retained contribution covers CAC; first-order loss alone is not a strategy. [Watch](https://youtu.be/cdoh-DON5jA?t=160)
+3. **Perfect-match effect — narrow uncertainty:** use quizzes, shade finders and guided recommendations to turn a large catalog into a small, personally relevant choice set. This recreates the diagnostic work of a good in-store salesperson. [Watch](https://youtu.be/cdoh-DON5jA?t=300)
+4. **Trigger stack — remove reasons not to buy:** map objections, then answer each with the matching device: reviews, recent purchase activity, mechanism education, comparisons, clinical or regulatory credibility where legitimate, specifications and realistic usage/result expectations. A PDP is a sales presentation, not images plus an ATC button. [Watch](https://youtu.be/cdoh-DON5jA?t=423)
 
 ## Owned recovery (do not duplicate)
 

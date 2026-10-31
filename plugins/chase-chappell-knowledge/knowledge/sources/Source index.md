@@ -1,15 +1,16 @@
 ---
 title: Source index
 source: "Chase Chappell YouTube"
-verified: 2026-10-29
+verified: 2026-10-31
 ---
 
 # Source index
 
-39 long-form cards. Click **Watch**. Doctrine lives in `../concepts/`.
+40 long-form cards. Click **Watch**. Doctrine lives in `../concepts/`.
 
 | Date | Note | Watch | Thesis |
 |---|---|---|---|
+| 2026-10-30 | [[Chase Chappell - 1B Funnel Strategy 2026]] | [cdoh-DON5jA](https://youtu.be/cdoh-DON5jA) | Turn the site into a confidence system: earned capture, subscription economics, personalized matching and an objection-clearing trigger stack. |
 | 2026-10-23 | [[Chase Chappell - Ultimate 2026 Black Friday Cyber Monday Guide]] | [qAPtMocHz5M](https://youtu.be/qAPtMocHz5M) | Run an October-to-December offer ladder: test → VIP → main sale → hero deal → gifting. |
 | 2026-10-09 | [[Chase Chappell - UGC Creator Army Full Guide]] | [yvco21OOxpM](https://youtu.be/yvco21OOxpM) | Duplicate the TTS affiliate loop across Instagram, Meta and YouTube; organic winners become licensed ads. |
 | 2026-10-02 | [[Chase Chappell - Fix Meta False Attribution]] | [uhH0OZwXrUs](https://youtu.be/uhH0OZwXrUs) | Segment new/engaged/existing, exclude known customers from cold, and test click-only plus incremental attribution. |
