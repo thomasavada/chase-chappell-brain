@@ -1,14 +1,14 @@
 ---
 title: Brand atlas
 source: "Chase Chappell YouTube Shorts"
-verified: 2026-11-03
+verified: 2026-11-04
 drift-risk: medium
 source_url: "https://www.youtube.com/@ChaseChappell/shorts"
 ---
 
 # Brand atlas
 
-255 Shorts (2025-08-21 → 2026-11-02). **Every clip:** [[Shorts catalog]]. Figures are **claimed**.
+256 Shorts (2025-08-21 → 2026-11-03). **Every clip:** [[Shorts catalog]]. Figures are **claimed**.
 
 Shorts = brand-story machine. Three levers repeat: (1) unique Meta ad volume, (2) creator army, (3) TikTok Shop as distribution. Head-to-head winner is almost always **more unique ads** — same as [[33 percent rule]].
 
@@ -50,6 +50,7 @@ Shorts = brand-story machine. Three levers repeat: (1) unique Meta ad volume, (2
 | **Nakery Beauty** | $100M sales / 3 years; HSN's #1 beauty brand | Founder-led HSN demos reached women 50+ where they already shop; channel dominance then supported Ulta expansion | [Id6E-LWckzg](https://youtu.be/Id6E-LWckzg) |
 | **Veronica Beard** | $400M+; 1M+ Dickey jackets sold; 50+ stores | Start with one expandable hero: interchangeable Dickey inserts made the blazer a versatile wardrobe system, built loyalty, then supported category expansion | [y7KeF2M94dY](https://youtu.be/y7KeF2M94dY) |
 | **Jetty (from Poppi's founders)** | Chase's claimed launch target: $1M/month in under 90 days; 3,000 TikTok affiliate videos in the first 30 days | Recruit fitness, lifestyle and wellness affiliates pre-launch; amplify the top 5% of creator videos, port winners into broad-targeted Meta hook tests, lift AOV/LTV with bundles and subscribe-and-save, then turn TikTok discovery into Amazon repeat demand via variety packs and sponsored branded search | [RlbyiJ1DlXg](https://youtu.be/RlbyiJ1DlXg) |
+| **Waterdrop** | $100M/year; 20+ drink flavors (claimed) | Replace shipped bottled drinks with flavor cubes customers mix into water; use reusable bottles and accessories to lift customer value, flavors to drive repeat purchase, test demand in small kiosks before larger stores, then expand through DTC, Amazon, Walmart and Target | [WOsxDSIyb7A](https://youtu.be/WOsxDSIyb7A) |
 
 **TTS specialists (claimed):** Medicube $331M · The Ordinary $37M (47K aff / 87K videos) · Comfrt $75M (4 videos/creator) · Bali Body 100K invites.
 
