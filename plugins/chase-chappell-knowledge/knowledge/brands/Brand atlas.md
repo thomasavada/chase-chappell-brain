@@ -8,7 +8,7 @@ source_url: "https://www.youtube.com/@ChaseChappell/shorts"
 
 # Brand atlas
 
-256 Shorts (2025-08-21 → 2026-11-03). **Every clip:** [[Shorts catalog]]. Figures are **claimed**.
+257 Shorts (2025-08-21 → 2026-11-04). **Every clip:** [[Shorts catalog]]. Figures are **claimed**.
 
 Shorts = brand-story machine. Three levers repeat: (1) unique Meta ad volume, (2) creator army, (3) TikTok Shop as distribution. Head-to-head winner is almost always **more unique ads** — same as [[33 percent rule]].
 

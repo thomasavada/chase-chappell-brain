@@ -1,6 +1,6 @@
 ---
 type: index
-title: "Chase Chappell — Shorts Catalog (256)"
+title: "Chase Chappell — Shorts Catalog (257)"
 created: 2026-08-20
 updated: 2026-11-04
 tags:
@@ -16,12 +16,13 @@ related:
 
 # Chase Chappell — Shorts Catalog
 
-**256 YouTube Shorts** ([channel](https://www.youtube.com/@ChaseChappell/shorts), 2025-08-21 → 2026-11-03). Click **Watch** to open the actual clip.
+**257 YouTube Shorts** ([channel](https://www.youtube.com/@ChaseChappell/shorts), 2025-08-21 → 2026-11-04). Click **Watch** to open the actual clip.
 
 Brand stories / theses: [[Brand atlas]]. Long-form: [[Source index]].
 
 | Date | Title | Views | Watch |
 |---|---|---:|---|
+| 2026-11-04 | Comment ‘CLAUDE’ and I’ll send it ✅ | 1,266 | [AKvev3zRH_E](https://youtu.be/AKvev3zRH_E) |
 | 2026-11-03 | Comment ‘WATERDROP’ for the full strategy ✅ | 649 | [WOsxDSIyb7A](https://youtu.be/WOsxDSIyb7A) |
 | 2026-11-02 | Comment ‘FUNNEL’ and I’ll send you the full playbook ✅ | 436 | [RlbyiJ1DlXg](https://youtu.be/RlbyiJ1DlXg) |
 | 2026-10-30 | Comment ‘GUIDE’ for the full strategy ✅ | 502 | [y7KeF2M94dY](https://youtu.be/y7KeF2M94dY) |
