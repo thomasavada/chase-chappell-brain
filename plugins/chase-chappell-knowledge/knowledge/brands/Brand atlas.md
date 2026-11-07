@@ -1,14 +1,14 @@
 ---
 title: Brand atlas
 source: "Chase Chappell YouTube Shorts"
-verified: 2026-11-04
+verified: 2026-11-07
 drift-risk: medium
 source_url: "https://www.youtube.com/@ChaseChappell/shorts"
 ---
 
 # Brand atlas
 
-257 Shorts (2025-08-21 → 2026-11-04). **Every clip:** [[Shorts catalog]]. Figures are **claimed**.
+259 Shorts (2025-08-21 → 2026-11-06), plus selected long-form brand studies. **Every Short:** [[Shorts catalog]]. Figures are **claimed**.
 
 Shorts = brand-story machine. Three levers repeat: (1) unique Meta ad volume, (2) creator army, (3) TikTok Shop as distribution. Head-to-head winner is almost always **more unique ads** — same as [[33 percent rule]].
 
@@ -51,6 +51,7 @@ Shorts = brand-story machine. Three levers repeat: (1) unique Meta ad volume, (2
 | **Veronica Beard** | $400M+; 1M+ Dickey jackets sold; 50+ stores | Start with one expandable hero: interchangeable Dickey inserts made the blazer a versatile wardrobe system, built loyalty, then supported category expansion | [y7KeF2M94dY](https://youtu.be/y7KeF2M94dY) |
 | **Jetty (from Poppi's founders)** | Chase's claimed launch target: $1M/month in under 90 days; 3,000 TikTok affiliate videos in the first 30 days | Recruit fitness, lifestyle and wellness affiliates pre-launch; amplify the top 5% of creator videos, port winners into broad-targeted Meta hook tests, lift AOV/LTV with bundles and subscribe-and-save, then turn TikTok discovery into Amazon repeat demand via variety packs and sponsored branded search | [RlbyiJ1DlXg](https://youtu.be/RlbyiJ1DlXg) |
 | **Waterdrop** | $100M/year; 20+ drink flavors (claimed) | Replace shipped bottled drinks with flavor cubes customers mix into water; use reusable bottles and accessories to lift customer value, flavors to drive repeat purchase, test demand in small kiosks before larger stores, then expand through DTC, Amazon, Walmart and Target | [WOsxDSIyb7A](https://youtu.be/WOsxDSIyb7A) |
+| **Touchland** | Kickstarter $67K; ~$45 AOV; $2M → $12M annual sales; $16M (2022) → $48M (2023) → $115M (2024); acquisition valued up to $880M; all claimed | Turn sanitizer into premium beauty through non-sticky spray, scents, gifting and collectibility; use premium retailers to change the comparison set, then pair 4,000+ locations with a claimed 13,500-creator TikTok affiliate army and 46,000+ shoppable videos | [WJlRsWyv5cs](https://youtu.be/WJlRsWyv5cs) |
 
 **TTS specialists (claimed):** Medicube $331M · The Ordinary $37M (47K aff / 87K videos) · Comfrt $75M (4 videos/creator) · Bali Body 100K invites.
 

@@ -1,13 +1,13 @@
 {
   "brands/Brand atlas.md": {
-    "mtime": 1793408522.2072961,
-    "ast_hash": "6f2bc78e7b779a4ca80e9af406d01b33",
-    "semantic_hash": "6f2bc78e7b779a4ca80e9af406d01b33"
+    "mtime": 1794013346.1071973,
+    "ast_hash": "005b3b7f993a92262cf3a4a7ceda97d1",
+    "semantic_hash": "005b3b7f993a92262cf3a4a7ceda97d1"
   },
   "brands/Shorts catalog.md": {
-    "mtime": 1793408522.0686374,
-    "ast_hash": "ada0d475bf298a3b417dc559dc3105ab",
-    "semantic_hash": "ada0d475bf298a3b417dc559dc3105ab"
+    "mtime": 1794013345.9477031,
+    "ast_hash": "33b3457bf37cd20fcccff9b8fb3b80bb",
+    "semantic_hash": "33b3457bf37cd20fcccff9b8fb3b80bb"
   },
   "concepts/33 percent rule.md": {
     "mtime": 1793235830.7335052,
@@ -20,9 +20,9 @@
     "semantic_hash": "93fcb12b05f763aff022dc71f25fddc0"
   },
   "concepts/AI creative stack.md": {
-    "mtime": 1793235830.3833103,
-    "ast_hash": "13bf6f3acfd2c010688b8ac47791d70a",
-    "semantic_hash": "13bf6f3acfd2c010688b8ac47791d70a"
+    "mtime": 1793840515.5036771,
+    "ast_hash": "8cfd0c64267a8dfb12d289117e7a4436",
+    "semantic_hash": "8cfd0c64267a8dfb12d289117e7a4436"
   },
   "concepts/Andromeda stack.md": {
     "mtime": 1787304440.527071,
@@ -279,6 +279,11 @@
     "ast_hash": "860c1b1594e9485169b5444484ba6037",
     "semantic_hash": "860c1b1594e9485169b5444484ba6037"
   },
+  "sources/Chase Chappell - Rise of Touchland.md": {
+    "mtime": 1794013345.7344704,
+    "ast_hash": "c9ee0e346d7e2fab690b127910b73600",
+    "semantic_hash": "c9ee0e346d7e2fab690b127910b73600"
+  },
   "sources/Chase Chappell - Scale Facebook Ads 2026.md": {
     "mtime": 1787239363.4549866,
     "ast_hash": "e85e6bcaaa239827753ce120e44f17e9",
@@ -325,8 +330,8 @@
     "semantic_hash": "f6f8296dfab62772e42fe764da632a1f"
   },
   "sources/Source index.md": {
-    "mtime": 1793408521.828427,
-    "ast_hash": "79a816b24c097e5f9580a727724b360c",
-    "semantic_hash": "79a816b24c097e5f9580a727724b360c"
+    "mtime": 1794013345.86492,
+    "ast_hash": "09de3970ad8f07b4eecaa0a5c86f9bf6",
+    "semantic_hash": "09de3970ad8f07b4eecaa0a5c86f9bf6"
   }
 }

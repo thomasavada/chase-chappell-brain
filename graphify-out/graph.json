@@ -662,6 +662,16 @@
       "id": "note_chase_chappell_1b_funnel_strategy_2026",
       "community": 2,
       "norm_label": "chase chappell - 1b funnel strategy 2026"
+    },
+    {
+      "label": "Chase Chappell - Rise of Touchland",
+      "file_type": "document",
+      "source_file": "sources/Chase Chappell - Rise of Touchland.md",
+      "source_location": null,
+      "_origin": "extracted",
+      "id": "note_chase_chappell_rise_of_touchland",
+      "community": 2,
+      "norm_label": "chase chappell - rise of touchland"
     }
   ],
   "links": [
@@ -3667,6 +3677,72 @@
       "_origin": "extracted",
       "source": "note_chase_chappell_1b_funnel_strategy_2026",
       "target": "note_three_levels_of_purchase"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Chase Chappell - Rise of Touchland.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_brand_atlas",
+      "target": "note_chase_chappell_rise_of_touchland"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Chase Chappell - Rise of Touchland.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_chase_chappell_rise_of_touchland",
+      "target": "note_hero_mechanism"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Chase Chappell - Rise of Touchland.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_chase_chappell_rise_of_touchland",
+      "target": "note_metric_diagnosis_tree"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Chase Chappell - Rise of Touchland.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_chase_chappell_rise_of_touchland",
+      "target": "note_playbook"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Source index.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_chase_chappell_rise_of_touchland",
+      "target": "note_source_index"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Chase Chappell - Rise of Touchland.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_chase_chappell_rise_of_touchland",
+      "target": "note_tiktok_shop_army"
     }
   ]
 }
