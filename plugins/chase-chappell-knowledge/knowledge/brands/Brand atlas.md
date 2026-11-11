@@ -1,14 +1,14 @@
 ---
 title: Brand atlas
 source: "Chase Chappell YouTube Shorts"
-verified: 2026-11-07
+verified: 2026-11-11
 drift-risk: medium
 source_url: "https://www.youtube.com/@ChaseChappell/shorts"
 ---
 
 # Brand atlas
 
-259 Shorts (2025-08-21 → 2026-11-06), plus selected long-form brand studies. **Every Short:** [[Shorts catalog]]. Figures are **claimed**.
+260 Shorts (2025-08-21 → 2026-11-10), plus selected long-form brand studies. **Every Short:** [[Shorts catalog]]. Figures are **claimed**.
 
 Shorts = brand-story machine. Three levers repeat: (1) unique Meta ad volume, (2) creator army, (3) TikTok Shop as distribution. Head-to-head winner is almost always **more unique ads** — same as [[33 percent rule]].
 
@@ -52,6 +52,10 @@ Shorts = brand-story machine. Three levers repeat: (1) unique Meta ad volume, (2
 | **Jetty (from Poppi's founders)** | Chase's claimed launch target: $1M/month in under 90 days; 3,000 TikTok affiliate videos in the first 30 days | Recruit fitness, lifestyle and wellness affiliates pre-launch; amplify the top 5% of creator videos, port winners into broad-targeted Meta hook tests, lift AOV/LTV with bundles and subscribe-and-save, then turn TikTok discovery into Amazon repeat demand via variety packs and sponsored branded search | [RlbyiJ1DlXg](https://youtu.be/RlbyiJ1DlXg) |
 | **Waterdrop** | $100M/year; 20+ drink flavors (claimed) | Replace shipped bottled drinks with flavor cubes customers mix into water; use reusable bottles and accessories to lift customer value, flavors to drive repeat purchase, test demand in small kiosks before larger stores, then expand through DTC, Amazon, Walmart and Target | [WOsxDSIyb7A](https://youtu.be/WOsxDSIyb7A) |
 | **Touchland** | Kickstarter $67K; ~$45 AOV; $2M → $12M annual sales; $16M (2022) → $48M (2023) → $115M (2024); acquisition valued up to $880M; all claimed | Turn sanitizer into premium beauty through non-sticky spray, scents, gifting and collectibility; use premium retailers to change the comparison set, then pair 4,000+ locations with a claimed 13,500-creator TikTok affiliate army and 46,000+ shoppable videos | [WJlRsWyv5cs](https://youtu.be/WJlRsWyv5cs) |
+| **LMNT** | $45 single box; claimed unit price falls from $1.50 to $1.13 in the 120-stick bundle | Combine a quantity break with subscribe-and-save so one offer lifts upfront AOV and recurring LTV | [dASspBVqPeM](https://youtu.be/dASspBVqPeM) |
+| **Ridge** | No economics stated | Turn a wallet visit into a kit: key case, power bank and accessories unlock progressive bundle discounts and aim to convert a one-product buyer into a three-product order | [dASspBVqPeM](https://youtu.be/dASspBVqPeM) |
+| **Lovevery** | Free gift valued up to $59 (claimed) | Reward a qualifying subscription with a high-perceived-value gift instead of discounting the core product | [dASspBVqPeM](https://youtu.be/dASspBVqPeM) |
+| **Dermalogica** | No economics stated | Stack free-gift triggers across spend thresholds, email signup and subscription orders to encourage larger carts and longer customer value | [dASspBVqPeM](https://youtu.be/dASspBVqPeM) |
 
 **TTS specialists (claimed):** Medicube $331M · The Ordinary $37M (47K aff / 87K videos) · Comfrt $75M (4 videos/creator) · Bali Body 100K invites.
 
