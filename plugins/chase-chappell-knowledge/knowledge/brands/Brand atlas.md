@@ -1,14 +1,14 @@
 ---
 title: Brand atlas
 source: "Chase Chappell YouTube Shorts"
-verified: 2026-11-11
+verified: 2026-11-12
 drift-risk: medium
 source_url: "https://www.youtube.com/@ChaseChappell/shorts"
 ---
 
 # Brand atlas
 
-260 Shorts (2025-08-21 → 2026-11-10), plus selected long-form brand studies. **Every Short:** [[Shorts catalog]]. Figures are **claimed**.
+262 Shorts (2025-08-21 → 2026-11-12), plus selected long-form brand studies. **Every Short:** [[Shorts catalog]]. Figures are **claimed**.
 
 Shorts = brand-story machine. Three levers repeat: (1) unique Meta ad volume, (2) creator army, (3) TikTok Shop as distribution. Head-to-head winner is almost always **more unique ads** — same as [[33 percent rule]].
 
@@ -56,6 +56,7 @@ Shorts = brand-story machine. Three levers repeat: (1) unique Meta ad volume, (2
 | **Ridge** | No economics stated | Turn a wallet visit into a kit: key case, power bank and accessories unlock progressive bundle discounts and aim to convert a one-product buyer into a three-product order | [dASspBVqPeM](https://youtu.be/dASspBVqPeM) |
 | **Lovevery** | Free gift valued up to $59 (claimed) | Reward a qualifying subscription with a high-perceived-value gift instead of discounting the core product | [dASspBVqPeM](https://youtu.be/dASspBVqPeM) |
 | **Dermalogica** | No economics stated | Stack free-gift triggers across spend thresholds, email signup and subscription orders to encourage larger carts and longer customer value | [dASspBVqPeM](https://youtu.be/dASspBVqPeM) |
+| **Orion Sleep** | $100M title; 270+ Meta ads (claimed) | Sell better sleep, recovery and daily performance rather than a cooling cover; pair format diversity with an Eight Sleep comparison page, then continue the same education and objection handling through a personalized landing page, financing, 30-night trial and warranty | [FVaQXhs25o8](https://youtu.be/FVaQXhs25o8) |
 
 **TTS specialists (claimed):** Medicube $331M · The Ordinary $37M (47K aff / 87K videos) · Comfrt $75M (4 videos/creator) · Bali Body 100K invites.
 
@@ -63,6 +64,7 @@ Shorts = brand-story machine. Three levers repeat: (1) unique Meta ad volume, (2
 
 | Matchup | Date | Watch | Chase's read |
 |---|---|---|---|
+| Ritual vs Gray Matter | 2026-11-11 | [Wyh71KNMdnI](https://youtu.be/Wyh71KNMdnI) | Gray Matter: 250 Meta ads vs Ritual's 100 (claimed), broader formats and a denser PDP; Ritual is further ahead on TikTok Shop at a claimed $2.3M GMV from 7,600 affiliates and 18,000 videos vs Gray Matter's $22K GMV from 300 affiliates, but both should turn creator winners into Meta ads |
 | Golden Child vs Maev | 2026-08-17 | [h220KULiZrk](https://youtu.be/h220KULiZrk) | GC 80 ads, full format stack |
 | Mars Men vs Thorne | 2026-08-03 | [A0OkbWLk_S8](https://youtu.be/A0OkbWLk_S8) | MM 1,200 ads + 50% offers |
 | Bum Energy vs Ghost | 2026-07-21 | [jFOkN8pa_Qg](https://youtu.be/jFOkN8pa_Qg) | Bum 36K TTS units |
