@@ -1,25 +1,25 @@
-# Graph Report - /Users/thomas/Projects/chase-chappell-brain/plugins/chase-chappell-knowledge/knowledge  (2026-11-07)
+# Graph Report - /Users/thomas/Projects/chase-chappell-brain/plugins/chase-chappell-knowledge/knowledge  (2026-11-14)
 
 ## Corpus Check
-- 67 files · ~18,120 words
+- 68 files · ~18,910 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 67 nodes · 279 edges · 7 communities
+- 68 nodes · 285 edges · 7 communities
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## God Nodes (most connected - your core abstractions)
-1. `playbook` - 60 edges
-2. `Source index` - 46 edges
+1. `playbook` - 61 edges
+2. `Source index` - 47 edges
 3. `33 percent rule` - 25 edges
 4. `index` - 24 edges
 5. `Metric diagnosis tree` - 18 edges
 6. `4-campaign method` - 17 edges
 7. `Email and SMS` - 16 edges
-8. `Three levels of purchase` - 15 edges
-9. `glossary` - 14 edges
-10. `Shopify CRO` - 14 edges
+8. `Three levels of purchase` - 16 edges
+9. `TikTok Shop army` - 15 edges
+10. `glossary` - 14 edges
 
 ## Communities (7 total)
 
@@ -30,7 +30,7 @@ Nodes (14): 33 percent rule, 4-campaign method, Andromeda stack, Awareness ladde
 Nodes (12): Brand atlas, Brand breakdown, Chase Chappell - 100M Offer on Shopify, Chase Chappell - 5 Levels of Brands, Chase Chappell - 5 Levels of Personal Brand, Chase Chappell - Grow Any Brand 20x Faster, Chase Chappell - Hims Hers 8 Billion Brand, Chase Chappell - Villain Marketing (+4 more)
 
 ### Community 2 - "Diagnosis + site LTV"
-Nodes (16): Break-even ROAS and AOV floor, Chase Chappell - 1B Funnel Strategy 2026, Chase Chappell - Ecommerce Offer Economics, Chase Chappell - If You Watch One Facebook Ad Video, Chase Chappell - Rise of Touchland, Chase Chappell - Shopify Conversion Rates 2026, Chase Chappell - Ultimate 2026 Black Friday Cyber Monday Guide, Chase classroom (+8 more)
+Nodes (17): Break-even ROAS and AOV floor, Chase Chappell - 1B Funnel Strategy 2026, Chase Chappell - Ecommerce Offer Economics, Chase Chappell - If You Watch One Facebook Ad Video, Chase Chappell - Rise of Bloom Nutrition, Chase Chappell - Rise of Touchland, Chase Chappell - Shopify Conversion Rates 2026, Chase Chappell - Ultimate 2026 Black Friday Cyber Monday Guide (+9 more)
 
 ### Community 3 - "AI creative stack"
 Nodes (10): AI creative stack, Chase Chappell - 10X Ecommerce UGC Creator Army, Chase Chappell - 200+ AI Tools, Chase Chappell - AI Creative Generator One Prompt, Chase Chappell - AI UGC Avatars Look and Sound Real, Chase Chappell - Claude Changed Facebook Ads Forever, Chase Chappell - Claude for Meta in 10 Minutes, Chase Chappell - Cloned 100 Winning Ads with AI (+2 more)

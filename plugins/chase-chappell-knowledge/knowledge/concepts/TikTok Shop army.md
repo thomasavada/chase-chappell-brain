@@ -1,7 +1,7 @@
 ---
 title: TikTok Shop army
 source: "Chase Chappell YouTube"
-verified: 2026-10-30
+verified: 2026-11-14
 drift-risk: medium
 related:
   - "[[Partnership Hub and Euka]]"
@@ -10,9 +10,9 @@ related:
 
 # TikTok Shop army
 
-Watch: [Bloom $17M](https://youtu.be/ijeGs0XCwso) · [$0 to $315K](https://youtu.be/fGxGIQWv-6I) · [10x UGC creator army](https://youtu.be/VI_BIMMjlHY)
+Watch: [Bloom $17M](https://youtu.be/ijeGs0XCwso) · [Bloom rise](https://youtu.be/yv4VVX49gTA) · [$0 to $315K](https://youtu.be/fGxGIQWv-6I) · [10x UGC creator army](https://youtu.be/VI_BIMMjlHY)
 
-TTS is a **distribution ecosystem**, not a sales channel. One creator video → Meta, Reels, Amazon, email, PDP. Halo ~**30%** claimed onto Amazon/Shopify/retail.
+TTS is a **distribution ecosystem**, not a sales channel. One creator video → Meta, Reels, Amazon, email, PDP. Chase's latest Bloom case study claims a **30–40%** spillover into retail and Amazon; this is not independently audited.
 
 - Listing quality throttles creator video. Fix images, title, reviews, packs first.
 - **Request rate** 0.1% is dead; ~**5%** is the gate. Test 5 outreach agents.
@@ -27,6 +27,8 @@ TTS is a **distribution ecosystem**, not a sales channel. One creator video → 
 Samples without training create volume, not winners. Attach an already-winning video and script to the sample; teach one winner on a weekly call; require creators to match the proven **hook, voiceover, scenes, structure, and length**, not merely its visual theme. Show exact-model and partial-model results, then feed the next winning variant back into the brief. The incentive is creator commission: make proven execution the easiest path to getting paid. Chase’s example figures are **claimed**, not audited. [Watch](https://youtu.be/VI_BIMMjlHY)
 
 Bloom is the retention version of the same loop: Discord + brief + winner library + weekly coaching; commission creates posts, winners become new examples, then paid Shop Ads/GMV Max distributes them. Chase claims **70K+ affiliates, 185K+ shoppable videos, nearly 40K shoppable Lives, and ~$500M/year**. [Watch](https://youtu.be/WYzHJbBLQ-c)
+
+A later Bloom case study gives a different, unreconciled snapshot: **56K+ creators and 230K+ shoppable videos**, or roughly four videos per creator. It adds the channel-economics point: Bloom kept using Shop near break-even because creator demand also moved retail and Amazon, so channel-level ROAS understated the system's role. Both snapshots and the spillover range are **claimed**. [Watch](https://youtu.be/yv4VVX49gTA)
 
 ## Decentralized sales-force loop
 

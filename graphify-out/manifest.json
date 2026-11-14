@@ -1,13 +1,13 @@
 {
   "brands/Brand atlas.md": {
-    "mtime": 1794013346.1071973,
-    "ast_hash": "005b3b7f993a92262cf3a4a7ceda97d1",
-    "semantic_hash": "005b3b7f993a92262cf3a4a7ceda97d1"
+    "mtime": 1794618128.8307662,
+    "ast_hash": "fee4e2586b9308d1925da1a518465dfa",
+    "semantic_hash": "fee4e2586b9308d1925da1a518465dfa"
   },
   "brands/Shorts catalog.md": {
-    "mtime": 1794013345.9477031,
-    "ast_hash": "33b3457bf37cd20fcccff9b8fb3b80bb",
-    "semantic_hash": "33b3457bf37cd20fcccff9b8fb3b80bb"
+    "mtime": 1794618128.6840544,
+    "ast_hash": "44aeeee19e28876ff756cace706d18dc",
+    "semantic_hash": "44aeeee19e28876ff756cace706d18dc"
   },
   "concepts/33 percent rule.md": {
     "mtime": 1793235830.7335052,
@@ -100,9 +100,9 @@
     "semantic_hash": "f89805dd1f4412e4aa6b18cf5bfe185c"
   },
   "concepts/TikTok Shop army.md": {
-    "mtime": 1793322276.734201,
-    "ast_hash": "61d3c0d1e542117bf6c4b24015989fe9",
-    "semantic_hash": "61d3c0d1e542117bf6c4b24015989fe9"
+    "mtime": 1794618128.9920926,
+    "ast_hash": "a92a813cd9c2a9213cfe80f515b62f68",
+    "semantic_hash": "a92a813cd9c2a9213cfe80f515b62f68"
   },
   "concepts/Villain marketing.md": {
     "mtime": 1787241054.7637289,
@@ -279,6 +279,11 @@
     "ast_hash": "860c1b1594e9485169b5444484ba6037",
     "semantic_hash": "860c1b1594e9485169b5444484ba6037"
   },
+  "sources/Chase Chappell - Rise of Bloom Nutrition.md": {
+    "mtime": 1794618128.415682,
+    "ast_hash": "f9ba6c19f92658e35ed7807b10411774",
+    "semantic_hash": "f9ba6c19f92658e35ed7807b10411774"
+  },
   "sources/Chase Chappell - Rise of Touchland.md": {
     "mtime": 1794013345.7344704,
     "ast_hash": "c9ee0e346d7e2fab690b127910b73600",
@@ -330,8 +335,8 @@
     "semantic_hash": "f6f8296dfab62772e42fe764da632a1f"
   },
   "sources/Source index.md": {
-    "mtime": 1794013345.86492,
-    "ast_hash": "09de3970ad8f07b4eecaa0a5c86f9bf6",
-    "semantic_hash": "09de3970ad8f07b4eecaa0a5c86f9bf6"
+    "mtime": 1794618128.5641747,
+    "ast_hash": "b99e79e2a43b75b5c8ec8c4b29e96d36",
+    "semantic_hash": "b99e79e2a43b75b5c8ec8c4b29e96d36"
   }
 }

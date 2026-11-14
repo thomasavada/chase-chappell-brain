@@ -1,14 +1,14 @@
 ---
 title: Brand atlas
 source: "Chase Chappell YouTube Shorts"
-verified: 2026-11-12
+verified: 2026-11-14
 drift-risk: medium
 source_url: "https://www.youtube.com/@ChaseChappell/shorts"
 ---
 
 # Brand atlas
 
-262 Shorts (2025-08-21 → 2026-11-12), plus selected long-form brand studies. **Every Short:** [[Shorts catalog]]. Figures are **claimed**.
+263 Shorts (2025-08-21 → 2026-11-13), plus selected long-form brand studies. **Every Short:** [[Shorts catalog]]. Figures are **claimed**.
 
 Shorts = brand-story machine. Three levers repeat: (1) unique Meta ad volume, (2) creator army, (3) TikTok Shop as distribution. Head-to-head winner is almost always **more unique ads** — same as [[33 percent rule]].
 
@@ -29,7 +29,7 @@ Shorts = brand-story machine. Three levers repeat: (1) unique Meta ad volume, (2
 | **Cymbiotika** | 790 ads | Every format | [a5H5iR-d2hw](https://youtu.be/a5H5iR-d2hw) |
 | **Carpe** | $1B trajectory | Problem-solution in first seconds | [Wq7uFzWPJAs](https://youtu.be/Wq7uFzWPJAs) |
 | **True Classic** | $300M/yr; 640 ads | Quiet volume | [feAMDn12afY](https://youtu.be/feAMDn12afY) |
-| **Bloom** | $500M/year; 70K+ affiliates; 185K+ shoppable videos; nearly 40K shoppable Lives | Creator retention OS: Discord briefs, winner examples, weekly calls, commission, then GMV Max/paid distribution | [WYzHJbBLQ-c](https://youtu.be/WYzHJbBLQ-c) |
+| **Bloom** | $500M/year; 70K+ affiliates; 185K+ shoppable videos; nearly 40K shoppable Lives in one snapshot; a later video separately claims $1B+ valuation, 1M energy cans/day, 56K+ creators and 230K+ shoppable videos | Creator retention OS feeds selling videos back into coaching; Amazon ranking proved demand to retail; Target visibility converted awareness; strategic capital added beverage manufacturing and Keurig Dr Pepper distribution | [army](https://youtu.be/WYzHJbBLQ-c) · [rise](https://youtu.be/yv4VVX49gTA) |
 | **Cecred** | $200M+/yr | Shopify AOV ladder | [R-KKqdQ-39g](https://youtu.be/R-KKqdQ-39g) |
 | **AG1** | $600M title | Authority collab; 370 ads vs Grüns 630 | [nhjvorVDA5s](https://youtu.be/nhjvorVDA5s) |
 | **IM8** | 820 ads | Protocol + sub-first | [7c961lTmTEw](https://youtu.be/7c961lTmTEw) |

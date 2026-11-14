@@ -672,6 +672,16 @@
       "id": "note_chase_chappell_rise_of_touchland",
       "community": 2,
       "norm_label": "chase chappell - rise of touchland"
+    },
+    {
+      "label": "Chase Chappell - Rise of Bloom Nutrition",
+      "file_type": "document",
+      "source_file": "sources/Chase Chappell - Rise of Bloom Nutrition.md",
+      "source_location": null,
+      "_origin": "extracted",
+      "id": "note_chase_chappell_rise_of_bloom_nutrition",
+      "community": 2,
+      "norm_label": "chase chappell - rise of bloom nutrition"
     }
   ],
   "links": [
@@ -3742,6 +3752,72 @@
       "weight": 1.0,
       "_origin": "extracted",
       "source": "note_chase_chappell_rise_of_touchland",
+      "target": "note_tiktok_shop_army"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Chase Chappell - Rise of Bloom Nutrition.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_brand_atlas",
+      "target": "note_chase_chappell_rise_of_bloom_nutrition"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Chase Chappell - Rise of Bloom Nutrition.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_chase_chappell_rise_of_bloom_nutrition",
+      "target": "note_hero_mechanism"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Chase Chappell - Rise of Bloom Nutrition.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_chase_chappell_rise_of_bloom_nutrition",
+      "target": "note_playbook"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Source index.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_chase_chappell_rise_of_bloom_nutrition",
+      "target": "note_source_index"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Chase Chappell - Rise of Bloom Nutrition.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_chase_chappell_rise_of_bloom_nutrition",
+      "target": "note_three_levels_of_purchase"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Chase Chappell - Rise of Bloom Nutrition.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_chase_chappell_rise_of_bloom_nutrition",
       "target": "note_tiktok_shop_army"
     }
   ]

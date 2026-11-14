@@ -1,15 +1,16 @@
 ---
 title: Source index
 source: "Chase Chappell YouTube"
-verified: 2026-11-07
+verified: 2026-11-14
 ---
 
 # Source index
 
-41 long-form cards. Click **Watch**. Doctrine lives in `../concepts/`.
+42 long-form cards. Click **Watch**. Doctrine lives in `../concepts/`.
 
 | Date | Note | Watch | Thesis |
 |---|---|---|---|
+| 2026-11-13 | [[Chase Chappell - Rise of Bloom Nutrition]] | [yv4VVX49gTA](https://youtu.be/yv4VVX49gTA) | Exchange each locally successful asset for the next distribution unlock: audience, broader positioning, public marketplace proof, retail and beverage infrastructure. |
 | 2026-11-06 | [[Chase Chappell - Rise of Touchland]] | [WJlRsWyv5cs](https://youtu.be/WJlRsWyv5cs) | Premiumize a commodity through observed pain, gifting and collectibility; let premium retail and a creator army compound awareness with availability. |
 | 2026-10-30 | [[Chase Chappell - 1B Funnel Strategy 2026]] | [cdoh-DON5jA](https://youtu.be/cdoh-DON5jA) | Turn the site into a confidence system: earned capture, subscription economics, personalized matching and an objection-clearing trigger stack. |
 | 2026-10-23 | [[Chase Chappell - Ultimate 2026 Black Friday Cyber Monday Guide]] | [qAPtMocHz5M](https://youtu.be/qAPtMocHz5M) | Run an October-to-December offer ladder: test → VIP → main sale → hero deal → gifting. |
