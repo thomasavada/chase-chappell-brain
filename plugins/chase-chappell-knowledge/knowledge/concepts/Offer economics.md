@@ -1,7 +1,7 @@
 ---
 title: Offer economics
 source: "Chase Chappell YouTube"
-verified: 2026-10-29
+verified: 2026-11-17
 drift-risk: medium
 related:
   - "[[Break-even ROAS and AOV floor]]"
@@ -32,6 +32,10 @@ Model the chain before launching: **offer → CVR/AOV/LTV → CAC ceiling → co
 2. Use multipacks and volume thresholds when the brand needs profitable first-order scale.
 3. Use subscription/prepaid offers only after cohort retention, contribution margin, and payback period are known.
 4. Avoid naked hero-SKU discounts, free shipping on uneconomic low-AOV orders, and BOGO unless unit economics support them.
+
+### Refund upsell: bridge single-unit intent into prepaid supply
+
+Immediately after checkout, offer to replace the single-unit order with a larger prepaid bundle and credit the original payment in full. Chase's example is a **claimed** $40 one-month supplement order upgraded to a $100 three-month supply for only $60 more; the upgraded order's AOV is therefore **claimed** to rise 150%. The customer preserves money already committed, receives a lower unit price, and the brand raises first-order revenue without another acquisition charge. For subscriptions, use the prepaid period before recurring deliveries, disclose the credit and savings plainly, and validate margin, refund handling, renewal consent and retention rather than treating the arithmetic as audited lift. [Watch](https://youtu.be/FzUgmQE2QRQ)
 
 ## Capture offer
 
