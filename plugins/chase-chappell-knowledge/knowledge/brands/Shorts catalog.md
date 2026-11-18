@@ -1,8 +1,8 @@
 ---
 type: index
-title: "Chase Chappell — Shorts Catalog (264)"
+title: "Chase Chappell — Shorts Catalog (265)"
 created: 2026-08-20
-updated: 2026-11-16
+updated: 2026-11-18
 tags:
   - marketing
   - ecommerce
@@ -16,12 +16,13 @@ related:
 
 # Chase Chappell — Shorts Catalog
 
-**264 YouTube Shorts** ([channel](https://www.youtube.com/@ChaseChappell/shorts), 2025-08-21 → 2026-11-16). Click **Watch** to open the actual clip.
+**265 YouTube Shorts** ([channel](https://www.youtube.com/@ChaseChappell/shorts), 2025-08-21 → 2026-11-17). Click **Watch** to open the actual clip.
 
 Brand stories / theses: [[Brand atlas]]. Long-form: [[Source index]].
 
 | Date | Title | Views | Watch |
 |---|---|---:|---|
+| 2026-11-17 | How big brands are using AI to create 10x more ads that don’t look like AI slop 🤯 | 854 | [bWSwf_WRp3Q](https://youtu.be/bWSwf_WRp3Q) |
 | 2026-11-16 | If you run a subscription offer, you need to test this refund upsell to scale 😱 | 836 | [FzUgmQE2QRQ](https://youtu.be/FzUgmQE2QRQ) |
 | 2026-11-13 | How to build a creator army… the right way 😱 | 367 | [F6qiOX7Km8M](https://youtu.be/F6qiOX7Km8M) |
 | 2026-11-12 | Orion Sleep’s $100M Brand Playbook 😴 | 400 | [FVaQXhs25o8](https://youtu.be/FVaQXhs25o8) |

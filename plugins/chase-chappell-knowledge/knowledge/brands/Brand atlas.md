@@ -1,14 +1,14 @@
 ---
 title: Brand atlas
 source: "Chase Chappell YouTube Shorts"
-verified: 2026-11-17
+verified: 2026-11-18
 drift-risk: medium
 source_url: "https://www.youtube.com/@ChaseChappell/shorts"
 ---
 
 # Brand atlas
 
-264 Shorts (2025-08-21 → 2026-11-16), plus selected long-form brand studies. **Every Short:** [[Shorts catalog]]. Figures are **claimed**.
+265 Shorts (2025-08-21 → 2026-11-17), plus selected long-form brand studies. **Every Short:** [[Shorts catalog]]. Figures are **claimed**.
 
 Shorts = brand-story machine. Three levers repeat: (1) unique Meta ad volume, (2) creator army, (3) TikTok Shop as distribution. Head-to-head winner is almost always **more unique ads** — same as [[33 percent rule]].
 
@@ -57,6 +57,8 @@ Shorts = brand-story machine. Three levers repeat: (1) unique Meta ad volume, (2
 | **Lovevery** | Free gift valued up to $59 (claimed) | Reward a qualifying subscription with a high-perceived-value gift instead of discounting the core product | [dASspBVqPeM](https://youtu.be/dASspBVqPeM) |
 | **Dermalogica** | No economics stated | Stack free-gift triggers across spend thresholds, email signup and subscription orders to encourage larger carts and longer customer value | [dASspBVqPeM](https://youtu.be/dASspBVqPeM) |
 | **Orion Sleep** | $100M title; 270+ Meta ads (claimed) | Sell better sleep, recovery and daily performance rather than a cooling cover; pair format diversity with an Eight Sleep comparison page, then continue the same education and objection handling through a personalized landing page, financing, 30-night trial and warranty | [FVaQXhs25o8](https://youtu.be/FVaQXhs25o8) |
+| **H&M** | No economics stated; claimed use of AI digital twins of real models | Reuse existing talent across new campaign environments instead of reshooting every concept; preserve the real model and brand identity while varying the scene | [bWSwf_WRp3Q](https://youtu.be/bWSwf_WRp3Q) |
+| **L’Oréal** | Claimed thousands of brand images and videos from its own AI content platform | Generate product visuals, animate static assets and adapt content across channels while keeping the product and brand system consistent | [bWSwf_WRp3Q](https://youtu.be/bWSwf_WRp3Q) |
 
 **TTS specialists (claimed):** Medicube $331M · The Ordinary $37M (47K aff / 87K videos) · Comfrt $75M (4 videos/creator) · Bali Body 100K invites.
 
