@@ -1,6 +1,6 @@
 ---
 source: "Chase Chappell YouTube"
-verified: 2026-10-29
+verified: 2026-11-19
 drift-risk: medium
 title: 33 percent rule
 related:
@@ -28,6 +28,10 @@ Andromeda sequences who sees which stage. Do **not** split TOF/MOF/BOF into sepa
 Keep the “ugly” 2x unaware ad. It is doing a funnel job. [[Awareness ladder]]
 
 Unique = 100% different format (review vs features vs founder vs problem/solution), same brand colors/fonts.
+
+## Copy structure is a test variable
+
+Do not call five lightly reworded versions of one message five copy tests. Chase recommends testing materially different **structures, customer problems, benefits and offers**, then making 10 more variations of the structure that converts best (recommendation, not an audited performance claim). His five starting structures are: problem–agitate–solution; hook–benefit–proof–offer; before–after–bridge; founder story tied to the offer; and direct product–discount–savings–CTA copy. [Watch](https://youtu.be/Pt3ldAQLC18)
 
 ## Static library before launch (claimed, [13h](https://youtu.be/8AAIf5PWJik))
 
