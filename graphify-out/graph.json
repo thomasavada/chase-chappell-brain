@@ -682,6 +682,16 @@
       "id": "note_chase_chappell_rise_of_bloom_nutrition",
       "community": 2,
       "norm_label": "chase chappell - rise of bloom nutrition"
+    },
+    {
+      "label": "Chase Chappell - Andromeda 2.0",
+      "file_type": "document",
+      "source_file": "sources/Chase Chappell - Andromeda 2.0.md",
+      "source_location": null,
+      "_origin": "extracted",
+      "id": "note_chase_chappell_andromeda_2_0",
+      "community": 0,
+      "norm_label": "chase chappell - andromeda 2.0"
     }
   ],
   "links": [
@@ -3819,6 +3829,72 @@
       "_origin": "extracted",
       "source": "note_chase_chappell_rise_of_bloom_nutrition",
       "target": "note_tiktok_shop_army"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Chase Chappell - Andromeda 2.0.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_33_percent_rule",
+      "target": "note_chase_chappell_andromeda_2_0"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Chase Chappell - Andromeda 2.0.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_ai_creative_stack",
+      "target": "note_chase_chappell_andromeda_2_0"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Chase Chappell - Andromeda 2.0.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_andromeda_stack",
+      "target": "note_chase_chappell_andromeda_2_0"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Chase Chappell - Andromeda 2.0.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_awareness_ladder",
+      "target": "note_chase_chappell_andromeda_2_0"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Chase Chappell - Andromeda 2.0.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_chase_chappell_andromeda_2_0",
+      "target": "note_playbook"
+    },
+    {
+      "relation": "wikilink",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sources/Source index.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "extracted",
+      "source": "note_chase_chappell_andromeda_2_0",
+      "target": "note_source_index"
     }
   ]
 }

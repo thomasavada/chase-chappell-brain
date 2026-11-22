@@ -1,18 +1,18 @@
-# Graph Report - /Users/thomas/Projects/chase-chappell-brain/plugins/chase-chappell-knowledge/knowledge  (2026-11-14)
+# Graph Report - /Users/thomas/Projects/chase-chappell-brain/plugins/chase-chappell-knowledge/knowledge  (2026-11-22)
 
 ## Corpus Check
-- 68 files · ~18,910 words
+- 69 files · ~19,889 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 68 nodes · 285 edges · 7 communities
+- 69 nodes · 291 edges · 7 communities
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## God Nodes (most connected - your core abstractions)
-1. `playbook` - 61 edges
-2. `Source index` - 47 edges
-3. `33 percent rule` - 25 edges
+1. `playbook` - 62 edges
+2. `Source index` - 48 edges
+3. `33 percent rule` - 26 edges
 4. `index` - 24 edges
 5. `Metric diagnosis tree` - 18 edges
 6. `4-campaign method` - 17 edges
@@ -24,7 +24,7 @@
 ## Communities (7 total)
 
 ### Community 0 - "Andromeda + 4-campaign"
-Nodes (14): 33 percent rule, 4-campaign method, Andromeda stack, Awareness ladder, CAPI matchback, Chase Chappell - 1460 Meta Ad Creatives Study, Chase Chappell - Ad Formats to 10X Your Brand, Chase Chappell - Andromeda Everything Just Changed (+6 more)
+Nodes (15): 33 percent rule, 4-campaign method, Andromeda stack, Awareness ladder, CAPI matchback, Chase Chappell - 1460 Meta Ad Creatives Study, Chase Chappell - Ad Formats to 10X Your Brand, Chase Chappell - Andromeda 2.0 (+7 more)
 
 ### Community 1 - "Positioning + offer"
 Nodes (12): Brand atlas, Brand breakdown, Chase Chappell - 100M Offer on Shopify, Chase Chappell - 5 Levels of Brands, Chase Chappell - 5 Levels of Personal Brand, Chase Chappell - Grow Any Brand 20x Faster, Chase Chappell - Hims Hers 8 Billion Brand, Chase Chappell - Villain Marketing (+4 more)

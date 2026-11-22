@@ -1,15 +1,16 @@
 ---
 title: Source index
 source: "Chase Chappell YouTube"
-verified: 2026-11-14
+verified: 2026-11-22
 ---
 
 # Source index
 
-42 long-form cards. Click **Watch**. Doctrine lives in `../concepts/`.
+43 long-form cards. Click **Watch**. Doctrine lives in `../concepts/`.
 
 | Date | Note | Watch | Thesis |
 |---|---|---|---|
+| 2026-11-21 | [[Chase Chappell - Andromeda 2.0]] | [pz2OpRD6X8c](https://www.youtube.com/watch?v=pz2OpRD6X8c) | Shift from format diversity alone to motivation diversity; separate creative delivery from performance, then scale proven ads and retest under-delivered concepts. |
 | 2026-11-13 | [[Chase Chappell - Rise of Bloom Nutrition]] | [yv4VVX49gTA](https://youtu.be/yv4VVX49gTA) | Exchange each locally successful asset for the next distribution unlock: audience, broader positioning, public marketplace proof, retail and beverage infrastructure. |
 | 2026-11-06 | [[Chase Chappell - Rise of Touchland]] | [WJlRsWyv5cs](https://youtu.be/WJlRsWyv5cs) | Premiumize a commodity through observed pain, gifting and collectibility; let premium retail and a creator army compound awareness with availability. |
 | 2026-10-30 | [[Chase Chappell - 1B Funnel Strategy 2026]] | [cdoh-DON5jA](https://youtu.be/cdoh-DON5jA) | Turn the site into a confidence system: earned capture, subscription economics, personalized matching and an objection-clearing trigger stack. |
