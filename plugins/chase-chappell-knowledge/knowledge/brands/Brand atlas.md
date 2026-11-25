@@ -1,14 +1,14 @@
 ---
 title: Brand atlas
 source: "Chase Chappell YouTube Shorts"
-verified: 2026-11-18
+verified: 2026-11-24
 drift-risk: medium
 source_url: "https://www.youtube.com/@ChaseChappell/shorts"
 ---
 
 # Brand atlas
 
-265 Shorts (2025-08-21 → 2026-11-17), plus selected long-form brand studies. **Every Short:** [[Shorts catalog]]. Figures are **claimed**.
+267 Shorts (2025-08-21 → 2026-11-24), plus selected long-form brand studies. **Every Short:** [[Shorts catalog]]. Figures are **claimed**.
 
 Shorts = brand-story machine. Three levers repeat: (1) unique Meta ad volume, (2) creator army, (3) TikTok Shop as distribution. Head-to-head winner is almost always **more unique ads** — same as [[33 percent rule]].
 
