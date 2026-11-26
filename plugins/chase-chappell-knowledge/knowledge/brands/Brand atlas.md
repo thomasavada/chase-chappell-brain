@@ -1,14 +1,14 @@
 ---
 title: Brand atlas
 source: "Chase Chappell YouTube Shorts"
-verified: 2026-11-24
+verified: 2026-11-26
 drift-risk: medium
 source_url: "https://www.youtube.com/@ChaseChappell/shorts"
 ---
 
 # Brand atlas
 
-267 Shorts (2025-08-21 → 2026-11-24), plus selected long-form brand studies. **Every Short:** [[Shorts catalog]]. Figures are **claimed**.
+268 Shorts (2025-08-21 → 2026-11-25), plus selected long-form brand studies. **Every Short:** [[Shorts catalog]]. Figures are **claimed**.
 
 Shorts = brand-story machine. Three levers repeat: (1) unique Meta ad volume, (2) creator army, (3) TikTok Shop as distribution. Head-to-head winner is almost always **more unique ads** — same as [[33 percent rule]].
 
@@ -59,6 +59,10 @@ Shorts = brand-story machine. Three levers repeat: (1) unique Meta ad volume, (2
 | **Orion Sleep** | $100M title; 270+ Meta ads (claimed) | Sell better sleep, recovery and daily performance rather than a cooling cover; pair format diversity with an Eight Sleep comparison page, then continue the same education and objection handling through a personalized landing page, financing, 30-night trial and warranty | [FVaQXhs25o8](https://youtu.be/FVaQXhs25o8) |
 | **H&M** | No economics stated; claimed use of AI digital twins of real models | Reuse existing talent across new campaign environments instead of reshooting every concept; preserve the real model and brand identity while varying the scene | [bWSwf_WRp3Q](https://youtu.be/bWSwf_WRp3Q) |
 | **L’Oréal** | Claimed thousands of brand images and videos from its own AI content platform | Generate product visuals, animate static assets and adapt content across channels while keeping the product and brand system consistent | [bWSwf_WRp3Q](https://youtu.be/bWSwf_WRp3Q) |
+| **Pepsi** | No economics stated | At F1 Las Vegas, pair exclusive drinks with local-restaurant collaborations and live DJs; Chase's broader mechanism is to borrow attention from a cultural event, then extend the pop-up through attendee content across organic, creator and paid channels | [RvQ1-liEIjk](https://youtu.be/RvQ1-liEIjk) |
+| **Gatorade** | No economics stated | Turn sampling into participation with reaction-speed challenges and leaderboards, making attendees customers, creators and distribution channels; all outcomes are Chase's claimed strategic interpretation | [RvQ1-liEIjk](https://youtu.be/RvQ1-liEIjk) |
+| **Hello Kitty × F1 Academy** | No economics stated | Use exclusive merchandise, a custom race car and photo moments to attach the brand to existing race attention and generate reusable attendee content; mechanism claimed by Chase | [RvQ1-liEIjk](https://youtu.be/RvQ1-liEIjk) |
+| **Wella** | No economics stated | A beauty pit stop combined hairstyling, free products and content creation so an event activation could produce assets and awareness beyond its three-day run; mechanism claimed by Chase | [RvQ1-liEIjk](https://youtu.be/RvQ1-liEIjk) |
 
 **TTS specialists (claimed):** Medicube $331M · The Ordinary $37M (47K aff / 87K videos) · Comfrt $75M (4 videos/creator) · Bali Body 100K invites.
 
