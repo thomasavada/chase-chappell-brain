@@ -1,8 +1,8 @@
 ---
 type: index
-title: "Chase Chappell — Shorts Catalog (268)"
+title: "Chase Chappell — Shorts Catalog (269)"
 created: 2026-08-20
-updated: 2026-11-26
+updated: 2026-11-27
 tags:
   - marketing
   - ecommerce
@@ -16,12 +16,13 @@ related:
 
 # Chase Chappell — Shorts Catalog
 
-**268 YouTube Shorts** ([channel](https://www.youtube.com/@ChaseChappell/shorts), 2025-08-21 → 2026-11-25). Click **Watch** to open the actual clip.
+**269 YouTube Shorts** ([channel](https://www.youtube.com/@ChaseChappell/shorts), 2025-08-21 → 2026-11-27). Click **Watch** to open the actual clip.
 
 Brand stories / theses: [[Brand atlas]]. Long-form: [[Source index]].
 
 | Date | Title | Views | Watch |
 |---|---|---:|---|
+| 2026-11-27 | How to Scale Meta Ads with a $1M/Month Budget 🤑 | 1,273 | [_LZ0YrvWBh4](https://youtu.be/_LZ0YrvWBh4) |
 | 2026-11-25 | These brands put on a 10/10 pop-up marketing masterclass at F1 Las Vegas 🏎️ | 513 | [RvQ1-liEIjk](https://youtu.be/RvQ1-liEIjk) |
 | 2026-11-24 | Meta’s NEW Algorithm is Here 😱 | 236 | [PAABgqEP0Ks](https://youtu.be/PAABgqEP0Ks) |
 | 2026-11-18 | 5 Winning Meta Ad Copy Structures that Convert like Crazy 🤩 | 464 | [Pt3ldAQLC18](https://youtu.be/Pt3ldAQLC18) |
